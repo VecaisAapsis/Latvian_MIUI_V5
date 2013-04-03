@@ -327,9 +327,9 @@
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Pattern incorrect! Try again</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-  <string name="lockscreen_transport_next_description">Next track</string>
-  <string name="lockscreen_transport_play_description">Play button</string>
-  <string name="lockscreen_transport_prev_description">Previous track</string>
+  <string name="lockscreen_transport_next_description">Nākamā dziesma</string>
+  <string name="lockscreen_transport_play_description">PLAY poga</string>
+  <string name="lockscreen_transport_prev_description">Iepriekšējā dziesma</string>
   <string name="lockscreen_unlock_sim_via_puk">Enter PUK code to unlock SIM card</string>
   <string name="lunar_ba">
   </string>
@@ -379,21 +379,21 @@
   </string>
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
-  <string name="miui_copyright_title">Copyright</string>
+  <string name="miui_copyright_title">Autortiesības</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
-  <string name="miui_privacy_policy_title">Privacy policy</string>
+  <string name="miui_privacy_policy_title">Privātuma politika</string>
   <string name="miui_unlockscreen_password_wrong">Incorrect password! Try again</string>
-  <string name="miui_user_agreement_title">User agreement</string>
-  <string name="miui_user_manual_title">User manual</string>
+  <string name="miui_user_agreement_title">Lietotāja līgums</string>
+  <string name="miui_user_manual_title">Lietošanas pamācība</string>
   <string name="month_of_april">Apr</string>
   <string name="month_of_august">Aug</string>
   <string name="month_of_december">Dec</string>
   <string name="month_of_february">Feb</string>
   <string name="month_of_january">Jan</string>
-  <string name="month_of_july">Jul</string>
-  <string name="month_of_june">Jun</string>
+  <string name="month_of_july">Jūl</string>
+  <string name="month_of_june">Jūn</string>
   <string name="month_of_march">Mar</string>
-  <string name="month_of_may">May</string>
+  <string name="month_of_may">Mai</string>
   <string name="month_of_november">Nov</string>
   <string name="month_of_october">Oct</string>
   <string name="month_of_september">Sep</string>
@@ -409,9 +409,9 @@
   </string>
   <string name="payphone">Taksofons</string>
   <string name="peace_day">Peace Day</string>
-  <string name="perm_auto_backup">Automatic backup</string>
+  <string name="perm_auto_backup">Automātiska dublēšana</string>
   <string name="perm_payment_dspt">Allowed to update data watermark</string>
-  <string name="perm_payment_lab">Data update</string>
+  <string name="perm_payment_lab">Datu atjaunināšana</string>
   <string name="perm_send_push_dspt">Allow app to pay through Xiaomi payment service</string>
   <string name="perm_send_push_lab">Xiaomi payment service</string>
   <string name="perm_tigger_toggle_dspt">Allow push messages to Xiaomi</string>
@@ -455,7 +455,7 @@
   </string>
   <string name="spring_begins">
   </string>
-  <string name="stopping_the_heat">Speaker</string>
+  <string name="stopping_the_heat">Skaļrunis</string>
   <string name="summer_begins">
   </string>
   <string name="summer_solstice">
@@ -467,7 +467,7 @@
   <string name="text_pastelist">Touch to sync (%1$s)</string>
   <string name="the_armys_day">
   </string>
-  <string name="the_double_ninth_festival">Clipboard</string>
+  <string name="the_double_ninth_festival">Starpliktuve</string>
   <string name="the_dragon_boat_festival">
   </string>
   <string name="the_laba_rice_porridge_festival">
@@ -482,14 +482,14 @@
   </string>
   <string name="tomorrow">
   </string>
-  <string name="unknown">Today</string>
-  <string name="unknown_caller">Tomorrow</string>
-  <string name="unlock_string">Unknown number</string>
-  <string name="unlocking_sim_card">Unknown caller</string>
-  <string name="unlockscreen_low_battery">OK</string>
+  <string name="unknown">Šodien</string>
+  <string name="unknown_caller">Rīt</string>
+  <string name="unlock_string">Nezināms numurs</string>
+  <string name="unlocking_sim_card">Nezināms zvanītājs</string>
+  <string name="unlockscreen_low_battery">Labi</string>
   <string name="unlockscreen_recharge_completed">Unlocking SIM card</string>
-  <string name="unlockscreen_recharging_message">Connect your charger</string>
-  <string name="user_agreement1">Charged</string>
+  <string name="unlockscreen_recharging_message">Pievienojiet savu lādētāju</string>
+  <string name="user_agreement1">Uzlāde pabeigta</string>
   <string name="user_agreement2">Charging %d%%</string>
   <string name="user_agreement3">You will use the system and online services provided by Xiaomi, please read</string>
   <string name="user_agreement4">" User agreement"</string>
@@ -502,10 +502,10 @@
   </string>
   <string name="v5_edit_mode_title_empty">
   </string>
-  <string name="v5_icon_menu_bar_more_item_label">Deselect all</string>
-  <string name="v5_select_all">Check Items</string>
-  <string name="v5_time_picker_label_hour">More</string>
-  <string name="v5_time_picker_label_minute">Select all</string>
+  <string name="v5_icon_menu_bar_more_item_label">Atceltu visu</string>
+  <string name="v5_select_all">Iezīmēt objektus</string>
+  <string name="v5_time_picker_label_hour">Vairāk</string>
+  <string name="v5_time_picker_label_minute">Atlasīt visu</string>
   <string name="valentines_day">
   </string>
   <string name="vernal_equinox">
@@ -514,12 +514,12 @@
   </string>
   <string name="volume_icon_description_bluetooth">
   </string>
-  <string name="volume_icon_description_incall">Alarm</string>
+  <string name="volume_icon_description_incall">Modinātājs</string>
   <string name="volume_icon_description_media">Bluetooth</string>
-  <string name="volume_icon_description_notification">Call</string>
+  <string name="volume_icon_description_notification">Zvans</string>
   <string name="volume_icon_description_ringer">Media</string>
-  <string name="wake_alarm_message">Notification</string>
-  <string name="white_dews">Ringtone</string>
+  <string name="wake_alarm_message">Paziņojumi</string>
+  <string name="white_dews">Melodija</string>
   <string name="winter_begins">Pause alarm. Remind in %s </string>
   <string name="winter_solstice">
   </string>

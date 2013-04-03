@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="MIUI_startpage">Sākuma lapa</string>
   <string name="accessibility_button_addbookmark">Saglabāt lapu kā grāmatzīmi</string>
   <string name="accessibility_button_back">Atgriezties</string>
-  <string name="accessibility_button_bookmark">Bookmark</string>
+  <string name="accessibility_button_bookmark">Grāmatzīme</string>
   <string name="accessibility_button_bookmarks">Grāmatzīmes</string>
   <string name="accessibility_button_clear">Notīrīt ievadi</string>
   <string name="accessibility_button_closetab">Aizvērt cilni</string>
@@ -17,7 +17,7 @@
   <string name="accessibility_button_newtab">Atvērt jaunu cilni</string>
   <string name="accessibility_button_refresh">Atsvaidzināt lapu</string>
   <string name="accessibility_button_search">Meklēt</string>
-  <string name="accessibility_button_smaller">Smaller</string>
+  <string name="accessibility_button_smaller">Mazāks</string>
   <string name="accessibility_button_stop">Pārtraukt lapas ielādi</string>
   <string name="accessibility_button_tabs">Cilnes</string>
   <string name="accessibility_button_uaswitch">Mainīt lietotāja aģentu</string>
@@ -28,7 +28,7 @@
   <string name="account">Konts</string>
   <string name="account_chooser_dialog_title">Konta izvēle</string>
   <string name="action">Pierakstīties</string>
-  <string name="add_bookmark">Add bookmark</string>
+  <string name="add_bookmark">Pievienot grāmatzīmi</string>
   <string name="add_bookmark_short">Pievienot</string>
   <string name="add_folder">Pievienot mapi</string>
   <string name="add_new_bookmark">Pievienot grāmatzīmi</string>
@@ -58,7 +58,7 @@
   <string name="autofill_profile_successful_delete">Automātiskās aizpildes teksts ir izdzēsts.</string>
   <string name="autofill_profile_successful_save">Automātiskās aizpildes teksts saglabāts.</string>
   <string name="autofill_setup_dialog_message">Pārlūkprogrammā var tikt automātiski aizpildītas šādas tīmekļa veidlapas. Vai vēlaties iestatīt automātiskās aizpildes tekstu?</string>
-  <string name="autofill_setup_dialog_negative_toast">"Jebkurā laikā varat iestatīt automātiskās aizpildes tekstu, atverot šādus ekrānus:  Pārlūkprogramma > Iestatījumi > Vispārīgi."</string>
+  <string name="autofill_setup_dialog_negative_toast">"Jebkurā laikā varat iestatīt automātiskās aizpildes tekstu, atverot šādus ekrānus:  Pārlūkprogramma &gt; Iestatījumi &gt; Vispārīgi."</string>
   <string name="autologin_bar_error">Nevarēja pierakstīties.</string>
   <string name="autologin_bar_hide_text">Paslēpt</string>
   <string name="autologin_bar_login_text">Pierakst.</string>
@@ -77,16 +77,17 @@
   <string name="bookmark_this_page_to_readmodelist">Add this page to Reading List bookmark</string>
   <string name="bookmark_thumbnail_view">Sīktēli</string>
   <string name="bookmark_title">Label</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
-  <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
-  <string name="bookmark_url">Url</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Nevar saglabāt lasāma saraksta grāmatzīmi."</string>
+  <string name="bookmark_to_readmodelist_saved">Saglabāts kā lasāmā saraksta grāmatzīmes.</string>
+  <string name="bookmark_url">URL</string>
   <string name="bookmark_url_not_valid">Šis vietrādis URL nav derīgs.</string>
   <string name="bookmarks">Grāmatzīmes</string>
-  <string name="bookmarks_management">Bookmarks</string>
-  <string name="bookmarks_root_folder">Root folder</string>
+  <string name="bookmarks_management">Grāmatzīmes</string>
+  <string name="bookmarks_root_folder">Saknes mape</string>
   <string name="bookmarks_search">Pārlūkprogramma</string>
   <string name="browserFrameFileErrorLabel">Problēma ar failu</string>
-  <string name="browserFrameFormResubmitLabel"/>
+  <string name="browserFrameFormResubmitLabel">
+  </string>
   <string name="browserFrameFormResubmitMessage">Lapā, kuru mēģināt skatīt, ir ietverti jau iesniegti dati (“POSTDATA”). Ja sūtīsiet datus vēlreiz, tiks atkārtota arī katra darbība, ko lapā veica veidlapa (piemēram, meklēšana vai pirkums tiešsaistē).</string>
   <string name="browserFrameNetworkErrorLabel">Problēma saistībā ar savienojumu</string>
   <string name="browser_bookmarks_page_bookmarks_text">Grāmatzīmes</string>
@@ -116,14 +117,14 @@
   <string name="contextmenu_sharelink">Kopīgot saiti</string>
   <string name="contextmenu_view_image">Skatīt attēlu</string>
   <string name="copy_page_url">Kopēt lapas URL</string>
-  <string name="crash_recovcery_message">Browser exited abnormally. Do you want to recover last browser session?</string>
+  <string name="crash_recovcery_message">Pārlūks izslēdzās ne tā kā parasti  . Vai jūs vēlaties, lai atgūtu pēdējo pārlūkprogrammas sesiju?</string>
   <string name="create_shortcut_bookmark">Pievienot saīsni uz sākumu</string>
   <string name="current_page">"no "</string>
   <string name="defaultBookmarksUpButton">Grāmatzīmes</string>
-  <string name="delete">Delete</string>
+  <string name="delete">Dzēst</string>
   <string name="delete_bookmark_warning" formatted="false">Vai dzēst grāmatzīmi %s?</string>
   <string name="delete_folder">Dzēst mapi</string>
-  <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
+  <string name="delete_multi_bookmarks_alert_title">Vai tiešām vēlaties dzēst %1$s lietas?</string>
   <string name="disable_autofill">Atspējot automātisko aizpildi</string>
   <string name="do_not_save">Atcelt</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">USB atmiņā nepieciešams lejupielādēt failu %s.</string>
@@ -136,32 +137,32 @@
   <string name="dump_dom_tree">Dump DOM tree to file</string>
   <string name="dump_nav">Dump navigation cache</string>
   <string name="dump_render_tree">Dump render tree to file</string>
-  <string name="edit">Edit</string>
+  <string name="edit">Rediģēt</string>
   <string name="edit_bookmark">Rediģēt grāmatzīmi</string>
   <string name="edit_folder">Rediģēt mapi</string>
   <string name="empty_bookmarks_folder">Nav grāmatzīmju.</string>
   <string name="empty_history">Nav pārlūkprogrammas vēstures.</string>
   <string name="empty_snapshots_folder">Nav saglabātu lapu.</string>
-  <string name="error_console_eval_button_text">Evaluate</string>
-  <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
-  <string name="error_console_header_text_maximized">JavaScript console</string>
-  <string name="error_console_header_text_minimized">Show JavaScript console</string>
-  <string name="exit_browser_warning">Exit browser?</string>
-  <string name="export_bookmark">Export bookmarks</string>
-  <string name="export_bookmark_failure">Failed to export bookmarks to SD card!</string>
-  <string name="export_bookmark_sucess">Successfully exported bookmarks to SD card!</string>
-  <string name="exported_bookmark_file_name">My favorites</string>
-  <string name="file_picker_new_folder">New folder</string>
+  <string name="error_console_eval_button_text">Novērtēt</string>
+  <string name="error_console_eval_text_hint">Novērtēt JavaScript</string>
+  <string name="error_console_header_text_maximized">JavaScript pults</string>
+  <string name="error_console_header_text_minimized">Rādīt JavaScript pulti</string>
+  <string name="exit_browser_warning">Iziet no pārlūka?</string>
+  <string name="export_bookmark">Eksportēt grāmatzīmes</string>
+  <string name="export_bookmark_failure">Neizdevās eksportēt grāmatzīmes uz SD karti!</string>
+  <string name="export_bookmark_sucess">Veiksmīgi eksportētas grāmatzīmes uz SD karti!</string>
+  <string name="exported_bookmark_file_name">Mani favorīti</string>
+  <string name="file_picker_new_folder">Jauna mape</string>
   <string name="file_picker_sdcard_not_found">SD card not detected, please check if the device is currently mounted or in use</string>
-  <string name="find_on_page">Find on page</string>
-  <string name="folder_name">Folder name</string>
+  <string name="find_on_page">Atrast lapā</string>
+  <string name="folder_name">Mapes nosaukums</string>
   <string name="forward">Tālāk</string>
   <string name="geolocation_permissions_prompt_dont_share">Noraidīt</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">Vietne %s vēlas uzzināt jūsu atrašanās vietu.</string>
   <string name="geolocation_permissions_prompt_remember">Atcerēties preferenci</string>
   <string name="geolocation_permissions_prompt_share">Kopīgot atrašanās vietu</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">No šīs vietnes var piekļūt jūsu atrašanās vietai. Iestatījumus varat mainīt, atverot šādus ekrānus: Iestatījumi > Papildu > Vietne.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">No šīs vietnes nevar piekļūt jūsu atrašanās vietai. Iestatījumus var mainīt, atverot šādus ekrānus: Iestatījumi > Papildu > Vietne.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">No šīs vietnes var piekļūt jūsu atrašanās vietai. Iestatījumus varat mainīt, atverot šādus ekrānus: Iestatījumi &gt; Papildu &gt; Vietne.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">No šīs vietnes nevar piekļūt jūsu atrašanās vietai. Iestatījumus var mainīt, atverot šādus ekrānus: Iestatījumi &gt; Papildu &gt; Vietne.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Atcelt</string>
   <string name="geolocation_settings_page_dialog_message">Vai dzēst šīs vietnes atļauju piekļūt jūsu atrašanās vietai?</string>
   <string name="geolocation_settings_page_dialog_ok_button">Labi</string>
@@ -175,9 +176,9 @@
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Mājaslapa ir iestatīta.</string>
   <string name="http">http://</string>
-  <string name="import_bookmark">Import bookmarks</string>
-  <string name="import_bookmark_failure">Bookmarks FAILED To Import!</string>
-  <string name="import_bookmark_sucess">Bookmarks imported successfully</string>
+  <string name="import_bookmark">Importēt grāmatzīmes</string>
+  <string name="import_bookmark_failure">Grāmatzīmes Neizdevās importēt!</string>
+  <string name="import_bookmark_sucess">Grāmatzīmes veiksmīgi importētas</string>
   <string name="import_bookmarks_dialog_add">Pievienot grāmatzīmes Google kontam</string>
   <string name="import_bookmarks_dialog_confirm_add" formatted="false">Vai pievienot šajā grāmatzīmes, kas pašlaik saglabātas šajā ierīcē, un sākt grāmatzīmju sinhronizāciju ar %s?</string>
   <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Vai dzēst šajā ierīcē saglabātās grāmatzīmes un sākt grāmatzīmju sinhronizāciju ar kontu %s?</string>
@@ -191,7 +192,7 @@
   <string name="import_bookmarks_wizard_done">Gatavs</string>
   <string name="import_bookmarks_wizard_next">Nākamais</string>
   <string name="import_bookmarks_wizard_previous">Iepriekšējais</string>
-  <string name="importing_favorite_files">Importing Data ...</string>
+  <string name="importing_favorite_files">Datu importēšana...</string>
   <string name="instant_search_label">Pakalpojums Google ar dinamisko meklēšanu (Laboratorijas)</string>
   <string name="is_first_history_item">Is the first history item</string>
   <string name="is_first_tab">Is the first tab</string>
@@ -206,23 +207,23 @@
   <string name="local_bookmarks">Vietējās</string>
   <string name="location">Adrese</string>
   <string name="max_tabs_warning">Vairs nav pieejamu ciļņu</string>
-  <string name="menu_disable_night_mode">Disable night mode</string>
-  <string name="menu_enable_night_mode">Enable night mode</string>
+  <string name="menu_disable_night_mode">Atslēgt nakts režīmu</string>
+  <string name="menu_enable_night_mode">Ieslēgt nakts režīmu</string>
   <string name="menu_exit">Iziet</string>
   <string name="menu_preferences">Iestatījumi</string>
   <string name="menu_save_snapshot">Saglabāt, lai lasītu bezsaistē</string>
   <string name="menu_share_url">Kopīgot</string>
   <string name="menu_view_download">Lejupielādes</string>
-  <string name="move_to_up_folder">Up a level</string>
-  <string name="multi_select_title">Selected %1$s item(s)</string>
+  <string name="move_to_up_folder">Līmeni augstāk</string>
+  <string name="multi_select_title">Iezīmēts %1$s item(s)</string>
   <string name="name">Iezīmēt</string>
   <string name="new_folder">Jauna mape</string>
   <string name="new_incognito_tab">Jauna inkognito cilne</string>
   <string name="new_tab">Jauna cilne</string>
   <string name="no_subfolders">Nav apakšmapju.</string>
-  <string name="not_remind_again">Do not remind me any more</string>
+  <string name="not_remind_again">Vairāk man neatgādināt</string>
   <string name="ok">Labi</string>
-  <string name="open_all_bookmarks">Open all</string>
+  <string name="open_all_bookmarks">Atvērt visu</string>
   <string name="open_all_in_new_window">Atvērt visas grāmatzīmes jaunās cilnēs</string>
   <string name="open_bookmark">Atvērt</string>
   <string name="other_bookmarks">Citas grāmatzīmes</string>
@@ -242,9 +243,9 @@
   <string name="pref_autofill_profile_editor_summary">Iestatīt automātiskās aizpildes tekstu tīmekļa veidlapām</string>
   <string name="pref_autologin_progress" formatted="false">Pierakstīšanās pakalpojumā Google vietnes, izmantojot %s</string>
   <string name="pref_autologin_title">Autom. pieraksts Google tīklā</string>
-  <string name="pref_clear_cache_for_exit">Clear cache on exit</string>
-  <string name="pref_clear_history_for_exit">Clear history on exit</string>
-  <string name="pref_confirm_for_exit">Confirm on exit</string>
+  <string name="pref_clear_cache_for_exit">Iztīrīt kešatmiņu izejot</string>
+  <string name="pref_clear_history_for_exit">Notīrīt vēsturi izejot</string>
+  <string name="pref_confirm_for_exit">Apstiprināt izejot</string>
   <string name="pref_content_autofit">Automātiski pielāgot lapas</string>
   <string name="pref_content_autofit_summary">Formatēt tīmekļa lapas, lai tās ietilptu ekrānā</string>
   <string name="pref_content_block_popups">Bloķēt uznirstošos vienumus</string>
@@ -286,7 +287,7 @@
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Check this to exit browser on closing last tab in navigation screen. Uncheck to show homepage</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_title">Exit on closing last tab</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">Iziet un aizvērt pēdējo cilni</string>
   <string name="pref_extras_reset_default">Atiestatīt noklusējuma vērtības</string>
   <string name="pref_extras_reset_default_dlg">Vai atjaunot iestatījumu noklusējuma vērtības?</string>
   <string name="pref_extras_reset_default_summary">Atjaunot noklusējuma iestatījumus</string>
@@ -300,8 +301,8 @@
   <string name="pref_force_userscalable">Pieprasīt tālummaiņas iespēj.</string>
   <string name="pref_force_userscalable_summary">Ignorēt vietnes pieprasījumu kontrolēt tālummaiņu</string>
   <string name="pref_general_autofill_title">Automātiskā aizpilde</string>
-  <string name="pref_general_exit_setting_title">Exit settings</string>
-  <string name="pref_general_setting_title">Settings</string>
+  <string name="pref_general_exit_setting_title">Iziet no iestatījumi</string>
+  <string name="pref_general_setting_title">Iestatījumi</string>
   <string name="pref_general_sync_title">Sinhronizācija</string>
   <string name="pref_general_title">Vispārīgi</string>
   <string name="pref_gesture_title">Gesture operations</string>
@@ -407,10 +408,10 @@
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Drošības brīdinājums</string>
   <string name="select_dot">Atlasīt tekstu</string>
-  <string name="selection_all">Select all</string>
-  <string name="send_bookmark_to_home_screen">Send to home screen</string>
+  <string name="selection_all">Atlasīt visu</string>
+  <string name="send_bookmark_to_home_screen">Sūtīt uz sākuma ekrānu</string>
   <string name="set_as_homepage">Iestatīt kā mājaslapu</string>
-  <string name="share_link">Share link</string>
+  <string name="share_link">Dalīties ar linku</string>
   <string name="share_page">Kopīgot lapu</string>
   <string name="shortcut_bookmark">Atzīmēt ar grāmatzīmi</string>
   <string name="shortcut_bookmark_title">Izvēlieties grāmatzīmi</string>
@@ -444,7 +445,7 @@
   <string name="too_many_windows_dialog_title">Sasniegts ciļņu ierobežojums</string>
   <string name="ua_switcher_desktop">Pieprasīt datoram paredzētu vietnes versiju</string>
   <string name="uploads_disabled">Failu augšupielādes ir atspējotas.</string>
-  <string name="url_copy_done">URL copied</string>
+  <string name="url_copy_done">URL kopēts</string>
   <string name="url_hint">Search or type URL</string>
   <string name="username">Pieteikumvārds</string>
   <string name="view_certificate">Skatīt sertifikātu</string>
