@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Noklusētais</item>
+        <item>Noklusētais (bez efektiem)</item>
+        <item>Dziestošs</item>
+        <item>Pārlec</item>
+        <item>Pāršķir</item>
+        <item>Kaskāde</item>
+        <item>Griežas</item>
+        <item>3D Kubs</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Pēc tēmas</item>
+        <item>Pa vidu</item>
+        <item>Pa kreisi</item>
+        <item>Pa labi</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Noklusētais</item>
+        <item>Klasiskais</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_status">
+        <item>viss notiek</item>
+        <item>Gaidīt</item>
+        <item>Pārtraukts</item>
+        <item>Lļūda</item>
+        <item>Pabeigts</item>
+        <item>Pauze</item>
+    </string-array>
+</resources>

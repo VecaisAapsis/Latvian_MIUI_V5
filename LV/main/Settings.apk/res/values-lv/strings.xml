@@ -12,14 +12,14 @@
   <string name="access_control_app_entry_multiple">Atvērt %s</string>
   <string name="access_control_app_entry_single">Atvērt izvēlēto lietotni</string>
   <string name="access_control_need_password">"%s ir aizsargāta 
-    "</string>
+"</string>
   <string name="access_control_need_to_unlock">Nepieciešama parole</string>
   <string name="access_control_no_back_footer">Press the [icon] to exit</string>
   <string name="access_control_password_title">Iespējot paroli</string>
   <string name="access_control_recording_intro_header">Zīmēt shēmu, lai izveidotu paroli</string>
   <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
   <string name="accessibility_enable">Iespējot pieejamību</string>
-  <string name="accessibility_long_press_timeout_title">Aizkav., pieskar. un turot nosp.</string>
+  <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Iestatījumi</string>
   <string name="accessibility_no_services_installed">Nav instalēts neviens pakalpojums.</string>
   <string name="accessibility_power_button_ends_call_title">Beigt zv., nosp. baroš. pogu</string>
@@ -114,6 +114,7 @@
   <string name="app_factory_reset">Atinstalēt atjauninājumus</string>
   <string name="app_factory_reset_dlg_text">Tiks atinstalēti visi šīs Android sistēmas lietotnes atjauninājumi.</string>
   <string name="app_factory_reset_dlg_title">Vai atinstalēt atjauninājumus?</string>
+  <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
   <string name="app_forward_locked">Lietotne ir aizsargāta pret kopēšanu.</string>
   <string name="app_install_location_summary">Mainīt jaunu lietotņu vēlamo instalēšanas vietu</string>
   <string name="app_install_location_title">Vēlamā instalēšanas vieta</string>
@@ -125,7 +126,7 @@
   <string name="application_forbid_auto_startup">Disable%s to startup in background</string>
   <string name="application_info_label">Informācija par lietotni</string>
   <string name="application_item_already_permission">Atļauts</string>
-  <string name="application_item_disable">Atspējots</string>
+  <string name="application_item_disable">Atspējot</string>
   <string name="application_item_permission">Atļaut</string>
   <string name="application_size_label">Lietotne</string>
   <string name="applications_settings">Lietotnes</string>
@@ -266,16 +267,16 @@
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Tālrunī instalētā lietotnē tiek mēģināts ieslēgt Bluetooth savienojumu un padarīt tālruni redzamu citām ierīcēm. Vai atļaut?</string>
   <string name="bluetooth_ask_lasting_discovery">Tālrunī instalētā lietotnē tiek mēģināts padarīt tālruni vienmēr redzamu citām Bluetooth ierīcēm. Vai atļaut?</string>
   <string name="bluetooth_auto_connect">Automātiski izveidot savienojumu</string>
-  <string name="bluetooth_confirm_passkey_msg">Lai savienotu pārī ar:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pārliecinieties, ka tiek rādīta šī ieejas atslēga:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Savienot ar...</string>
   <string name="bluetooth_connected">Izveidots savienojums</string>
   <string name="bluetooth_connected_no_a2dp">Sav. ir izveidots (nav multivides)</string>
   <string name="bluetooth_connected_no_headset">Savienojums ir izveidots (nav tālruņa)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Sav. ir izveidots (nav tel. vai multiv.)</string>
   <string name="bluetooth_connecting">Notiek savienojuma izveide…</string>
-  <string name="bluetooth_connecting_error_message">Nevarēja izveidot savienojumu ar ierīci %1$s.</string>
-  <string name="bluetooth_connection_dialog_text">Vai vēlaties izveidot savienojumu ar ierīci %1$s?</string>
-  <string name="bluetooth_connection_notif_message">Pieskarieties, lai izveidotu savienojumu ar ierīci%1$s.</string>
+  <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
+  <string name="bluetooth_connection_dialog_text">Do you want to connect to \"%1$s\"?</string>
+  <string name="bluetooth_connection_notif_message">Touch to connect to \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Bluetooth savienojuma pieprasījums</string>
   <string name="bluetooth_device">Nenosaukta Bluetooth ierīce</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Atļaut ien. failu pārsūtīšanu</string>
@@ -294,10 +295,10 @@
   <string name="bluetooth_device_name">Ierīces nosaukums</string>
   <string name="bluetooth_device_searchable">Ierīces redzamība</string>
   <string name="bluetooth_devices">Bluetooth ierīces</string>
-  <string name="bluetooth_disable_profile_message">Tiks atspējots:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>No:&lt;br>&lt;b>%2$s&lt;/b></string>
-  <string name="bluetooth_disable_profile_title">Vai atspējot profilu?</string>
+  <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_title">Disable profile?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Ierīce %1$s tiks atvienota no datu nesēja audio.</string>
-  <string name="bluetooth_disconnect_all_profiles">Tiks pārtraukts savienojums ar:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">Ierīce %1$s tiks atvienota no brīvroku audio.</string>
   <string name="bluetooth_disconnect_hid_profile">Ierīce %1$s tiks atvienota no ievades ierīces.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Ierīcei %1$s tiks pārtraukta šī tālruņa interneta savienojuma koplietošana.</string>
@@ -305,7 +306,7 @@
   <string name="bluetooth_disconnect_title">Vai pārtraukt savienojumu?</string>
   <string name="bluetooth_disconnected">Atvienots</string>
   <string name="bluetooth_disconnecting">Notiek atvienošana...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Lai izveidotu savienojumu pārī ar ierīci:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;ierakstiet tajā atslēgu:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
   <string name="bluetooth_dock_settings">Doka iestatījumi</string>
   <string name="bluetooth_dock_settings_a2dp">Mūzikai un multividei</string>
   <string name="bluetooth_dock_settings_headset">Kā mikrofons ar skaļruni</string>
@@ -384,7 +385,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_profile_dun">Dial-up Network Access</string>
   <string name="bluetooth_profile_headset">Tālruņa audio</string>
   <string name="bluetooth_profile_hid">Ievades ierīce</string>
-  <string name="bluetooth_profile_name">"%1$s's Xiaomi phone"</string>
+  <string name="bluetooth_profile_name">"%1$s's Xiaomi tālrunis"</string>
   <string name="bluetooth_profile_opp">Failu pārsūtīšana</string>
   <string name="bluetooth_profile_pan">Interneta piekļuve</string>
   <string name="bluetooth_profile_pan_nap">Interneta savienojuma koplietošana</string>
@@ -550,7 +551,7 @@ Lietotnē pieejamajos iestatījumos varat skatīt citas piemērotas datu lietoju
 
 Daži konti var arī automātiski kopēt visas tālrunī veiktās izmaiņas uz tīmekļa kontu. Google konts darbojas šādā veidā.
 
-Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Iestatījumi > Konti."</string>
+Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Iestatījumi &gt; Konti."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Vai ieslēgt datu automātisko sinhronizāciju?</string>
   <string name="data_usage_change_cycle">Mainīt ciklu...</string>
   <string name="data_usage_cycle">Datu izmantošanas cikls</string>
@@ -593,7 +594,7 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="data_usage_summary_title">Datu lietojums</string>
   <string name="data_usage_sweep_limit"/>
   <string name="data_usage_sweep_warning"/>
-  <string name="data_usage_tab_3g">2G–3G</string>
+  <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mob. dati</string>
@@ -651,12 +652,12 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
-  <string name="device_default_name">Xiaomi phone</string>
+  <string name="device_default_name">Xiaomi Telefons</string>
   <string name="device_edit_title">Change device name</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
   <string name="device_info_not_available">Not available</string>
-  <string name="device_info_settings">Phone status</string>
+  <string name="device_info_settings">Telefona statuss</string>
   <string name="device_internal_memory">Internal Memory</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI Version</string>
@@ -669,12 +670,13 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="device_status_activity_title">Statuss</string>
   <string name="device_status_summary">Tālruņa numurs, signāls u.c.</string>
   <string name="dialog_title_font_size">Fonta lielums</string>
+  <string name="dirac_control">Dirac Control</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Atspējot HW pārklājumus</string>
   <string name="disable_overlays_summary">Vienmēr izmantot GPU atveidi ekrāna salikšanai</string>
   <string name="disable_power_key_long_press_under_keyguard">Atspējot  uz ekrāna lockscreen</string>
   <string name="disable_text">Atspējot</string>
-  <string name="disabled">Atspējots</string>
+  <string name="disabled">Atspējot</string>
   <string name="disconnect">disconnect</string>
   <string name="display_font_size_label">Fonta lielums:</string>
   <string name="display_label">Ekrāns</string>
@@ -712,7 +714,7 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="dolby_eq_classical">Classical</string>
   <string name="dolby_eq_country">Country</string>
   <string name="dolby_eq_dance">Dance</string>
-  <string name="dolby_eq_delete">Remove</string>
+  <string name="dolby_eq_delete">Novākt</string>
   <string name="dolby_eq_delete_success">Remove success</string>
   <string name="dolby_eq_electronic">Electronic</string>
   <string name="dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
@@ -808,6 +810,7 @@ Dažas lietotnes, iespējams, nedarbosies, kamēr tās neatjauninās izstrādāt
   <string name="finish_application">End</string>
   <string name="finish_button_label">Pabeigt</string>
   <string name="firmware_version">Android versija</string>
+  <string name="floating_window_switch_label">Show popup window</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -823,7 +826,7 @@ Dažas lietotnes, iespējams, nedarbosies, kamēr tās neatjauninās izstrādāt
   <string name="force_stop_dlg_text">Piespiedu kārtā apturot lietotnes darbību, var rasties šīs lietotnes darbības traucējumi.</string>
   <string name="force_stop_dlg_title">Vai veikt piespiedu apturēšanu?</string>
   <string name="forget_wifi_message">Stops network from automatically connecting and may need to re-enter password to reconnect</string>
-  <string name="frequently_fragment_delete">Delete</string>
+  <string name="frequently_fragment_delete">Dzēst</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_picker_title">Izvēlēties sīkrīku</string>
   <string name="gadget_title">Barošanas vadība</string>
@@ -911,8 +914,8 @@ Dažas lietotnes, iespējams, nedarbosies, kamēr tās neatjauninās izstrādāt
   <string name="keep_screen_on">Atstāt nomodā</string>
   <string name="keep_screen_on_summary">Uzlādes laikā ekrāns nekad nepārslēgsies miega režīmā</string>
   <string name="kernel_version">Kernel versija</string>
-  <string name="key_settings">Buttons &amp; keys</string>
-  <string name="key_settings_title">Buttons &amp; keys</string>
+  <string name="key_settings">Pogas &amp; Taustiņi</string>
+  <string name="key_settings_title">Pogas &amp; Taustiņi</string>
   <string name="keyboard_layout_default_label">Noklusējums</string>
   <string name="keyboard_layout_dialog_setup_button">Iestatīt tastatūras izkārtojumus</string>
   <string name="keyboard_layout_dialog_switch_hint">Lai pārsl., nosp. Ctrl + atst. t.</string>
@@ -927,11 +930,11 @@ Dažas lietotnes, iespējams, nedarbosies, kamēr tās neatjauninās izstrādāt
   <string name="large_font">Liels</string>
   <string name="last_synced">Pēdējoreiz sinhronizēts: %1$s</string>
   <string name="launch_count_label">Skaits</string>
-  <string name="launcher_settings_title">Launcher</string>
+  <string name="launcher_settings_title">Palaidējs</string>
   <string name="led_colors_summary">Notification LED color</string>
   <string name="led_frequence_summary">Set the interval between LED flashes</string>
   <string name="led_pulse_summary">When new notification is received, pulse notification LED</string>
-  <string name="led_settings">LED</string>
+  <string name="led_settings">Tel. gaismiņas</string>
   <string name="legal_information">Juridiskā informācija</string>
   <string name="license_title">Licence</string>
   <string name="link_speed_label">Link speed:</string>
@@ -1041,7 +1044,7 @@ Attention: this operation cannot be undone."</string>
   <string name="master_clear_desc_also_erases_external"/>
   <string name="master_clear_desc_erase_external_storage">"
 
-Lai dzēstu mūziku, attēlus un citus lietotāja datus, ir jādzēš "<b>SD kartes</b> saturs.</string>
+To clear music, pictures, and other user data, the "</string>
   <string name="master_clear_erase_application_progress">Erasing applications...</string>
   <string name="master_clear_failed">Atiestatīšana netika veikta, jo nav pieejams pakalpojums Sistēmas tīrīšana.</string>
   <string name="master_clear_final_button_text">Dzēst visu</string>
@@ -1065,7 +1068,7 @@ Attention: this operation cannot be undone."</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
   <string name="media_button">Media button</string>
   <string name="media_format_button_text">Dzēst SD karti</string>
-  <string name="media_format_desc">Vai izdzēst SD kartes saturu? Tiks zaudēti <b>visi</b> kartē esošie dati!</string>
+  <string name="media_format_desc">Erase all USB storage? You will lose </string>
   <string name="media_format_final_button_text">Dzēst visu</string>
   <string name="media_format_final_desc">Vai izdzēst SD kartes saturu, tostarp visus tajā saglabātos failus? Šo darbību nevar atcelt!</string>
   <string name="media_format_gesture_explanation">Lai apstiprinātu SD kartes satura dzēšanu, norādiet grafisko atslēgu.</string>
@@ -1107,6 +1110,9 @@ Attention: this operation cannot be undone."</string>
   <string name="move_app_to_internal">Pārvietot uz tālruni</string>
   <string name="move_app_to_sdcard">Pārvietot uz SD karti</string>
   <string name="moving">Notiek pārvietošana</string>
+  <string name="msd_driver_download">Download driver</string>
+  <string name="msd_driver_mac_download">Go to http://miuiandroid.com/mac/ to download for your MAC</string>
+  <string name="msd_driver_windows_xp_download">Go to http://miuiandroid.com/windows/ to download for your PC</string>
   <string name="msd_help_summary">"Problem accessing mobile’s storage device via the computer? Please select your computer’s operating system:"</string>
   <string name="msd_help_title">Help</string>
   <string name="msd_install">Re-install the driver</string>
@@ -1264,47 +1270,47 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_security_prompt_root_step5">Use with caution!</string>
   <string name="perm_hips_security_prompt_root_step6">Allow %1$s to get ROOT permission?</string>
   <string name="perm_hips_security_prompt_title">%1$s is trying to %2$s</string>
-  <string name="perm_hips_send_sms_content">Content:</string>
-  <string name="perm_hips_send_sms_data">send SMS to %1$s:%2$d</string>
+  <string name="perm_hips_send_sms_content">Saturs:</string>
+  <string name="perm_hips_send_sms_data">sūtīt SMS %1$s:%2$d</string>
   <string name="perm_hips_send_sms_port">Dest Port:</string>
-  <string name="perm_hips_send_sms_recipient">Recipient:</string>
+  <string name="perm_hips_send_sms_recipient">Saņēmējs:</string>
   <string name="perm_hips_send_sms_smsc">SMS Center:</string>
   <string name="perm_hips_send_sms_smsc_default">Default SMS Centre</string>
-  <string name="perm_hips_send_sms_text">send SMS to %1$s</string>
+  <string name="perm_hips_send_sms_text">sūtīt SMS %1$s</string>
   <string name="perm_hips_silence_ringer">silence the ringer</string>
-  <string name="perm_hips_sms_access">read your SMS inbox</string>
+  <string name="perm_hips_sms_access">lasīt jūsu SMS inbox</string>
   <string name="perm_hips_switch">Permission Monitor</string>
   <string name="perm_hips_wifi_network">Wi-Fi Network</string>
-  <string name="perm_hips_wifi_network_desc">Wi-Fi Network</string>
+  <string name="perm_hips_wifi_network_desc">Wi-Fi tīkls</string>
   <string name="perm_hips_wifi_network_hint">%1$s apps are allowed to access Internet through WIFI network</string>
   <string name="perm_invalid_input">Invalid input</string>
-  <string name="perm_loading">Loading...</string>
-  <string name="perm_log">Logs</string>
+  <string name="perm_loading">Ielādē...</string>
+  <string name="perm_log">Žurnāls</string>
   <string name="perm_log_clear_content">All logs will be erased. Would you like to enable it?</string>
   <string name="perm_log_clear_title">Clear Logs</string>
-  <string name="perm_monitored_app">Monitored Apps (%1$d)</string>
+  <string name="perm_monitored_app">Lietotnes ko uzrauga (%1$d)</string>
   <string name="perm_notice">Alert of Security</string>
   <string name="perm_operating">Operating...</string>
   <string name="perm_optimize">Optimize</string>
-  <string name="perm_privacy_app_count">%1$d permissions</string>
-  <string name="perm_privacy_app_count_trust_summary">Trust app</string>
+  <string name="perm_privacy_app_count">%1$d atļaujas</string>
+  <string name="perm_privacy_app_count_trust_summary">Uzticēties lietotnei</string>
   <string name="perm_privacy_app_finish">Finish</string>
   <string name="perm_privacy_app_installed">Installation succeeded!</string>
-  <string name="perm_privacy_app_launch">Launch</string>
-  <string name="perm_privacy_app_log">Logs</string>
+  <string name="perm_privacy_app_launch">Palaist</string>
+  <string name="perm_privacy_app_log">Žurnāli</string>
   <string name="perm_privacy_app_manage">Details</string>
-  <string name="perm_privacy_app_trust">I trust this App</string>
+  <string name="perm_privacy_app_trust">Es uzticos šij lietotnei</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI will not ask your for confirmation of any security and privacy related operations from this App.</string>
-  <string name="perm_privacy_app_trust_dialog_title">Trust this App</string>
-  <string name="perm_privacy_app_trust_summary">Trusted</string>
+  <string name="perm_privacy_app_trust_dialog_title">Uzticēties šij lietotnei</string>
+  <string name="perm_privacy_app_trust_summary">Uzticama</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI will monitor this App</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI will trust this App</string>
   <string name="perm_privacy_app_uninstall">Uninstall</string>
-  <string name="perm_privacy_count">Allowed: %1$d Denied: %2$d</string>
+  <string name="perm_privacy_count">Atļauts: %1$d Aizliegts: %2$d</string>
   <string name="perm_service_disabled">Service is turned off</string>
   <string name="perm_service_enabled">Service is active</string>
   <string name="perm_shortcut">Contextual menu</string>
-  <string name="perm_show_system_app">Show System Apps</string>
+  <string name="perm_show_system_app">Rādīt sistēmas lietotnes</string>
   <string name="perm_su">Manage ROOT Permission</string>
   <string name="perm_su_desc">Monitoring %1$d apps for ROOT Permission</string>
   <string name="perm_su_desc1">Manage ROOT Permission</string>
@@ -1315,24 +1321,24 @@ please follow the steps to complete installation"</string>
   <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
   <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Would you like to enable it?"</string>
   <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
-  <string name="perm_su_enable_title">ROOT Permission</string>
-  <string name="perm_su_switch">ROOT Permission</string>
-  <string name="perm_summary_disabled">Off</string>
-  <string name="perm_summary_enabled">On</string>
-  <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
-  <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
+  <string name="perm_su_enable_title">ROOT Atļauja</string>
+  <string name="perm_su_switch">ROOT atļauja</string>
+  <string name="perm_summary_disabled">Izslēgts</string>
+  <string name="perm_summary_enabled">Ieslēgts</string>
+  <string name="perm_sysopt_boost_auto_start">Autostarta atļaujas</string>
+  <string name="perm_sysopt_boost_auto_start_group">Autostarts</string>
   <string name="perm_sysopt_boost_auto_start_summary">Allow this process to autostart</string>
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Background</string>
-  <string name="perm_system_app">System Apps (%d)</string>
+  <string name="perm_system_app">Sistēmas lietotnes (%d)</string>
   <string name="perm_system_app_label">[System App]</string>
-  <string name="perm_trusted_app">Trusted Apps (%1$d)</string>
+  <string name="perm_trusted_app">Uzticamās lietotnes (%1$d)</string>
   <string name="perm_update">Software upgrade</string>
   <string name="perm_user_app">Downloaded Apps (%d)</string>
-  <string name="perm_version">Version: %1$s</string>
+  <string name="perm_version">Versija: %1$s</string>
   <string name="permission_detail_info">View permissions info</string>
-  <string name="permission_detail_info_summary">All permissions: Safe %1$d，Private %2$d，Others %3$d</string>
-  <string name="permission_manage">Permission management</string>
+  <string name="permission_detail_info_summary">Visas atļaujas: Drošas %1$d，Privātās %2$d，Citas %3$d</string>
+  <string name="permission_manage">Atļauju rīkotājs</string>
   <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
   <string name="permission_manage_title">%s permission details</string>
   <string name="permissions_label">Atļaujas</string>
@@ -1372,7 +1378,7 @@ please follow the steps to complete installation"</string>
   <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with a hard to press power key.</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Mainīt paroli</string>
-  <string name="preferred_launcher_title">Preferred Launcher</string>
+  <string name="preferred_launcher_title">Vēlamais Palaidējs</string>
   <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
   <string name="preferred_launcher_warning_replace">Replace Launcher</string>
   <string name="preferred_launcher_warning_title">Replacing default launcher</string>
@@ -1594,13 +1600,13 @@ please follow the steps to complete installation"</string>
   <string name="search_settings">Meklēt</string>
   <string name="search_settings_summary">Meklēšanas iestatījumu un vēstures pārvaldība</string>
   <string name="search_silent">silent</string>
-  <string name="search_sms_received">SMS received</string>
-  <string name="search_status_bar">status bar</string>
+  <string name="search_sms_received">SMS saņemts</string>
+  <string name="search_status_bar">statusa josla</string>
   <string name="search_sync">sync</string>
   <string name="search_tether">tether</string>
   <string name="search_unlock_set">unlock set</string>
   <string name="search_vpn">vpn</string>
-  <string name="search_wallpaper">wallpaper</string>
+  <string name="search_wallpaper">tapete</string>
   <string name="search_wifi">wifi</string>
   <string name="security_passwords_title">Paroles</string>
   <string name="security_privacy_settings_title">Drošība &amp; privātums</string>
@@ -1705,14 +1711,14 @@ Attempts Remaining :"</string>
   <string name="sms_delivered_sound_title">SMS delivered sound</string>
   <string name="sms_over_ims_off">Izslēgt īsziņas prioritāti pār IM ziņojumu</string>
   <string name="sms_over_ims_on">Ieslēgt īsziņas prioritāti pār IM ziņojumu</string>
-  <string name="sms_received_sound_dialog_title">Choose SMS received sound</string>
-  <string name="sms_received_sound_title">SMS received sound</string>
+  <string name="sms_received_sound_dialog_title">Izvēlies skaņu, kad saņem SMS</string>
+  <string name="sms_received_sound_title">SMS saņemšanas skaņa</string>
   <string name="sms_summary">Select the Subscription for Sending SMS</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Kārtot pēc nosaukuma</string>
   <string name="sort_order_size">Kārtot pēc izmēra</string>
   <string name="sound_category_call_ringtone_vibrate_title">Zvana signāls un vibrozvans</string>
-  <string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
+  <string name="sound_category_calls_and_notification_title">Zvanu toņi &amp; paziņojumi</string>
   <string name="sound_category_notification_title">Paziņojumi</string>
   <string name="sound_category_sound_title">Vispārīgi</string>
   <string name="sound_category_system_title">Sistēma</string>
@@ -1784,7 +1790,7 @@ Attempts Remaining :"</string>
   <string name="sync_one_time_sync">"Pieskarieties, lai sinhronizētu tūlīt
 %1$s"</string>
   <string name="sync_plug"/>
-  <string name="sync_settings">Accounts &amp; sync</string>
+  <string name="sync_settings">Konti &amp; sinhr.</string>
   <string name="sync_wifi_label">Wi-Fi iestatījumi</string>
   <string name="system">System</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
@@ -1887,7 +1893,7 @@ Attempts Remaining :"</string>
   <string name="unlock_set_unlock_mode_pattern">Shēma</string>
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Aizsardzība nav iespējota</string>
-  <string name="unlock_set_unlock_none_title">Vilkt ar pirkstu</string>
+  <string name="unlock_set_unlock_none_title">None</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Nav</string>
   <string name="unlock_set_unlock_password_summary">Augsts drošības līmenis</string>

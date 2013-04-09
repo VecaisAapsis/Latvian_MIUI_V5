@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="wifi_available">
-        <item quantity="other">Wi-Fi networks available</item>
-        <item quantity="one">Wi-Fi network available</item>
+        <item quantity="other">Wi-Fi tīkli ir pieejami</item>
+        <item quantity="one">Wi-Fi tīkls ir pieejams.</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Cloud hotspots available</item>
-        <item quantity="one">Cloud hotspot available</item>
+        <item quantity="other">Ir pieejami atvērti Wi-Fi tīkli.</item>
+        <item quantity="one">Ir pieejams atvērts Wi-Fi tīkls</item>
     </plurals>
 </resources>
