@@ -340,7 +340,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
   <string name="bluetooth_is_discoverable">Redzams visām blakus esošām Bluetooth ier. (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Redzams visām blakus esošām Bluetooth ierīcēm</string>
-  <string name="bluetooth_lock_voice_dialing">Bloķēt balss iezvani</string>
+  <string name="bluetooth_lock_voice_dialing">Bloķēt balss iezvanus</string>
   <string name="bluetooth_lock_voice_dialing_summary">Neļaut izmantot Bluetooth iezvanprogrammu, kad ekrāns ir bloķēts</string>
   <string name="bluetooth_map_connection_permission_request">Map connection request</string>
   <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
@@ -423,7 +423,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_visibility_timeout">Redzamības noildze</string>
   <string name="bluetooth_visibility_timeout_summary">Iestatiet laiku, cik ilgi ierīce būs atklājama.</string>
   <string name="breathing_light_color_summary">LED color when receiving new notification</string>
-  <string name="breathing_light_color_title">" LED Color"</string>
+  <string name="breathing_light_color_title">" LED krāsa"</string>
   <string name="breathing_light_freq_summary">Pulse LED on new notifications</string>
   <string name="breathing_light_freq_title">LED Flashing Frequency</string>
   <string name="brightness">Spilgtums</string>
@@ -709,7 +709,7 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="dolby_bassboost_normal">Normal</string>
   <string name="dolby_bassboost_title">Bass：</string>
   <string name="dolby_effects">Dolby Effects</string>
-  <string name="dolby_eq_auto">Customize</string>
+  <string name="dolby_eq_auto">Pielāgot</string>
   <string name="dolby_eq_blues">Blues</string>
   <string name="dolby_eq_classical">Classical</string>
   <string name="dolby_eq_country">Country</string>
@@ -733,7 +733,7 @@ Lai izvēlētos sinhronizējamās informācijas veidu katrā kontā, skatiet: Ie
   <string name="dolby_movie_advance">Video Enhancer</string>
   <string name="dolby_music_advance">Music Enhancer</string>
   <string name="dolby_preset_create">Create</string>
-  <string name="dolby_preset_format">Customized %d</string>
+  <string name="dolby_preset_format">Pielāgots %d</string>
   <string name="dolby_preset_hint">Please enter preset name</string>
   <string name="dolby_preset_rename">Rename</string>
   <string name="dolby_preset_select">Please select preset</string>
@@ -869,7 +869,7 @@ Dažas lietotnes, iespējams, nedarbosies, kamēr tās neatjauninās izstrādāt
   <string name="immediately_destroy_activities_summary">Iznīcināt katru darbību, kad lietotājs to pārtrauc</string>
   <string name="ims_reg_required_off">Izslēgt obligāto IMS reģistrāciju</string>
   <string name="ims_reg_required_on">Ieslēgt obligāto IMS reģistrāciju</string>
-  <string name="incoming_call_vibrate_abbreviation">Zvani</string>
+  <string name="incoming_call_vibrate_abbreviation">Zvana</string>
   <string name="incoming_call_volume_title">Zvana signāls</string>
   <string name="input_method">Ievades metode</string>
   <string name="input_method_selector">Ievades metodes atlasītājs</string>
@@ -1575,10 +1575,10 @@ please follow the steps to complete installation"</string>
   <string name="sdcard_settings_unmounted_status">Tagad var droši izņemt SD karti.</string>
   <string name="sdcard_settings_used_bytes_label">Izlietotie baiti:</string>
   <string name="sdcard_unmount">Atvienot SD karti</string>
-  <string name="search_about">about</string>
+  <string name="search_about">par</string>
   <string name="search_accelerometer">accelerometer</string>
   <string name="search_access_control">access control</string>
-  <string name="search_airplane">airplane</string>
+  <string name="search_airplane">Lidojums</string>
   <string name="search_android_beam">beam</string>
   <string name="search_battery_indicator">battery indicator</string>
   <string name="search_bluetooth">bluetooth</string>
@@ -1981,7 +1981,7 @@ Attempts Remaining :"</string>
   <string name="user_settings_title">Lietotāji un ierobežojumi</string>
   <string name="user_system_apps_heading">Sistēmas lietotnes</string>
   <string name="version_text">versija %1$s</string>
-  <string name="vibrate_category_title">Vibrate</string>
+  <string name="vibrate_category_title">Vibrēt</string>
   <string name="vibrate_in_normal_title">Vibrate in normal mode</string>
   <string name="vibrate_in_silent_title">Vibrē klusuma režīmā</string>
   <string name="vibrate_input_devices">Vibrosignāla izmantošana</string>

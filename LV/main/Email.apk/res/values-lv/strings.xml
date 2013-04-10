@@ -53,8 +53,8 @@
   <string name="account_settings_sync_email_enable">Sync e-mail</string>
   <string name="account_settings_sync_email_summary">Sync e-mail for this account</string>
   <string name="account_settings_vibrate_when_always">Always</string>
-  <string name="account_settings_vibrate_when_dlg_title">Vibrate</string>
-  <string name="account_settings_vibrate_when_label">Vibrate</string>
+  <string name="account_settings_vibrate_when_dlg_title">Vibrēt</string>
+  <string name="account_settings_vibrate_when_label">Vibrēt</string>
   <string name="account_settings_vibrate_when_never">Never</string>
   <string name="account_settings_vibrate_when_silent">Only when silent</string>
   <string name="account_settings_vibrate_when_summary">Also vibrate when e-mail arrives</string>
@@ -423,7 +423,7 @@ CC: %4$s
   <string name="move_to_folder_dialog_title">Move to</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
   <string name="next_action">Next</string>
-  <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
+  <string name="notification_multiple_new_messages_fmt">%1$d jauna vēstule</string>
   <string name="notification_to_account">to %1$s</string>
   <string name="notify_activation_reminder">"Instant Upload hasn't been activated yet"</string>
   <string name="notify_paused">Uploads paused</string>

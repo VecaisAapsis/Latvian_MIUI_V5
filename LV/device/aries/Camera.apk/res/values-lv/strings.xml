@@ -12,7 +12,7 @@
   <string name="bg_replacement_message">"Set your device down, step out of view for a moment"</string>
   <string name="camera_disabled">Camera has been disabled because of security policies.</string>
   <string name="camera_error_title">Camera error</string>
-  <string name="camera_label">Camera</string>
+  <string name="camera_label">Fotoaparāts</string>
   <string name="camera_settings_label">Settings</string>
   <string name="can_not_play_video">To play the video you should unlock the screen</string>
   <string name="cancel">Cancel</string>
@@ -63,7 +63,7 @@
   <string name="flash_off">No flash</string>
   <string name="flash_on">Flash fired</string>
   <string name="focal_length">Focal Length</string>
-  <string name="folder_camera">Camera</string>
+  <string name="folder_camera">Kamera</string>
   <string name="folder_download">Download</string>
   <string name="folder_imported">Imported</string>
   <string name="folder_screenshot">Screenshot</string>
@@ -378,7 +378,7 @@
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
-  <string name="set_as">Set as</string>
+  <string name="set_as">Iestatīt kā</string>
   <string name="set_image">Set picture as</string>
   <string name="set_label_all_albums">All albums</string>
   <string name="set_label_local_albums">Local albums</string>

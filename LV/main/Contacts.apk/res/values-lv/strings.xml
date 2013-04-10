@@ -44,7 +44,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="btn_delete_multi_contacts">Dzēst %d kontaktus</string>
   <string name="btn_delete_one_contact">Dzēst kontaktu</string>
   <string name="btn_rotation">Rotācija</string>
-  <string name="btn_split_contact">Atsevišķšs kontakts</string>
+  <string name="btn_split_contact">Atsevišķs kontakts</string>
   <string name="button_cancel_scan">Stop</string>
   <string name="button_scan">Atkārtoti skenēt</string>
   <string name="caching_vcard_message">Notiek vCard failu saglabāšana vietējā pagaidu atmiņā. Importēšana tiks sākta pēc neilga brīža.</string>
@@ -95,12 +95,12 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_item_op_time_short_outgoing">"Izejošais: "</string>
   <string name="callrecordview_menu_delete">Delete call log</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
-  <string name="callrecordview_menu_delete_all">Clear call log</string>
+  <string name="callrecordview_menu_delete_all">Dzēst zvanu žurnālu</string>
   <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">Confirm %s?</string>
   <string name="callrecordview_menu_delete_missed">Clear log for missed calls</string>
   <string name="callrecordview_menu_delete_one">Remove from call log</string>
-  <string name="callrecordview_menu_delete_stranger">Clear call log for unknown numbers</string>
+  <string name="callrecordview_menu_delete_stranger">Dzēst zvanu žurnālu nezināmiem numuriem</string>
   <string name="callrecordview_menu_paste">Ielīmēt</string>
   <string name="callrecordview_menu_settings">Iestatījumi</string>
   <string name="callrecordview_menu_show">Zvanu žurnāla filtrs</string>
@@ -386,7 +386,7 @@ Iemesls: %s"</string>
   <string name="hint_distance">keep the distance</string>
   <string name="hint_findContacts">Meklēt kontaktpersonas</string>
   <string name="hint_more_contact">use merge contact when exits double contacts</string>
-  <string name="hint_search_contacts">%d contacts</string>
+  <string name="hint_search_contacts">%d kontakti</string>
   <string name="hint_search_phone_numbers">%d contact numbers</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
@@ -839,7 +839,7 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation">Šī kontaktpersona tiks sadalīta vairākās kontaktpersonās.</string>
   <string name="splitConfirmation_title">Atdalīt kontaktp.?</string>
   <string name="starredList">Atzīmēti ar zvaigznīti</string>
-  <string name="starred_contacts">Favorites</string>
+  <string name="starred_contacts">Izlase</string>
   <string name="status_available">Pieejama</string>
   <string name="status_away">Prombūtnē</string>
   <string name="status_busy">Aizņemts</string>

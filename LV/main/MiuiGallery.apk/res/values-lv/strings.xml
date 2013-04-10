@@ -167,7 +167,7 @@
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="model">Modelis</string>
   <string name="modify_cloud_settings">MiCloud Settings</string>
-  <string name="more">More</string>
+  <string name="more">Vairāk</string>
   <string name="move_to_cloud_album">Move to Cloud</string>
   <string name="multiface_crop_help">Pieskarieties sejai, lai sāktu.</string>
   <string name="must_pick_file">Select an image</string>
@@ -268,8 +268,8 @@
   <string name="sync_only_in_wifi">Wi-Fi only</string>
   <string name="sync_only_in_wifi_summary">Recommended to enable, otherwise it will consume network traffic.</string>
   <string name="tab_all_text">Set all</string>
-  <string name="tab_lockscreen_text">Lock screen</string>
-  <string name="tab_wallpaper_text">Desktop</string>
+  <string name="tab_lockscreen_text">Ekrāna bloķēšana</string>
+  <string name="tab_wallpaper_text">Darbvirsma</string>
   <string name="tags">Atzīmes</string>
   <string name="temperature">Siltums</string>
   <string name="time">Laiks</string>

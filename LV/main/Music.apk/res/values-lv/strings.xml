@@ -50,7 +50,7 @@
   <string name="create_confirm">Confirm</string>
   <string name="create_equalzier_create_text_prompt">Equalizer effect name</string>
   <string name="create_playlist_create_text_prompt">Playlist name</string>
-  <string name="custom">Customize</string>
+  <string name="custom">Pielāgot</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Delete file from SD card</string>
   <string name="delete_item">Delete</string>
@@ -138,15 +138,15 @@
   <string name="lyric_open_other_connect">Download lyrics using mobile internet connection</string>
   <string name="lyric_picker_not_found">File Manager not found on the device</string>
   <string name="max_interval">90</string>
-  <string name="mediaplaybacklabel">Music</string>
+  <string name="mediaplaybacklabel">Muzika</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobile network</string>
   <string name="modify_id3_for_list">The current list of songs ID3 information will be edited</string>
   <string name="modify_id3_for_selected">The selected songs ID3 information will be edited</string>
   <string name="modify_meta">Edit Meta Info</string>
   <string name="modify_tracks_id3_background">Modify selected songs ID3 information in background</string>
-  <string name="more">More</string>
-  <string name="music_browser_label">Music</string>
+  <string name="more">Vairāk</string>
+  <string name="music_browser_label">Muzika</string>
   <string name="music_filter">Filter files</string>
   <string name="music_filter_helper">In order to hide files which are not music related, a size filter of 800K has been applied to hide these files from being displayed. The threshold can be adjusted in Settings / File filter.</string>
   <string name="music_open_other_connect">Download music using mobile data connection</string>
@@ -176,7 +176,7 @@
   <string name="playback_failed_no_title_by_network">Song cannot be played, check network connection settings</string>
   <string name="player_display_settings">Player Settings</string>
   <string name="playlist_deleted_message">Playlist deleted.</string>
-  <string name="playlist_favorite">Favorites</string>
+  <string name="playlist_favorite">Izlase</string>
   <string name="playlist_frequently_played">Frequently played</string>
   <string name="playlist_new">Create new playlist</string>
   <string name="playlist_recently_added">Recently added</string>
@@ -184,7 +184,7 @@
   <string name="playlist_renamed_message">Playlist renamed.</string>
   <string name="playlists_title">Playlists</string>
   <string name="queue">Current playlist</string>
-  <string name="quit_player">Exit</string>
+  <string name="quit_player">Iziet</string>
   <string name="quit_warining">Player will stop playing after %d minute(s)</string>
   <string name="recentlyadded_title">Recently added</string>
   <string name="recentlyplayed_title">Recently played</string>

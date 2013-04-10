@@ -18,11 +18,11 @@
   <string name="change_wallpaper">Wallpaper</string>
   <string name="close">Close</string>
   <string name="component_category_finest_title">Featured</string>
-  <string name="component_category_more_title">More</string>
+  <string name="component_category_more_title">Vairāk</string>
   <string name="component_include_title">Contains %1$s components</string>
   <string name="component_lockstyle_personal_title">Settings</string>
   <string name="component_select_title">Selected %1$s components</string>
-  <string name="component_settings_title">Customize theme</string>
+  <string name="component_settings_title">Pielāgot tēmu</string>
   <string name="description_author">Author:</string>
   <string name="description_designer">Designer:</string>
   <string name="description_download">Download:</string>
@@ -30,7 +30,7 @@
   <string name="description_summary">Summary:</string>
   <string name="description_uploadtime">Update:</string>
   <string name="description_version">Version:</string>
-  <string name="desktop_wallpaper">Desktop</string>
+  <string name="desktop_wallpaper">Darbvirsma</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="download_success">Download complete!</string>
@@ -38,7 +38,7 @@
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Loading...</string>
   <string name="loading_resource_detail_info">Loading...</string>
-  <string name="lockscreen_wallpaper">Lock screen</string>
+  <string name="lockscreen_wallpaper">Ekrāna bloķēšana</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
   <string name="menu_refresh">Refresh</string>
@@ -128,7 +128,7 @@
   <string name="theme_component_title_framework">Framework</string>
   <string name="theme_component_title_icon">Icon</string>
   <string name="theme_component_title_launcher">Home</string>
-  <string name="theme_component_title_lockstyle">Lock screen</string>
+  <string name="theme_component_title_lockstyle">Ekrāna bloķēšana</string>
   <string name="theme_component_title_lockwallpaper">Lock-wallpaper</string>
   <string name="theme_component_title_miwallpaper">Wallpaper</string>
   <string name="theme_component_title_mms">SMS</string>
@@ -178,6 +178,6 @@
   <string name="wallpaper_loading_text">Loading...</string>
   <string name="wallpaper_set_as_both">Set as both</string>
   <string name="wallpaper_set_as_destop">Set as wallpaper</string>
-  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
+  <string name="wallpaper_set_as_lockscreen">Iestatīt ekrāna bloķēšanu</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>
