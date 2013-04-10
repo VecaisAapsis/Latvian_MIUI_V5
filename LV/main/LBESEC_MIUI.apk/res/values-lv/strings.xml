@@ -30,9 +30,9 @@
     <string name="HIPS_Action_Accept">Atļauj</string>
     <string name="HIPS_Action_Prompt">Jautā</string>
     <string name="HIPS_Action_Reject">Aizliedz</string>
-    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Atļaut&lt;/font></string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Atļauts&lt;/font></string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Jautāt&lt;/font></string>
-    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Aizliegt&lt;/font></string>
+    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Aizliegts&lt;/font></string>
     <string name="HIPS_Action_Accept_Count">Atļauts: %1$d</string>
     <string name="HIPS_Action_Reject_Count">Aizliegts: %1$d</string>
     <string name="HIPS_Group_Expense">Drošība</string>
