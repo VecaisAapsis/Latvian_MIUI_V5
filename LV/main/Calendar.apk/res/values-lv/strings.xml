@@ -129,7 +129,7 @@
   <string name="preferences_alerts_title">Paziņojumi</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrozvans</string>
   <string name="preferences_build_version">Būvējuma versija</string>
-  <string name="preferences_category_account_title">Account</string>
+  <string name="preferences_category_account_title">Konts</string>
   <string name="preferences_category_general_title">General</string>
   <string name="preferences_clear_search_history_summary">Noņemt visus meklētos vienumus</string>
   <string name="preferences_clear_search_history_title">Notīrīt meklēšanas vēsturi</string>
