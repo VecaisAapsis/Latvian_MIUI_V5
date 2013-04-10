@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Nenormāla konta informācia, mēģiniet, lai pieteiktos vēlreiz vai mēģiniet vēlāk!</string>
   <string name="account_container_title">No sekojošā konta</string>
@@ -462,13 +462,13 @@ Iemesls: %s"</string>
   <string name="meid">MEID</string>
   <string name="menu_accounts">Konti</string>
   <string name="menu_addStar">Pievienot izlasei</string>
-  <string name="menu_bar_group_add">Add</string>
-  <string name="menu_bar_group_delete">Delete</string>
-  <string name="menu_bar_group_rename">Rename</string>
+  <string name="menu_bar_group_add">Pievienot</string>
+  <string name="menu_bar_group_delete">Dzēst</string>
+  <string name="menu_bar_group_rename">Parsaukt</string>
   <string name="menu_bar_group_ringtone">Group ringtone</string>
   <string name="menu_bar_group_sms">Group SMS</string>
   <string name="menu_call">Zvanīt kontaktpersonai</string>
-  <string name="menu_callNumber">Zvaniet: %s</string>
+  <string name="menu_callNumber">Zvanīt: %s</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
   <string name="menu_clear_frequents">Dzēst bieži lietotos kontaktus</string>
   <string name="menu_contacts_filter">Attēlojamās kontaktpersonas</string>
@@ -477,7 +477,7 @@ Iemesls: %s"</string>
   <string name="menu_create_contact_shortcut">Novietot sākuma ekrānā</string>
   <string name="menu_deleteContact">Dzēst</string>
   <string name="menu_deleteGroup">Dzēst</string>
-  <string name="menu_dialpad_text">Keypad</string>
+  <string name="menu_dialpad_text">Tastatūra</string>
   <string name="menu_discard">Atmest</string>
   <string name="menu_display_all">Rādīt visus</string>
   <string name="menu_display_selected">Rādīt atlasi</string>
@@ -526,11 +526,11 @@ Iemesls: %s"</string>
   <string name="name_phonetic_middle">Otrā vārda izruna</string>
   <string name="name_prefix">Uzruna</string>
   <string name="name_suffix">Tituls</string>
-  <string name="next">next</string>
+  <string name="next">tālāk</string>
   <string name="next_birthday">Next birthday: %s</string>
   <string name="nfc_vcard_file_name">No NFC saņ. kontaktinf.</string>
   <string name="nicknameLabelsGroup">Segvārds</string>
-  <string name="nickname_editor_title">Edit nickname</string>
+  <string name="nickname_editor_title">Labot segvārdu</string>
   <string name="nickname_picker_name_column">Contact Name</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">Lai izveidotu grupas, ir nepieciešams konts.</string>
@@ -571,8 +571,8 @@ To add a contact to your list of favorites:
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No storage was found.</string>
   <string name="non_phone_add_to_contacts">Add to contacts</string>
-  <string name="non_phone_caption">Phone number</string>
-  <string name="non_phone_close">Close</string>
+  <string name="non_phone_caption">Telefona numurs</string>
+  <string name="non_phone_close">Aizvērt</string>
   <string name="none_found">No devices found</string>
   <string name="none_paired">No devices have been paired</string>
   <string name="not_applied">Not supported</string>
@@ -581,8 +581,8 @@ To add a contact to your list of favorites:
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="online_no_network">Unable to connect to network</string>
   <string name="online_search_hint">Search online for resources</string>
-  <string name="openDialKeyboard">Dial pad</string>
-  <string name="open_contact">View contact</string>
+  <string name="openDialKeyboard">Pogas</string>
+  <string name="open_contact">Rādīt kontaktu</string>
   <string name="option_delete_contact">Dzēst</string>
   <string name="option_delete_group">Dzēst</string>
   <string name="option_edit_contact">Labot</string>
@@ -633,7 +633,7 @@ To add a contact to your list of favorites:
   <string name="postal_postcode">Pasta indekss</string>
   <string name="postal_region">Štats</string>
   <string name="postal_street">Iela</string>
-  <string name="pref_key_photo">Photo</string>
+  <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Auto select a photo for contacts without one.</string>
   <string name="pref_key_photo_word_title">Auto select photo for contacts</string>
   <string name="pref_key_rebuild_t9_index_message">Able to fix contact search failure</string>
@@ -644,7 +644,7 @@ To add a contact to your list of favorites:
   <string name="preference_auto_ip_summary_disable">Not enabled</string>
   <string name="preference_auto_ip_summary_on">"Carrier's IP prefix: %s"</string>
   <string name="preference_auto_ip_title">Automatic IP</string>
-  <string name="preference_contacts">Contact</string>
+  <string name="preference_contacts">Kontaktpersonas</string>
   <string name="preference_contacts_display">Contact display</string>
   <string name="preference_contacts_filter">Contacts to display</string>
   <string name="preference_contacts_more">More contact settings</string>
@@ -653,7 +653,7 @@ To add a contact to your list of favorites:
   <string name="preference_dial_pad_touch_tone_piano">Piano sound</string>
   <string name="preference_dial_pad_touch_tone_switch">Dial pad touch tones</string>
   <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
-  <string name="preference_display">Display</string>
+  <string name="preference_display">ekrāns</string>
   <string name="preference_displayOptions">Attēlošanas opcijas</string>
   <string name="preference_export">Eksportēt</string>
   <string name="preference_import">Importēt</string>
@@ -661,17 +661,17 @@ To add a contact to your list of favorites:
   <string name="preference_import_export_title">Import/Export contacts</string>
   <string name="preference_others">Citi</string>
   <string name="preference_phone">Tālrunis</string>
-  <string name="preference_phone_more_title">More phone settings</string>
+  <string name="preference_phone_more_title">Vairāk telefona iestatījumu</string>
   <string name="preference_remove_duplicate">Sapludināšana kontaktpersonu dublikātus</string>
   <string name="preference_simple_mode_description">List item does not display the avatar, attribution and company</string>
   <string name="preference_simple_mode_title">Simple mode</string>
   <string name="preference_smart_group_company_summary">Group contacts by company</string>
-  <string name="preference_smart_group_company_title">By company</string>
+  <string name="preference_smart_group_company_title">Pec firmas</string>
   <string name="preference_smart_group_frequency_summary">Group by latest calls or SMS</string>
   <string name="preference_smart_group_frequency_title">By recently contacted</string>
   <string name="preference_smart_group_location_summary">Grouped according to area code</string>
-  <string name="preference_smart_group_location_title">By location</string>
-  <string name="preference_smart_group_title">Smart grouping</string>
+  <string name="preference_smart_group_location_title">Pēc atrašanās vitas</string>
+  <string name="preference_smart_group_title">Gudrā grupēšana</string>
   <string name="preference_telocation_summary_countrycode_off">Do not auto-add the country code</string>
   <string name="preference_telocation_summary_countrycode_on">Auto-add the country code</string>
   <string name="preference_telocation_summary_teloc_off">Hide location</string>
@@ -800,16 +800,16 @@ To add a contact to your list of favorites:
   <string name="sim_no_contact">No contacts on SIM card</string>
   <string name="single_group_list_empty">No group members</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
-  <string name="smart_group_company_label">By company</string>
+  <string name="smart_group_company_label">Pēc firmas</string>
   <string name="smart_group_company_unavailable">No company</string>
   <string name="smart_group_frequency_1">Within a month</string>
   <string name="smart_group_frequency_2">Within 3 months</string>
   <string name="smart_group_frequency_3">Within 6 months</string>
   <string name="smart_group_frequency_4">Over 6 months</string>
   <string name="smart_group_frequency_label">By recently contacted</string>
-  <string name="smart_group_label">Smart grouping</string>
+  <string name="smart_group_label">Gudrā grupēšana</string>
   <string name="smart_group_loading">Loading smart groups…</string>
-  <string name="smart_group_location_label">By location</string>
+  <string name="smart_group_location_label">Pēc atrašanās vietas</string>
   <string name="smart_group_location_unavailable">No address</string>
   <string name="sms">Īsziņa</string>
   <string name="sms_assistant">Sūtīt īsziņu: %s</string>
