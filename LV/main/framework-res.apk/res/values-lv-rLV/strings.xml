@@ -264,7 +264,7 @@
     <string name="contentServiceSyncNotificationTitle">Sinhronizācija</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Pārāk daudz %s dzēsto vienumu.</string>
     <string name="low_memory">Tālruņa atmiņa ir pilna! Dzēsiet dažus failus, lai atbrīvotu vietu.</string>
-    <string name="me">Man</string>
+    <string name="me">Es</string>
     <string name="power_dialog">Tālruņa opcijas</string>
     <string name="silent_mode">Klusuma režīms</string>
     <string name="turn_on_radio">Ieslēgt bezvadu tīklu</string>
