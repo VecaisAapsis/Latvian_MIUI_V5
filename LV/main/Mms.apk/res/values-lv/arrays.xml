@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Three times</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Vienu reizi</item>
+        <item>Divas reizes</item>
+        <item>Trīs reizes</item>
+        <item>Piecas reizes</item>
+        <item>Desmit reizes</item>
     </string-array>
 </resources>
