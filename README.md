@@ -4,7 +4,7 @@ MIUI v5 - MIUIAndroid XML Strings Latvian
 
 Bluetooth.apk
 
-Browser.apk
+Browser.apk --finished--
 
 BugReport.apk
 
