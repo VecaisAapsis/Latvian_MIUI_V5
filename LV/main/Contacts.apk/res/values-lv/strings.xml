@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="account_abnormal_state">Nenormāla konta informācia, mēģiniet, lai pieteiktos vēlreiz vai mēģiniet vēlāk!</string>
   <string name="account_container_title">No sekojošā konta</string>
@@ -93,13 +93,13 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_item_op_time_rejected">Noraidīts</string>
   <string name="callrecordview_item_op_time_short_incoming">"Ienākošais: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Izejošais: "</string>
-  <string name="callrecordview_menu_delete">Delete call log</string>
-  <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
+  <string name="callrecordview_menu_delete">Dzēst zvanu žurnālu</string>
+  <string name="callrecordview_menu_delete_accepted">Notīrīt žurnālu par saņemtajiem zvaniem</string>
   <string name="callrecordview_menu_delete_all">Dzēst zvanu žurnālu</string>
-  <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
-  <string name="callrecordview_menu_delete_confirm">Confirm %s?</string>
-  <string name="callrecordview_menu_delete_missed">Clear log for missed calls</string>
-  <string name="callrecordview_menu_delete_one">Remove from call log</string>
+  <string name="callrecordview_menu_delete_called">Notīrīt žurnālu par izejošajiem zvaniem</string>
+  <string name="callrecordview_menu_delete_confirm">Apstiprināt %s?</string>
+  <string name="callrecordview_menu_delete_missed">Notīrīt žurnālu par neatbildētiem zvaniem</string>
+  <string name="callrecordview_menu_delete_one">Noņemt no zvanu žurnāla</string>
   <string name="callrecordview_menu_delete_stranger">Dzēst zvanu žurnālu nezināmiem numuriem</string>
   <string name="callrecordview_menu_paste">Ielīmēt</string>
   <string name="callrecordview_menu_settings">Iestatījumi</string>
@@ -109,12 +109,12 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_menu_show_called">Rādīt izejošos zvanus</string>
   <string name="callrecordview_menu_show_missed">Rādīt neatbildētos zvanus</string>
   <string name="callrecordview_menu_show_stranger">Rādīt nezināmas zvanus</string>
-  <string name="callrecordview_menu_show_title">Select call log type to be displayed</string>
+  <string name="callrecordview_menu_show_title">Izvēlieties zvanu žurnāla veidu, kas tiks parādīts</string>
   <string name="cancel_confirmation_dialog_message">Vai atmest veiktās izmaiņas?</string>
   <string name="cancel_export_confirmation_message">Vai atcelt faila %s eksportēšanu?</string>
   <string name="cancel_import_confirmation_message">Vai atcelt faila %s importēšanu?</string>
   <string name="cancel_import_dialog_message">Are you sure you want to stop importing contacts?</string>
-  <string name="cancel_import_dialog_title">Cancel import</string>
+  <string name="cancel_import_dialog_title">Atcelt importēšanu</string>
   <string name="cancel_vcard_import_or_export_failed">Nevarēja atcelt vCard f. import./eksp.</string>
   <string name="chat">Tērzēt</string>
   <string name="chat_aim">Tērzēt, izmantojot AIM</string>
@@ -126,7 +126,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="chat_skype">Tērzēt, izmantojot Skype</string>
   <string name="chat_yahoo">Tērzēt, izmantojot Yahoo</string>
   <string name="check_unsynchronized_accounts">Check unsynchronized frequency</string>
-  <string name="checkhint">check the other phone</string>
+  <string name="checkhint">Pārbaudīt citu telefonu</string>
   <string name="clearCallLogConfirmation">Visi zvanu ieraksti tiks dzēsti.</string>
   <string name="clearCallLogConfirmation_title">Vai not. zv. žurn.?</string>
   <string name="clearCallLogProgress_title">Notiek zvanu žurnāla tīrīšana...</string>
@@ -134,20 +134,24 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clearFrequentsConfirmation_title">Vai dzēst bieži lietotos kontaktus?</string>
   <string name="clearFrequentsProgress_title">Bieži lietoto kontaktu dzēšana...</string>
   <string name="clear_default">Notīrīt noklusējuma iestatījumus</string>
-  <string name="click_close">Click screen to close</string>
-  <string name="cloud_antispam_summary">Filter calls and messages over Wi-Fi and data networks</string>
+  <string name="click_close">Noklikšķiniet uz ekrāna, lai aizvērtu</string>
+  <string name="cloud_antispam_summary">Filtrēt zvanus un īsziņas, izmantojot Wi-Fi un datu pārraides tīklu</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">Nevarēja iegūt informāciju no datu bāzes.</string>
   <string name="composer_has_no_exportable_contact">Nav nevienas eksportējamas kontaktpersonas. Ja jūsu tālrunī ir saglabātas kontaktpersonas, iespējams, jūsu datu pakalpojumu sniedzējs neļauj eksportēt kontaktpersonas no tālruņa.</string>
   <string name="composer_not_initialized">Netika pareizi startēts vCard veidotājs.</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
+  <string name="config_export_extensions_to_consider">
+  </string>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
+  <string name="config_export_file_prefix">
+  </string>
+  <string name="config_export_file_suffix">
+  </string>
   <string name="config_export_vcard_type">Noklusējuma</string>
   <string name="config_import_vcard_type">Noklusējuma</string>
-  <string name="config_prohibited_phone_number_regexp"/>
+  <string name="config_prohibited_phone_number_regexp">
+  </string>
   <string name="confirm_delete_contact_all_call_logs">"Are you sure you want to delete %s's call logs?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Are you sure you want to delete the contact's call logs?"</string>
   <string name="confirm_export_message">Kontaktpersonu saraksts tiks eksportēts uz failu %s.</string>
@@ -166,7 +170,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="contact_directory_description">Katalogs %1$s</string>
   <string name="contact_edit_title_edit">Rediģēt kontaktu</string>
   <string name="contact_edit_title_insert">Create %s contact</string>
-  <string name="contact_edit_title_readonly">Read-only contact</string>
+  <string name="contact_edit_title_readonly">Tikai lasāms kontakts</string>
   <string name="contact_editor_prompt_multiple_accounts">Varat sinhronizēt jauno kontaktinformāciju ar vienu no tālāk norādītajiem kontiem. Kuru kontu vēlaties izmantot?</string>
   <string name="contact_editor_prompt_one_account">Jaunā kontaktinformācija tiks sinhronizēta ar kontu %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Jaunā kontaktinformācija netiks dublēta. Vai pievienot kontu, kurā tiek tiešsaistē dublēta kontaktinformācija?</string>
@@ -175,7 +179,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="contact_read_only">Nevar rediģēt šajā lietotnē.</string>
   <string name="contact_status_update_attribution">izmantojot %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s, izmantojot %2$s</string>
-  <string name="contact_unfavorite_toast">Contact removed from favorites</string>
+  <string name="contact_unfavorite_toast">Kontakts noņemts no izlases</string>
   <string name="contactsAllLabel">Kontakti</string>
   <string name="contactsFavoritesLabel">Izlase</string>
   <string name="contactsGroupsLabel">Grupas</string>
@@ -192,21 +196,21 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="custom_list_filter">Definēt pielāgoto skatījumu</string>
   <string name="custom_nickname_hint">Type the title such as: Mr/Doctor</string>
   <string name="date_picker_label">Remind 3-days before and on the day of birthday</string>
-  <string name="date_time_set">Set</string>
+  <string name="date_time_set">Iestatīt</string>
   <string name="date_year_toggle">Norādīt gadu</string>
-  <string name="default_ringtone">Default ringtone</string>
+  <string name="default_ringtone">Noklusējuma zvans</string>
   <string name="deleteConfirmation">Šī kontaktpersona tiks dzēsta.</string>
-  <string name="deleteConfirmationDetail">\"%s\" will be deleted.</string>
+  <string name="deleteConfirmationDetail">\"%s\"Tiks dzēsts.</string>
   <string name="deleteConfirmation_title">Dzēst</string>
-  <string name="delete_call_log_title">Select call log to delete?</string>
+  <string name="delete_call_log_title">Izvēlieties zvanu žurnālu ko dzēst?</string>
   <string name="delete_contact_calllog_title">"Are you sure you want to delete contact's call log?"</string>
-  <string name="delete_duplicate">merge</string>
-  <string name="delete_duplicate_message">"Merging contacts..."</string>
+  <string name="delete_duplicate">apvienot</string>
+  <string name="delete_duplicate_message">"Apvieno kontaktus..."</string>
   <string name="delete_group_dialog_message">Delete the group \"%1$s\", contacts themselves will not be deleted.</string>
-  <string name="delete_group_dialog_title">Delete group</string>
+  <string name="delete_group_dialog_title">Dzēst grupu</string>
   <string name="delete_unknown_contact_calllog_title">"Are you sure you want to delete unknown contact's call logs?"</string>
   <string name="description_add_contact">Pievienot kontaktpersonu</string>
-  <string name="description_author">Author:</string>
+  <string name="description_author">Autors:</string>
   <string name="description_call">Zvanīt šim: %1$s</string>
   <string name="description_call_log_incoming_call">Ienākošs zvans</string>
   <string name="description_call_log_missed_call">Neatbildēts zvans</string>
@@ -220,7 +224,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="description_dial_button">sastādīt numuru</string>
   <string name="description_dial_phone_number">Kontaktpersonas %1$s tālruņa numurs</string>
   <string name="description_digits_edittext">sastādītais numurs</string>
-  <string name="description_download">Download:</string>
+  <string name="description_download">Lejupielādēt:</string>
   <string name="description_image_button_eight">astoņi</string>
   <string name="description_image_button_five">pieci</string>
   <string name="description_image_button_four">četri</string>
@@ -241,37 +245,37 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="description_send_text_message">Sūtīt īsziņu šim: %1$s</string>
   <string name="description_size">Izmērs:</string>
   <string name="description_star">izlase</string>
-  <string name="description_summary">Summary:</string>
-  <string name="description_uploadtime">Updated:</string>
-  <string name="description_version">Version:</string>
+  <string name="description_summary">Kopsavilkums:</string>
+  <string name="description_uploadtime">Atjaunots:</string>
+  <string name="description_version">Versija:</string>
   <string name="description_view_contact">Skatīt kontaktpersonu %1$s</string>
   <string name="description_view_contact_detail">Skatīt kontaktpersonu</string>
   <string name="description_voicemail_button">balss pasts</string>
-  <string name="deselect_all">Deselect all</string>
-  <string name="device_bluetooth_title">preparatory work</string>
+  <string name="deselect_all">Atceltu visu</string>
+  <string name="device_bluetooth_title">sagatavošanas darbs</string>
   <string name="device_brand_title">select cell phone brand</string>
-  <string name="device_import_account_dialog_title">Select account to import</string>
-  <string name="device_import_account_dialog_title_suffix">"(found %1$s contacts)"</string>
-  <string name="device_import_done_toast">%1$d contacts imported</string>
-  <string name="device_import_failed_message">Import failed!</string>
-  <string name="device_import_local_account">Local account</string>
+  <string name="device_import_account_dialog_title">Izvēlieties kontu, lai importētu</string>
+  <string name="device_import_account_dialog_title_suffix">"(atrasti %1$s kontakti)"</string>
+  <string name="device_import_done_toast">%1$dkontakti importēti</string>
+  <string name="device_import_failed_message">Importēt neizdevās!</string>
+  <string name="device_import_local_account">Vietējā konts</string>
   <string name="device_import_message">Importing</string>
-  <string name="device_import_progress_begin_message">Preparing to import…</string>
-  <string name="device_import_progress_end_message">Done import!</string>
-  <string name="device_import_progress_message">Importing...</string>
-  <string name="device_import_progress_toast">%1$d contacts imported</string>
-  <string name="device_import_title">import process</string>
-  <string name="device_list_title">select phone to pair with</string>
+  <string name="device_import_progress_begin_message">Sagatavo importēt...</string>
+  <string name="device_import_progress_end_message">Importēšana pabeigta!</string>
+  <string name="device_import_progress_message">Importē...</string>
+  <string name="device_import_progress_toast">%1$d kontakti importēti</string>
+  <string name="device_import_title">Importa process</string>
+  <string name="device_list_title">Izvēlētos tālruni ar ko pārot</string>
   <string name="device_other_guide">if your phone is not in the manufacturer list, try to use the help below</string>
-  <string name="device_other_title">other phone</string>
+  <string name="device_other_title">citu tālruni</string>
   <string name="device_paired_dialog_message">Device paired, fetching contacts (you may need to confirm on the other phone)...</string>
   <string name="device_paired_dialog_title">Device paired, fetching contacts</string>
   <string name="device_pairing_dialog_message">Device pairing (you may need to confirm on the other phone)...</string>
   <string name="device_pairing_dialog_title">Device pairing</string>
-  <string name="device_version_header_bluetooth">open your phones bluetooth</string>
+  <string name="device_version_header_bluetooth">Atvērt sava telefona Bluetooth</string>
   <string name="device_version_header_no_bluetooth">Import contacts from SIM card</string>
-  <string name="device_version_title">select cell phone version</string>
-  <string name="dialerDialpadHintText">Dial to add a call</string>
+  <string name="device_version_title">izvēlieties mobilā tālruņa versiju</string>
+  <string name="dialerDialpadHintText">Sastādīt numuru, lail pievienot zvanu</string>
   <string name="dialerIconLabel">Zvanīt</string>
   <string name="dialerKeyboardHintText">Izmantojiet tastatūru, lai sastādītu numuru.</string>
   <string name="dialer_addAnotherCall">Pievienot zvanu</string>
@@ -287,7 +291,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="dialog_phone_call_prohibited_message">Nenosūtīts zvans</string>
   <string name="dialog_sync_add">Pievienot sinhronizējamu grupu</string>
   <string name="dialog_voicemail_airplane_mode_message">Lai piezvanītu balss pastam, vispirms izslēdziet lidojuma režīmu.</string>
-  <string name="dialog_voicemail_not_ready_message">Lai iestatītu balss pastu, atveriet sadaļu Izvēlne > Iestatījumi.</string>
+  <string name="dialog_voicemail_not_ready_message">Lai iestatītu balss pastu, atveriet sadaļu Izvēlne &gt; Iestatījumi.</string>
   <string name="directory_search_label">Katalogs</string>
   <string name="dirty_contacts_notification_description">%d modifications of local contacts have not synchronized with the account</string>
   <string name="dirty_contacts_notification_message">(Disable reminder in contact settings)</string>
@@ -301,15 +305,15 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="display_options_view_family_name_first">Vispirms rādīt uzvārdu</string>
   <string name="display_options_view_given_name_first">Vispirms rādīt vārdu</string>
   <string name="display_options_view_names_as">Kontaktpersonu vārdu attēlošana:</string>
-  <string name="display_sim_contacts">Show SIM contacts</string>
+  <string name="display_sim_contacts">Rādīt SIM kontaktus</string>
   <string name="display_ungrouped">Citas kontaktpersonas</string>
   <string name="display_warn_remove_ungrouped">Pārtraucot grupas %s sinhronizāciju, tiks pārtraukta arī visu negrupēto kontaktpersonu sinhronizācija.</string>
-  <string name="download_failed">Download failed!</string>
+  <string name="download_failed">Lejupielādēt neizdevās!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="editContactDescription">Rediģēt kontaktpersonu</string>
   <string name="editGroupDescription">Rediģēt grupu</string>
   <string name="edit_contact">Kontaktpersonu rediģēšana</string>
-  <string name="edit_contact_card_title">Edit contact card</string>
+  <string name="edit_contact_card_title">Rediģēt kontaktu vizitkarti</string>
   <string name="email">Sūtīt e-pasta ziņojumu</string>
   <string name="emailLabelsGroup">E-pasts</string>
   <string name="email_custom">Sūtīt e-pasta ziņojumu uz %s</string>
@@ -318,7 +322,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="email_other">Sūtīt e-pasta ziņojumu</string>
   <string name="email_work">Sūtīt e-pasta ziņojumu uz darba adresi</string>
   <string name="emptyGroup">Šajā grupā nav personu.</string>
-  <string name="empty_divider_title">You can</string>
+  <string name="empty_divider_title">Jūs varat</string>
   <string name="enter_contact_name">Rakstiet personas vārdu.</string>
   <string name="eventLabelsGroup">Notikumi</string>
   <string name="event_edit_field_hint_text">Datums</string>
@@ -380,16 +384,19 @@ Iemesls: %s"</string>
   <string name="group_sms_progress_msg">Preparing to group SMS…</string>
   <string name="groupsLabel">Grupas</string>
   <string name="groups_list_empty">No groups</string>
-  <string name="help_url_people_add"/>
-  <string name="help_url_people_edit"/>
-  <string name="help_url_people_main"/>
+  <string name="help_url_people_add">
+  </string>
+  <string name="help_url_people_edit">
+  </string>
+  <string name="help_url_people_main">
+  </string>
   <string name="hint_distance">keep the distance</string>
   <string name="hint_findContacts">Meklēt kontaktpersonas</string>
   <string name="hint_more_contact">use merge contact when exits double contacts</string>
   <string name="hint_search_contacts">%d kontakti</string>
   <string name="hint_search_phone_numbers">%d contact numbers</string>
   <string name="ic_menu_back">Back</string>
-  <string name="ic_menu_done">Done</string>
+  <string name="ic_menu_done">Darīts</string>
   <string name="imLabelsGroup">Tūlītējā ziņojumapmaiņa</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Importēt visus vCard failus</string>
@@ -422,7 +429,7 @@ Iemesls: %s"</string>
   <string name="insertGroupDescription">Izveidot grupu</string>
   <string name="invalidContactMessage">Šāda kontaktpersona nepastāv.</string>
   <string name="keep_local">Saglabāt vietēji</string>
-  <string name="keep_local_btn">Save to phone only</string>
+  <string name="keep_local_btn">Saglabāt tikai tālrunī</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Great! No duplicate contacts for now!</string>
@@ -531,7 +538,7 @@ Iemesls: %s"</string>
   <string name="nfc_vcard_file_name">No NFC saņ. kontaktinf.</string>
   <string name="nicknameLabelsGroup">Segvārds</string>
   <string name="nickname_editor_title">Labot segvārdu</string>
-  <string name="nickname_picker_name_column">Contact Name</string>
+  <string name="nickname_picker_name_column">Kontaktpersonas vārds</string>
   <string name="nickname_picker_nickname_column">Title</string>
   <string name="noAccounts">Lai izveidotu grupas, ir nepieciešams konts.</string>
   <string name="noContactHelpTextAccountsInfo">Sync Xiaomi, Google, Exchange contacts.</string>
@@ -551,32 +558,32 @@ To add contacts, touch "</string>
   <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
 To add contacts, touch "</string>
-  <string name="noContactsWithPhoneNumbers">No contacts with phone numbers.</string>
+  <string name="noContactsWithPhoneNumbers">Nav kontaktpersonas ar tālruņa numuriem.</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
 
 To add a contact to your list of favorites:
 
 "</string>
-  <string name="noGroups">No groups.</string>
+  <string name="noGroups">Nav grupu.</string>
   <string name="noMatchingContacts">No matching contacts found.</string>
-  <string name="noRecentContacts">No recent contact</string>
+  <string name="noRecentContacts">Nav Pēdējā laikā  kontaktu</string>
   <string name="no_account_prompt">"People works better with a Google Account.
 
 • Access from any web browser.
 • Back up your contacts securely."</string>
   <string name="no_contact_details">No additional information for this contact.</string>
-  <string name="no_contact_in_other_phone">There is no contact in your phone</string>
+  <string name="no_contact_in_other_phone">Tālrunī nav kontaktu</string>
   <string name="no_contacts_dialog_message">Did not find person in your Contacts. It may be stored in the SIM Card contact list, if so please import SIM card information into phone.</string>
-  <string name="no_contacts_dialog_title">Did not find contact</string>
+  <string name="no_contacts_dialog_title">Neatrada nevienu kontaktu</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No storage was found.</string>
-  <string name="non_phone_add_to_contacts">Add to contacts</string>
+  <string name="non_phone_add_to_contacts">Pievienot kontaktiem</string>
   <string name="non_phone_caption">Telefona numurs</string>
   <string name="non_phone_close">Aizvērt</string>
-  <string name="none_found">No devices found</string>
+  <string name="none_found">Neviena ierīce nav atrasta</string>
   <string name="none_paired">No devices have been paired</string>
-  <string name="not_applied">Not supported</string>
-  <string name="notification_action_voicemail_play">Play</string>
+  <string name="not_applied">Neatbalsta</string>
+  <string name="notification_action_voicemail_play">Atskaņot</string>
   <string name="notification_new_voicemail_ticker">New voicemail from %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="online_no_network">Unable to connect to network</string>
@@ -591,19 +598,19 @@ To add a contact to your list of favorites:
   <string name="option_rename_group">Pārsaukt</string>
   <string name="option_send_to_desktop">Send to desktop</string>
   <string name="option_send_to_others">Send to others</string>
-  <string name="option_view_contact">View</string>
-  <string name="option_view_group">View</string>
+  <string name="option_view_contact">Apskatīt</string>
+  <string name="option_view_group">Apskatīt</string>
   <string name="organizationLabelsGroup">Organizācija</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
-  <string name="other_contacts">Others</string>
-  <string name="other_phone">other phones</string>
+  <string name="other_contacts">Citi</string>
+  <string name="other_phone">Citi tālruņi</string>
   <string name="payphone">Taksofons</string>
   <string name="people">Kontakti</string>
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Tālrunis</string>
   <string name="phone_info_divider">"  |  "</string>
-  <string name="phone_primary">Primary</string>
+  <string name="phone_primary">Primārais</string>
   <string name="photoPickerNotFoundText">Tālrunī nav pieejams neviens attēls.</string>
   <string name="photo_package_activity_title">Photo package</string>
   <string name="pick_favorites_contacts_list_title">%1$d favorite contacts in total</string>
@@ -614,16 +621,16 @@ To add a contact to your list of favorites:
   <string name="pick_recent_list_title">%1$d recent contact numbers in total</string>
   <string name="pickerNewContactHeader">Izveidot jaunu kontaktpersonu</string>
   <string name="pickerNewContactText">Izveidot jaunu kontaktpersonu</string>
-  <string name="picker_all_list_empty">No contacts</string>
+  <string name="picker_all_list_empty">Nav kontaktpersonu</string>
   <string name="picker_contact_title">Please pick a contact</string>
   <string name="picker_email_title">Pleas pick an email</string>
-  <string name="picker_favorites_list_empty">No favorites</string>
-  <string name="picker_groups_list_empty">No groups</string>
+  <string name="picker_favorites_list_empty">Nav izlase</string>
+  <string name="picker_groups_list_empty">Nav grupu</string>
   <string name="picker_join_title">Choose a contact to join with %s</string>
-  <string name="picker_number_title">Please pick a number</string>
-  <string name="picker_postal_title">Please pick a postal</string>
-  <string name="picker_recent_list_empty">No recent contacts</string>
-  <string name="pkgLabel">Contacts and dialer</string>
+  <string name="picker_number_title">Lūdzu izvēlēties numuru</string>
+  <string name="picker_postal_title">Lūdzu, izvēlieties pasta</string>
+  <string name="picker_recent_list_empty">Nav nesenie kontakti</string>
+  <string name="pkgLabel">Kontakti un zvanītājprogramma</string>
   <string name="postalLabelsGroup">Adrese</string>
   <string name="postal_address">Adrese</string>
   <string name="postal_city">Pilsēta</string>
@@ -641,7 +648,7 @@ To add a contact to your list of favorites:
   <string name="pref_summary_import_from_account">Import contacts in Google and Exchange accounts to my Xiaomi Account</string>
   <string name="pref_title_account_import">Import from account</string>
   <string name="pref_title_import_from_account">Import to Xiaomi account</string>
-  <string name="preference_auto_ip_summary_disable">Not enabled</string>
+  <string name="preference_auto_ip_summary_disable">Nav iespējots</string>
   <string name="preference_auto_ip_summary_on">"Carrier's IP prefix: %s"</string>
   <string name="preference_auto_ip_title">Automatic IP</string>
   <string name="preference_contacts">Kontaktpersonas</string>
@@ -674,8 +681,8 @@ To add a contact to your list of favorites:
   <string name="preference_smart_group_title">Gudrā grupēšana</string>
   <string name="preference_telocation_summary_countrycode_off">Do not auto-add the country code</string>
   <string name="preference_telocation_summary_countrycode_on">Auto-add the country code</string>
-  <string name="preference_telocation_summary_teloc_off">Hide location</string>
-  <string name="preference_telocation_summary_teloc_on">Show location</string>
+  <string name="preference_telocation_summary_teloc_off">Slēpt atrašanās vietu</string>
+  <string name="preference_telocation_summary_teloc_on">Parādīt atrašanās vietu</string>
   <string name="preference_telocation_title">Telocation</string>
   <string name="preference_tone_title">Tone</string>
   <string name="prepare_import">prepare import</string>
@@ -714,7 +721,7 @@ To add a contact to your list of favorites:
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
   <string name="resource_apply">Apply</string>
-  <string name="resource_buy">Buy</string>
+  <string name="resource_buy">Pirkt</string>
   <string name="resource_can_not_selected">%1$s cannot be selected!</string>
   <string name="resource_default">Default ringtone</string>
   <string name="resource_default_name">Resource</string>
@@ -730,11 +737,11 @@ To add a contact to your list of favorites:
   <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
   <string name="resource_importing">Importing...</string>
-  <string name="resource_list_title">Latest</string>
-  <string name="resource_local">Local %1$s</string>
-  <string name="resource_mute">None</string>
-  <string name="resource_no_result">No result</string>
-  <string name="resource_notification_default">Notifications</string>
+  <string name="resource_list_title">Jaunākās</string>
+  <string name="resource_local">Vietējie %1$s</string>
+  <string name="resource_mute">Neviens</string>
+  <string name="resource_no_result">Nav rezultātu</string>
+  <string name="resource_notification_default">Paziņojumi</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Free</string>
@@ -748,7 +755,7 @@ To add a contact to your list of favorites:
   <string name="resource_tip_select_ringtone">No ringtone selected</string>
   <string name="resource_title">Resource details</string>
   <string name="resource_title_select_ringtone">Izvēlieties zvana melodiju</string>
-  <string name="resource_update">Update</string>
+  <string name="resource_update">Atjauninot</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Atzvanīt</string>
@@ -768,12 +775,12 @@ To add a contact to your list of favorites:
   <string name="search_results_searching">Notiek meklēšana...</string>
   <string name="search_settings_description">Kontaktpersonu vārdi</string>
   <string name="searching_vcard_message">Notiek vCard datu meklēšana atmiņā...</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">Izvēlēties visu</string>
   <string name="select_device">Select a device to connect with</string>
   <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>
   <string name="select_none">Nothing selected, the operation is invalid</string>
   <string name="select_photo_from_photo_package">Select photo from photo package</string>
-  <string name="select_show_contacts">To display the contact</string>
+  <string name="select_show_contacts">Lai parādītu kontaktu</string>
   <string name="select_vcard_title">vCard faila izvēle</string>
   <string name="send_contact_shortcut_todesktop_success">Added contact shortcut to home screen successfully</string>
   <string name="send_to_voicemail_checkbox">Pāradresēt zvanus tieši uz balss pastu</string>
@@ -792,7 +799,7 @@ To add a contact to your list of favorites:
   <string name="simContacts_emptyLoading">Notiek ielāde no SIM kartes...</string>
   <string name="simContacts_title">Kontaktpersonas SIM kartē</string>
   <string name="sim_card_no_free_space_message">Your SIM card is full, cannot import new contacts. Please clear SIM card and try again</string>
-  <string name="sim_card_no_free_space_title">SIM is full!</string>
+  <string name="sim_card_no_free_space_title">SIM ir pilna!</string>
   <string name="sim_contact_search_error">Error occurred when searching SIM card contacts</string>
   <string name="sim_contacts">SIM Contacts</string>
   <string name="sim_export_loading">Reading SIM card information (may take a minute)…</string>
@@ -855,7 +862,7 @@ To add a contact to your list of favorites:
   <string name="toast_call_detail_error">Nevarēja nolasīt informāciju par pieprasīto zvanu.</string>
   <string name="toast_displaying_all_contacts">Tiek attēlotas visas kontaktpersonas</string>
   <string name="toast_finish_delete_call_log">Call log has been deleted</string>
-  <string name="toast_for_failed_saving_nickname">Failed to save nickname!</string>
+  <string name="toast_for_failed_saving_nickname">Neizdevās saglabāt segvārdu!</string>
   <string name="toast_for_saving_nickname">Iesauka saglabāta</string>
   <string name="toast_join_with_empty_contact">Ievadiet kontaktpersonas vārdu, pirms apvienojat to ar citu kontaktpersonu.</string>
   <string name="toast_making_personal_copy">Notiek personīgā eksemplāra izveide...</string>
@@ -866,13 +873,13 @@ To add a contact to your list of favorites:
   <string name="type_outgoing">Izejošais zvans</string>
   <string name="type_voicemail">Balss pasts</string>
   <string name="unknown">Nezināms</string>
-  <string name="unknown_contact_name">Unknown contact</string>
+  <string name="unknown_contact_name">Nezināms kontakts</string>
   <string name="upgrade_in_progress">Contact list is being updated.</string>
   <string name="upgrade_out_of_memory">"Contacts are in the process of being upgraded. The upgrade process requires approximately %s MB of internal storage. Choose one of the following options:"</string>
   <string name="upgrade_out_of_memory_retry">Mēģināt jaunināt vēlreiz</string>
   <string name="upgrade_out_of_memory_uninstall">Atinstalēt dažas lietojumprogrammas</string>
   <string name="use_photo_as_primary">Izmantot šo fotoattēlu</string>
-  <string name="use_photo_as_primary2">Use %s contact photo</string>
+  <string name="use_photo_as_primary2">Izmantot %s kontakta attēlu</string>
   <string name="user_profile_contacts_list_header">Es</string>
   <string name="vcard_export_request_rejected_message">Tika noraidīts vCard faila eksportēšanas pieprasījums. Vēlāk mēģiniet vēlreiz.</string>
   <string name="vcard_export_will_start_message">Fails %s tiks drīzumā eksportēts.</string>

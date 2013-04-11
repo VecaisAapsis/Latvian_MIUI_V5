@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="accessibility_add_attendee">Pievienot dalībnieku</string>
   <string name="accessibility_add_reminder">Pievienot atgādinājumu</string>
@@ -29,17 +29,21 @@
   <string name="alert_title">Kalendāra paziņojumi</string>
   <string name="app_label">Kalendārs</string>
   <string name="attendees_label">Viesi</string>
-  <string name="birthday_calendar_display_name">Birthday Reminder</string>
-  <string name="birthday_event_description">"Today is %1$s's birthday!"</string>
-  <string name="birthday_event_description_detail_leap"/>
-  <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">3 days until the birthday (%3$s)</string>
-  <string name="birthday_notification_text_today">"Don't forget to say happy birthday!"</string>
+  <string name="birthday_calendar_display_name">Dzimšanas dienu atgādinājums</string>
+  <string name="birthday_event_description">"Šodien %1$s's ir dzimšanasdiena!"</string>
+  <string name="birthday_event_description_detail_leap">
+  </string>
+  <string name="birthday_event_description_detail_smart">
+  </string>
+  <string name="birthday_notification_age_term">
+  </string>
+  <string name="birthday_notification_text_three_days_later">3 dienas līdz (%3$s) dzimšanasdienai</string>
+  <string name="birthday_notification_text_today">"Neaizmirstiet pateikt Daudz laimes dzimšanasdienā!"</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's birthday is coming up"</string>
-  <string name="birthday_notification_title_today">"%1$s's birthday"</string>
-  <string name="birthday_notification_type_term_lunar"/>
-  <string name="calendar_refresh">Refresh</string>
+  <string name="birthday_notification_title_today">"%1$s's dzimšanasdiena"</string>
+  <string name="birthday_notification_type_term_lunar">
+  </string>
+  <string name="calendar_refresh">Atsvaidzināt</string>
   <string name="change_response_title">Atbildes maiņa</string>
   <string name="copy_db">Nosūtīt datu bāzi</string>
   <string name="copy_email">Kopēt e-pasta adresi</string>
@@ -93,18 +97,20 @@
   <string name="hint_description">Apraksts</string>
   <string name="hint_what">Pasākuma nosaukums</string>
   <string name="hint_where">Atrašanās vieta</string>
-  <string name="jump_date">Skip</string>
-  <string name="jump_date_full">Skip to date</string>
+  <string name="jump_date">Izlaist</string>
+  <string name="jump_date_full">Izlaist līdz datumam</string>
   <string name="loading">Notiek ielāde…</string>
-  <string name="local_calendar_display_name">Local Calendar</string>
-  <string name="local_owner_account_name">Local Account</string>
+  <string name="local_calendar_display_name">Vietēais kalendārs</string>
+  <string name="local_owner_account_name">Vietējais Konts</string>
   <string name="menu_about_preferences">Par pakalpojumu Kalendārs</string>
   <string name="menu_general_preferences">Vispārīgi iestatījumi</string>
   <string name="menu_preferences">Iestatījumi</string>
   <string name="menu_select_visible_calendars">Parād. kal.</string>
-  <string name="miui_chinese_week_range_double"/>
-  <string name="miui_chinese_week_range_single"/>
-  <string name="miui_menu_create_event">New Event</string>
+  <string name="miui_chinese_week_range_double">
+  </string>
+  <string name="miui_chinese_week_range_single">
+  </string>
+  <string name="miui_menu_create_event">Jauns notikums</string>
   <string name="modify_all">Mainīt visus virknes pasākumus</string>
   <string name="modify_all_following">Mainīt šo un visus nākamos pasākumus</string>
   <string name="modify_event">Mainīt tikai šo pasākumu</string>
