@@ -923,7 +923,7 @@ Switch to the new provider anyway?"</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">Internet calling (SIP) accounts</string>
-  <string name="sip_accounts_title">Accounts</string>
+  <string name="sip_accounts_title">Konti</string>
   <string name="sip_add_account_tip_text">Please add a SIP account to use Internet calling</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
   <string name="sip_always">SIP_ALWAYS</string>

@@ -3,7 +3,7 @@
   <string name="about_device">About phone</string>
   <string name="active_xiaomi_account">Active</string>
   <string name="active_xiaomi_account_msg">"Please go to the MIUI forum to activate Xiaomi account:"</string>
-  <string name="active_xiaomi_account_title">Activate Xiaomi account</string>
+  <string name="active_xiaomi_account_title">Aktivizē Xiaomi kontu</string>
   <string name="app_name">Updater</string>
   <string name="apply_buddy_update_info_message">Click Update now, the phone will begin the update process</string>
   <string name="apply_existing_update_md5error_title">MD5 signature does not match</string>

@@ -175,13 +175,13 @@
   <string name="account_setup_security_required_title">Remote security administration</string>
   <string name="account_setup_username_password_toast">Type a valid e-mail address and password.</string>
   <string name="account_setup_username_uneditable_error">"You can't change an account's username. To add an account with a different username, touch Add Account."</string>
-  <string name="account_shortcut_picker_name">E-mail account</string>
-  <string name="account_shortcut_picker_title">Choose an account</string>
+  <string name="account_shortcut_picker_name">E-mail konts</string>
+  <string name="account_shortcut_picker_title">Izvēlies kontu</string>
   <string name="accounts_welcome">You can set up e-mail for most accounts in just a few steps.</string>
   <string name="accounts_welcome_exchange">You can set up an Exchange account in just a few steps.</string>
   <string name="accounts_welcome_exchange_alternate">You can set up an Exchange ActiveSync account in just a few steps.</string>
   <string name="action_bar_mailbox_list_title">Folders</string>
-  <string name="add_account_action">Add account</string>
+  <string name="add_account_action">Pievienot kontu</string>
   <string name="add_cc_bcc_menu">Add Cc/Bcc</string>
   <string name="add_file_attachment">Attach file</string>
   <string name="add_quick_responses_action">Create new</string>
@@ -497,7 +497,7 @@ CC: %4$s
   <string name="preference_title_photo_size">Photo size</string>
   <string name="preference_title_photos_account">Account</string>
   <string name="preference_title_photos_upload_connectivity">Photo uploads</string>
-  <string name="preference_title_videos_account">Account</string>
+  <string name="preference_title_videos_account">Konts</string>
   <string name="preference_title_videos_account_summary">The photos account will be used for video uploads.</string>
   <string name="preference_title_videos_upload_connectivity">Video uploads</string>
   <string name="preference_title_videos_upload_connectivity_summary">Photos connectivity settings are used for now.</string>

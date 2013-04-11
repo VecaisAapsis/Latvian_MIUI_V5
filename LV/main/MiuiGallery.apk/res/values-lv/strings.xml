@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importēt</string>
-  <string name="activity_not_found">No app is available to complete the action.</string>
+  <string name="activity_not_found">Nav pieejamu programmu šīs darbības pabeigšanai</string>
   <string name="add_account">Konta pievienošana</string>
   <string name="add_to_cloud_album">Add to Cloud</string>
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
@@ -50,7 +50,7 @@
   <string name="cloud_tab_all">All</string>
   <string name="cloud_tab_locations">Locations</string>
   <string name="cloudfolder_already_exists">Cloud folder already exists</string>
-  <string name="confirm_delete">Delete</string>
+  <string name="confirm_delete">Dzēst</string>
   <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>
   <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
@@ -76,7 +76,7 @@
   <string name="delete_fail_too_many_items">Failed to delete, too many items selected</string>
   <string name="deleting_files">Deleting files...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
-  <string name="description">Description</string>
+  <string name="description">Apraksts</string>
   <string name="details">Detalizēta informācija</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -176,12 +176,12 @@
   <string name="no_albums_alert">Nav pieejams neviens albums.</string>
   <string name="no_connectivity">Tīkla problēmu dēļ nevarēja noteikt dažas atrašanās vietas.</string>
   <string name="no_file">No files found</string>
-  <string name="no_location">No location</string>
+  <string name="no_location">Nav atrašanās vietas</string>
   <string name="no_map_app">No map application</string>
   <string name="no_network_connected">No network connection available</string>
   <string name="no_storage_disable_cloud_albums">Cloud albums are disabled; please retry after external storage becomes available.</string>
-  <string name="no_such_item">"Couldn't find item."</string>
-  <string name="no_thumbnail">No thumbnail</string>
+  <string name="no_such_item">Nevar atrast objektu</string>
+  <string name="no_thumbnail">Nav sīktēla</string>
   <string name="none_picture">No pictures found in Gallery</string>
   <string name="not_auto_create_recent_album">Not auto create recent album(s)</string>
   <string name="not_show_hidden_albums">Do not show hidden album(s)</string>
@@ -190,10 +190,10 @@
   <string name="open_sync_title">Sync required</string>
   <string name="operation_refresh">Refresh</string>
   <string name="operation_rename">Parsaukt</string>
-  <string name="orientation">Orientation</string>
+  <string name="orientation">Orientācija</string>
   <string name="other_category">Other settings</string>
   <string name="path">Ceļš</string>
-  <string name="people">People</string>
+  <string name="people">Persona</string>
   <string name="photo_page_save_image">Saglabāt</string>
   <string name="photo_page_save_uri_image_fail">Failed to save photo.</string>
   <string name="photo_page_save_uri_image_ok">Save photo to cameras photos directory.</string>
@@ -222,7 +222,7 @@
   <string name="select_image">Atlasiet fotoattēlu</string>
   <string name="select_item">Atlasiet vienumu</string>
   <string name="select_video">Atlasiet videoklipu</string>
-  <string name="send">Send</string>
+  <string name="send">Sūtīt</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
   <string name="send_to_cloud_failed_message">Item failed to send to Cloud album storage</string>
   <string name="sepia">Sēpija</string>

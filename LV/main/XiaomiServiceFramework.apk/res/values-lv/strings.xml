@@ -44,12 +44,12 @@
   <string name="error_account_changed_summary">Your Xiaomi account has been updated. Please check your details and try again</string>
   <string name="error_account_changed_title">Account updated</string>
   <string name="error_auth_summary">Account authentication error occurred, please try again</string>
-  <string name="error_auth_title">Account error</string>
+  <string name="error_auth_title">Konta kļūda</string>
   <string name="error_common_summary">System error, please try again later</string>
   <string name="error_common_title">System error</string>
   <string name="error_dup_phone">Phone has been registered</string>
   <string name="error_frozen_summary">Your account has been locked</string>
-  <string name="error_frozen_title">Account locked!</string>
+  <string name="error_frozen_title">Konts bloķēts!</string>
   <string name="error_has_bought_summary">You have already purchased this product</string>
   <string name="error_has_bought_title">Repeat purchase</string>
   <string name="error_illegal_order_summary">An error has occurred processing your order, please try again later</string>
@@ -96,9 +96,9 @@
   <string name="mibi_license_message">Xiaomi Mi Credit Service. By clicking OK you agree to comply with %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
   <string name="mibi_license_title">Mi Credit User agreement</string>
-  <string name="micloud_account">Xiaomi account</string>
-  <string name="micloud_account_label">Account: %1$s</string>
-  <string name="micloud_account_name">Xiaomi Account</string>
+  <string name="micloud_account">Xiaomi konts</string>
+  <string name="micloud_account_label">Konts: %1$s</string>
+  <string name="micloud_account_name">Xiaomi Konts</string>
   <string name="micloud_account_not_actived">Account is not activated</string>
   <string name="micloud_active_email_sent_1">We have sent an activation link to your E-mail:</string>
   <string name="micloud_active_email_sent_2"/>
@@ -106,7 +106,7 @@
   <string name="micloud_activing_account">Activating your account...</string>
   <string name="micloud_click_email">Click the link in the E-mail to activate your Xiaomi Account</string>
   <string name="micloud_click_email_to_valid">Click the activation link in the message sent to your inbox</string>
-  <string name="micloud_delete_account">Delete account</string>
+  <string name="micloud_delete_account">Dzēst kontu</string>
   <string name="micloud_email">E-mail address</string>
   <string name="micloud_error_email">Invalid E-mail</string>
   <string name="micloud_error_empty_pwd">Password is blank</string>

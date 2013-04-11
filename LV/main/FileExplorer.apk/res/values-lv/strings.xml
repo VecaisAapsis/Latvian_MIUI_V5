@@ -101,7 +101,7 @@
   <string name="gbk_title">GBK</string>
   <string name="instruction">Enter the following address into your FTP Client:</string>
   <string name="instruction_pre">Start service to enable FTP server</string>
-  <string name="kingsoft_account">MiDrive account</string>
+  <string name="kingsoft_account">MiDrive konts</string>
   <string name="kuaipan_over_space">Your MiDrive has no space left.</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
