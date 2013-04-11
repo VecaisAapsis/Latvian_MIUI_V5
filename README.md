@@ -1,6 +1,6 @@
 MIUI v5 - MIUIAndroid XML Strings Latvian
 
---finished-- bez bildçm
+--finished-- bez bildem
 
 Bluetooth.apk
 
