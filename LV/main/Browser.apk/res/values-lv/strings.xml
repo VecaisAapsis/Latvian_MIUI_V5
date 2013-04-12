@@ -86,8 +86,6 @@
   <string name="bookmarks_root_folder">Saknes mape</string>
   <string name="bookmarks_search">Pārlūkprogramma</string>
   <string name="browserFrameFileErrorLabel">Problēma ar failu</string>
-  <string name="browserFrameFormResubmitLabel">
-  </string>
   <string name="browserFrameFormResubmitMessage">Lapā, kuru mēģināt skatīt, ir ietverti jau iesniegti dati (“POSTDATA”). Ja sūtīsiet datus vēlreiz, tiks atkārtota arī katra darbība, ko lapā veica veidlapa (piemēram, meklēšana vai pirkums tiešsaistē).</string>
   <string name="browserFrameNetworkErrorLabel">Problēma saistībā ar savienojumu</string>
   <string name="browser_bookmarks_page_bookmarks_text">Grāmatzīmes</string>
@@ -99,7 +97,7 @@
   <string name="clear">Notīrīšana</string>
   <string name="clear_history">Notīrīt vēsturi</string>
   <string name="containing_folder">Pievienot:</string>
-  <string name="contextheader_folder_bookmarkcount" formatted="false">%d grāmatzīmes</string>
+  <string name="contextheader_folder_bookmarkcount">%d grāmatzīmes</string>
   <string name="contextheader_folder_empty">Tukša mape</string>
   <string name="contextmenu_add_contact">Pievienot kontaktpersonu</string>
   <string name="contextmenu_copy">Kopēt</string>
@@ -122,12 +120,12 @@
   <string name="current_page">"nē"</string>
   <string name="defaultBookmarksUpButton">Grāmatzīmes</string>
   <string name="delete">Dzēst</string>
-  <string name="delete_bookmark_warning" formatted="false">Vai dzēst grāmatzīmi %s?</string>
+  <string name="delete_bookmark_warning">Vai dzēst grāmatzīmi %s?</string>
   <string name="delete_folder">Dzēst mapi</string>
   <string name="delete_multi_bookmarks_alert_title">Vai tiešām vēlaties dzēst %1$s lietas?</string>
   <string name="disable_autofill">Atspējot automātisko aizpildi</string>
   <string name="do_not_save">Atcelt</string>
-  <string name="download_no_sdcard_dlg_msg" formatted="false">USB atmiņā nepieciešams lejupielādēt failu %s.</string>
+  <string name="download_no_sdcard_dlg_msg">USB atmiņā nepieciešams lejupielādēt failu %s.</string>
   <string name="download_no_sdcard_dlg_title">USB atmiņa nav pieejama</string>
   <string name="download_pending">Notiek lejupielādes sākšana...</string>
   <string name="download_sdcard_busy_dlg_msg">USB atmiņa ir aizņemta. Lai atļautu lejupielādes, paziņojumā pieskarieties iespējai Izslēgt USB atmiņu.</string>
@@ -158,7 +156,7 @@
   <string name="folder_name">Mapes nosaukums</string>
   <string name="forward">Tālāk</string>
   <string name="geolocation_permissions_prompt_dont_share">Noraidīt</string>
-  <string name="geolocation_permissions_prompt_message" formatted="false">Vietne %s vēlas uzzināt jūsu atrašanās vietu.</string>
+  <string name="geolocation_permissions_prompt_message">Vietne %s vēlas uzzināt jūsu atrašanās vietu.</string>
   <string name="geolocation_permissions_prompt_remember">Atcerēties preferenci</string>
   <string name="geolocation_permissions_prompt_share">Kopīgot atrašanās vietu</string>
   <string name="geolocation_permissions_prompt_toast_allowed">No šīs vietnes var piekļūt jūsu atrašanās vietai. Iestatījumus varat mainīt, atverot šādus ekrānus: Iestatījumi &gt; Papildu &gt; Vietne.</string>
@@ -175,16 +173,15 @@
   <string name="history">Vēsture</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Mājaslapa ir iestatīta.</string>
-  <string name="http">http://</string>
   <string name="import_bookmark">Importēt grāmatzīmes</string>
   <string name="import_bookmark_failure">Grāmatzīmes Neizdevās importēt!</string>
   <string name="import_bookmark_sucess">Grāmatzīmes veiksmīgi importētas</string>
   <string name="import_bookmarks_dialog_add">Pievienot grāmatzīmes Google kontam</string>
-  <string name="import_bookmarks_dialog_confirm_add" formatted="false">Vai pievienot šajā grāmatzīmes, kas pašlaik saglabātas šajā ierīcē, un sākt grāmatzīmju sinhronizāciju ar %s?</string>
-  <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Vai dzēst šajā ierīcē saglabātās grāmatzīmes un sākt grāmatzīmju sinhronizāciju ar kontu %s?</string>
+  <string name="import_bookmarks_dialog_confirm_add">Vai pievienot šajā grāmatzīmes, kas pašlaik saglabātas šajā ierīcē, un sākt grāmatzīmju sinhronizāciju ar %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Vai dzēst šajā ierīcē saglabātās grāmatzīmes un sākt grāmatzīmju sinhronizāciju ar kontu %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Dzēst šajā ierīcē saglabātās grāmatzīmes un sākt grāmatzīmju sinhronizāciju ar Google kontu</string>
   <string name="import_bookmarks_dialog_description">Šajā ierīcē esošās grāmatzīmes vēl nav saistītas ar Google kontu. Saglabājiet šīs grāmatzīmes, pievienojot tās kontam. Dzēsiet šīs grāmatzīmes, ja nevēlaties tās sinhronizēt.</string>
-  <string name="import_bookmarks_dialog_import" formatted="false">Pievienot Android grāmatzīmes konta %s grāmatzīmēm</string>
+  <string name="import_bookmarks_dialog_import">Pievienot Android grāmatzīmes konta %s grāmatzīmēm</string>
   <string name="import_bookmarks_dialog_remove">Dzēst grāmatzīmes</string>
   <string name="import_bookmarks_dialog_select_add_account">Pievienot šajā ierīcē saglabātās grāmatzīmes un sākt sinhronizāciju ar Google kontu</string>
   <string name="import_bookmarks_dialog_title">Sinhronizācija ar Google kontu</string>
@@ -241,7 +238,7 @@
   <string name="pref_autofill_enabled_summary">Tīmekļa veidlapu aizpildīšana ar vienu skārienu</string>
   <string name="pref_autofill_profile_editor">Automātiskās aizpildes teksts</string>
   <string name="pref_autofill_profile_editor_summary">Iestatīt automātiskās aizpildes tekstu tīmekļa veidlapām</string>
-  <string name="pref_autologin_progress" formatted="false">Pierakstīšanās pakalpojumā Google vietnes, izmantojot %s</string>
+  <string name="pref_autologin_progress">Pierakstīšanās pakalpojumā Google vietnes, izmantojot %s</string>
   <string name="pref_autologin_title">Autom. pieraksts Google tīklā</string>
   <string name="pref_clear_cache_for_exit">Iztīrīt kešatmiņu izejot</string>
   <string name="pref_clear_history_for_exit">Notīrīt vēsturi izejot</string>
@@ -295,8 +292,8 @@
   <string name="pref_extras_title">Papildu</string>
   <string name="pref_extras_website_settings">Vietnes iestatījumi</string>
   <string name="pref_extras_website_settings_summary">Atsevišķām vietnēm paredzēti papildu iestatījumi</string>
-  <string name="pref_fling_on_border_enabled">Fling on border</string>
-  <string name="pref_fling_on_border_operation">Operation for fling on border</string>
+  <string name="pref_fling_on_border_enabled">Velkot gar malu</string>
+  <string name="pref_fling_on_border_operation">Darbība kad velk</string>
   <string name="pref_font_size_category">Teksta lielums</string>
   <string name="pref_force_userscalable">Pieprasīt tālummaiņas iespēj.</string>
   <string name="pref_force_userscalable_summary">Ignorēt vietnes pieprasījumu kontrolēt tālummaiņu</string>
@@ -305,7 +302,7 @@
   <string name="pref_general_setting_title">Iestatījumi</string>
   <string name="pref_general_sync_title">Sinhronizācija</string>
   <string name="pref_general_title">Vispārīgi</string>
-  <string name="pref_gesture_title">Gesture operations</string>
+  <string name="pref_gesture_title">Žesti</string>
   <string name="pref_inverted">Inversā atveide</string>
   <string name="pref_inverted_category">Inversais ekrāns</string>
   <string name="pref_inverted_contrast">Kontrasts</string>
@@ -321,7 +318,7 @@
   <string name="pref_link_prefetch_summary">Ļaut pārlūkprogrammai fonā veikt saistīto tīmekļa lapu pirmsielādi</string>
   <string name="pref_link_prefetch_title">Tīmekļa lapas pirmsielāde</string>
   <string name="pref_min_font_size">Minimālais fonta lielums</string>
-  <string name="pref_min_font_size_value" formatted="false">%d pt</string>
+  <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Notīrīt kešatmiņu</string>
   <string name="pref_privacy_clear_cache_dlg">Vai dzēst lokālajā kešatmiņā saglabāto saturu un datu bāzes?</string>
   <string name="pref_privacy_clear_cache_summary">Notīrīt lokālajā kešatmiņā saglabāto saturu un datu bāzes</string>
@@ -368,10 +365,6 @@
   <string name="pref_use_instant_search_summary">Izmantojiet Google dinamisko meklēšanu, kad lietojat Google meklēšanu, lai redzētu rezultātus rakstīšanas laikā (var tikt izmantots vairāk datu).</string>
   <string name="pref_video_preload_dialogtitle">Video ielāde...</string>
   <string name="pref_video_preload_summary">Atļaut pārlūkprogrammai ielādēt video, ja serveris to atbalsta</string>
-  <string name="pref_video_preload_title">Video ielāde</string>
-  <string name="pref_video_preload_value_always">VIENMĒR</string>
-  <string name="pref_video_preload_value_never">NEKAD</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_TIKAI</string>
   <string name="pref_volume_key_enabled">Skaļuma taustiņi</string>
   <string name="pref_volume_key_operation">Skaļuma taustiņu darbība</string>
   <string name="pref_zoom_on_double_tap">Tālummaiņa ar dubultskārienu</string>
