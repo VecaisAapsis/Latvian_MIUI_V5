@@ -2,7 +2,7 @@ MIUI v5 - MIUIAndroid XML Strings Latvian
 
 --finished-- bez bildem
 
-Bluetooth.apk
+Bluetooth.apk --finished-- 
 
 Browser.apk --finished--
 
@@ -10,7 +10,7 @@ BugReport.apk
 
 Calculator.apk
 
-Calendar.apk
+Calendar.apk --finished-- 
 
 CloudService.apk --finished--
 
