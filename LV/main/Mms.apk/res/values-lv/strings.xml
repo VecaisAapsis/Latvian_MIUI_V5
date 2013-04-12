@@ -188,7 +188,7 @@
   <string name="move_up">Uz augšu</string>
   <string name="msg_type_hint_mms">Multimedia message</string>
   <string name="msg_type_hint_mx">Cloud message</string>
-  <string name="msg_type_hint_sms">Text message</string>
+  <string name="msg_type_hint_sms">Īsziņas teksts</string>
   <string name="multimedia_message">Multiziņa</string>
   <string name="multimedia_notification">Multiziņas paziņojums</string>
   <string name="mx_activate_error_malformed_info">Failed to activate cloud messaging, reactivation of cloud messaging is required</string>

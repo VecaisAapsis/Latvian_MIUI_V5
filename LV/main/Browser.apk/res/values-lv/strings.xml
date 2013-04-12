@@ -130,11 +130,11 @@
   <string name="download_pending">Notiek lejupielādes sākšana...</string>
   <string name="download_sdcard_busy_dlg_msg">USB atmiņa ir aizņemta. Lai atļautu lejupielādes, paziņojumā pieskarieties iespējai Izslēgt USB atmiņu.</string>
   <string name="download_sdcard_busy_dlg_title">USB atmiņa nav pieejama</string>
-  <string name="dump_counters">Dump V8 counters</string>
-  <string name="dump_display_tree">Dump display tree to file</string>
-  <string name="dump_dom_tree">Dump DOM tree to file</string>
-  <string name="dump_nav">Dump navigation cache</string>
-  <string name="dump_render_tree">Dump render tree to file</string>
+  <string name="dump_counters">Nomest V8 skaitītāju</string>
+  <string name="dump_display_tree">Dump displeja koku failā</string>
+  <string name="dump_dom_tree">Dump ROM koku failā</string>
+  <string name="dump_nav">Dump navigācijas kešatmiņu</string>
+  <string name="dump_render_tree">Dump renderēšanu failā</string>
   <string name="edit">Rediģēt</string>
   <string name="edit_bookmark">Rediģēt grāmatzīmi</string>
   <string name="edit_folder">Rediģēt mapi</string>

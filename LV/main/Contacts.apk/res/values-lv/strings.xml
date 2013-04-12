@@ -683,7 +683,7 @@ To add a contact to your list of favorites:
   <string name="preference_telocation_summary_countrycode_on">Auto-add the country code</string>
   <string name="preference_telocation_summary_teloc_off">Slēpt atrašanās vietu</string>
   <string name="preference_telocation_summary_teloc_on">Parādīt atrašanās vietu</string>
-  <string name="preference_telocation_title">Telocation</string>
+  <string name="preference_telocation_title">Tel.Atrašanās</string>
   <string name="preference_tone_title">Tone</string>
   <string name="prepare_import">prepare import</string>
   <string name="preview_contact_card_title">Importing contacts…</string>
