@@ -318,7 +318,7 @@
   <string name="pref_camera_volumekey_function_title">Volume key functions</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
-  <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">Mākoņains</string>
   <string name="pref_camera_whitebalance_entry_daylight">Daylight</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>

@@ -198,7 +198,7 @@
   <string name="stay_awake_summary">Keeps screen awake when using FTP</string>
   <string name="stay_awake_title">Keep awake</string>
   <string name="stop_server">Stop Service</string>
-  <string name="storage_internal">Internal storage</string>
+  <string name="storage_internal">Iekšējā krātuve</string>
   <string name="storage_sd_card">SD karte</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">External storage is not available or cannot be read</string>

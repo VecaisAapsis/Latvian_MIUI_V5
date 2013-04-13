@@ -517,7 +517,7 @@ CC: %4$s
   <string name="retry_no_data">No data connection</string>
   <string name="save_action">Save</string>
   <string name="save_draft_action">Save draft</string>
-  <string name="search_action">Search</string>
+  <string name="search_action">Meklēšana</string>
   <string name="search_header_text_fmt">Results</string>
   <string name="search_hint">Search e-mail</string>
   <string name="search_mailbox_hint">Search %1$s</string>

@@ -123,7 +123,7 @@
   <string name="system_backup_download_helper">Device will be automatically restarted to update once download has completed</string>
   <string name="system_backup_error_message">MIUI backup was not found, please backup manually</string>
   <string name="system_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
-  <string name="system_backup_ok_text">Backup</string>
+  <string name="system_backup_ok_text">Dublējums</string>
   <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(optional)</string>
   <string name="update_comment_title">Your comments</string>
