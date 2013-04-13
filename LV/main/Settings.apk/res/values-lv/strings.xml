@@ -2170,7 +2170,7 @@ Attempts Remaining :"</string>
   <string name="wifi_p2p_menu_create_group">Create group</string>
   <string name="wifi_p2p_menu_remove_group">Remove group</string>
   <string name="wifi_p2p_menu_rename">Pārdēvēt ierīci</string>
-  <string name="wifi_p2p_menu_search">Meklēt ierīces</string>
+  <string name="wifi_p2p_menu_search">Meklē ierīces</string>
   <string name="wifi_p2p_menu_searching">Notiek meklēšana...</string>
   <string name="wifi_p2p_peer_devices">Vienādranga ierīces</string>
   <string name="wifi_p2p_persist_network">Atcerēties šo savienojumu</string>

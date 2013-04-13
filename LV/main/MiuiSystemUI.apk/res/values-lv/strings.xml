@@ -178,8 +178,8 @@
   <string name="settings_notification_icon">Paziņojumi statusa joslā</string>
   <string name="settings_screenshot_notification_disabled">Rādīt Ekrānuzņēmums informāciju</string>
   <string name="settings_show_flow_info">Rādīt datu pārraides informāciju</string>
-  <string name="settings_show_network_speed">Rādīt tīkla ātrums</string>
-  <string name="settings_toggle">Toggles</string>
+  <string name="settings_show_network_speed">Rādīt tīkla ātrumu</string>
+  <string name="settings_toggle">Pārslēdzēji</string>
   <string name="settings_toggle_collapse_after_clicked">Collapse when clicked</string>
   <string name="settings_toggle_layout_style">Toggle layout style</string>
   <string name="settings_toggle_layout_style_applying">Changing toggle style...</string>
@@ -190,11 +190,11 @@
   <string name="settings_toggle_position_divider_page">%1$d toggles placed above bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Dalīties</string>
-  <string name="status_bar_date_format">MMMM d, yyyy</string>
+  <string name="status_bar_date_format">d MMMM, yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Iestatīt ievades metodes</string>
-  <string name="status_bar_network_flow">"Today:%1$s    Remain:%2$s    Package:%3$s"</string>
-  <string name="status_bar_network_flow_exceed">"Today:%1$s    Exceeded:%2$s    Package:%3$s"</string>
+  <string name="status_bar_network_flow">"Šodien:%1$s    Remain:%2$s    Package:%3$s"</string>
+  <string name="status_bar_network_flow_exceed">"Šodien:%1$s    Exceeded:%2$s    Package:%3$s"</string>
   <string name="status_bar_network_flow_today">Šodien:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Nav nesen izmantotu lietotņu.</string>

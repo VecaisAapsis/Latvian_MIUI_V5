@@ -32,7 +32,7 @@
   <string name="exit_fm">Iziet</string>
   <string name="factory_reset_dialog_message">This will delete all settings including Presets</string>
   <string name="factory_reset_dialog_title">Confirm Reset</string>
-  <string name="find_af_station">Meklet</string>
+  <string name="find_af_station">Meklēt</string>
   <string name="fm_cmd_failed_call_on">FM operation failed. FM audio is not allowed during call.</string>
   <string name="fm_cmd_failed_msg">FM operation failed. If problem persists, please turn off FM and turn it back on.</string>
   <string name="fm_cmd_failed_msg_hdmi">FM operation failed. FM and HDMI concurrecny is not supported.</string>
