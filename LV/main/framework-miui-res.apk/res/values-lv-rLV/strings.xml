@@ -13,9 +13,9 @@
   <string name="call_record_or">vai</string>
   <string name="call_record_sample_prefix_miui">Zvana ieraksts</string>
   <string name="caller_info_name_delimiter">Vai</string>
-  <string name="check_phone_error_title">Failed to open Synchronisation</string>
+  <string name="check_phone_error_title">Neizdevās atvērt sinhronizēšanu</string>
   <string name="check_phone_io_error">Tīkla kļūda</string>
-  <string name="childrens_day">Children\'s Day</string>
+  <string name="childrens_day">Bērna(u) diena</string>
   <string name="chinese_youth_day">Ķīniešu Jaunatnes diena</string>
   <string name="christmas_day">Ziemassvētki</string>
   <string name="clear_and_bright">Skaidri un spilgti</string>
@@ -253,13 +253,14 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Dzēst</string>
+  <string name="device_xiaomi">Xiaomi Tālrunis</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="emergency_call_string">Ārkārtas zvans</string>
   <string name="error_forbidden">Jūsu lietotājkontā iezagusies kļūda. Sinhronizācija ir atcelta.</string>
   <string name="error_not_acceptable">Servera kļūda. Sinhronizācija ir atcelta.</string>
   <string name="error_title">Sinhronizācijas kļūda %s</string>
   <string name="error_unauthorized">Pārāk daudz nepareizu konta autentifikāciju! Sinhronizācija ir atcelta.</string>
-  <string name="every_day"></string>
+  <string name="every_day">Katru dienu</string>
   <string name="experimental_validate">Pārbaudīt</string>
   <string name="experimental_validate_fail">Pārbaude neizdevās, lūdzu mēģiniet vēlreiz</string>
   <string name="experimental_validate_password">Parole</string>
@@ -305,7 +306,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="lock_screen_date">MMMM, EEEE d</string>
+  <string name="lock_screen_date">EEEE, MMMM dd</string>
   <string name="lockscreen_access_pattern_cell_added">Šūna pievienota</string>
   <string name="lockscreen_access_pattern_cleared">Kombinācija novākta</string>
   <string name="lockscreen_access_pattern_detected">Kombinācija uzstādīta</string>
@@ -345,6 +346,7 @@
   <string name="memory_clear_nothing_result">Nav ko notīrīt...</string>
   <string name="memory_clear_result">"%1$s Brīvs | %2$s Pieejami"</string>
   <string name="miui_copyright_title">Autortiesības</string>
+  <string name="miui_device_name">Androids</string>
   <string name="miui_mibi_license_title">Mi kredīta Lietotāja līgums</string>
   <string name="miui_privacy_policy_title">Privātuma politika</string>
   <string name="miui_unlockscreen_password_wrong">Nepareiza parole! Mēģiniet vēlreiz</string>

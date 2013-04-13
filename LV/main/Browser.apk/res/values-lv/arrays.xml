@@ -88,11 +88,11 @@
         <item>bing</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Lappa uz augšu/uz leju</item>
+        <item>Rullēšana</item>
         <item>Pārslēgt cilni</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Lappa  uz priekšu/atpakaļ</item>
+        <item>Pārslēgt lapas</item>
         <item>Parslēgt cilni</item>
     </string-array>
 </resources>

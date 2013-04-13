@@ -65,7 +65,7 @@
   <string name="autologin_bar_text">Pierakstīties kā</string>
   <string name="back">Atpakaļ</string>
   <string name="block">Bloķēt</string>
-  <string name="bookmark_add_to">Add to</string>
+  <string name="bookmark_add_to">Pievienot pie</string>
   <string name="bookmark_cannot_save_url">Šo vietrādi URL nevar pievienot grāmatzīmēm.</string>
   <string name="bookmark_list_view">Saraksts</string>
   <string name="bookmark_needs_title">Jānorāda grāmatzīmes nosaukums.</string>
@@ -74,9 +74,9 @@
   <string name="bookmark_page">Atzīmēt ar grāmatzīmi pēdējo skatīto lapu</string>
   <string name="bookmark_saved">Grāmatzīme ir saglabāta.</string>
   <string name="bookmark_this_page">Saglabāt šo lapu kā grāmatzīmi</string>
-  <string name="bookmark_this_page_to_readmodelist">Add this page to Reading List bookmark</string>
+  <string name="bookmark_this_page_to_readmodelist"Pievienot šo lapu pie lasāmā saraksta izlases</string>
   <string name="bookmark_thumbnail_view">Sīktēli</string>
-  <string name="bookmark_title">Label</string>
+  <string name="bookmark_title">Etiķete</string>
   <string name="bookmark_to_readmodelist_not_saved">"Nevar saglabāt lasāma saraksta grāmatzīmi."</string>
   <string name="bookmark_to_readmodelist_saved">Saglabāts kā lasāmā saraksta grāmatzīmes.</string>
   <string name="bookmark_url">URL</string>
@@ -86,6 +86,7 @@
   <string name="bookmarks_root_folder">Saknes mape</string>
   <string name="bookmarks_search">Pārlūkprogramma</string>
   <string name="browserFrameFileErrorLabel">Problēma ar failu</string>
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Lapā, kuru mēģināt skatīt, ir ietverti jau iesniegti dati (“POSTDATA”). Ja sūtīsiet datus vēlreiz, tiks atkārtota arī katra darbība, ko lapā veica veidlapa (piemēram, meklēšana vai pirkums tiešsaistē).</string>
   <string name="browserFrameNetworkErrorLabel">Problēma saistībā ar savienojumu</string>
   <string name="browser_bookmarks_page_bookmarks_text">Grāmatzīmes</string>
@@ -104,7 +105,7 @@
   <string name="contextmenu_copylink">Kopēt saites URL</string>
   <string name="contextmenu_dial_dot">Sastādīt numuru...</string>
   <string name="contextmenu_download_image">Saglabāt attēlu</string>
-  <string name="contextmenu_download_image_as">Save image as</string>
+  <string name="contextmenu_download_image_as">Saglabāt attelu kā</string>
   <string name="contextmenu_map">Kartēt</string>
   <string name="contextmenu_openlink">Atvērt</string>
   <string name="contextmenu_openlink_newwindow">Atvērt jaunā cilnē</string>
@@ -170,9 +171,11 @@
   <string name="go_home">Sākumlapa</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Sākt</string>
+  <string name="have_sent_bookmark_to_home_screen">Grāmatzīme nosūtīta uz darba ekrānu</string>
   <string name="history">Vēsture</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Mājaslapa ir iestatīta.</string>
+  <string name="http">http://</string>
   <string name="import_bookmark">Importēt grāmatzīmes</string>
   <string name="import_bookmark_failure">Grāmatzīmes Neizdevās importēt!</string>
   <string name="import_bookmark_sucess">Grāmatzīmes veiksmīgi importētas</string>
@@ -190,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Nākamais</string>
   <string name="import_bookmarks_wizard_previous">Iepriekšējais</string>
   <string name="importing_favorite_files">Datu importēšana...</string>
+  <string name="in_incognito">Inkognito režīms ir aktīvs, pārlūka vēsture nepaliks atmiņā.</string>
   <string name="instant_search_label">Pakalpojums Google ar dinamisko meklēšanu (Laboratorijas)</string>
   <string name="is_first_history_item">Ir pirmais vēstures vienums</string>
   <string name="is_first_tab">Ir pirmā cilne</string>
@@ -197,7 +201,7 @@
   <string name="is_last_tab">Ir pēdējā cilne</string>
   <string name="is_page_bottom">Lapas apakšā</string>
   <string name="is_page_top">Lapas augšpusē</string>
-  <string name="js_engine_flags">Set JS flags</string>
+  <string name="js_engine_flags">Iestatīt JS karogus</string>
   <string name="loadSuspended">Pārlūkprogamma nevar ielādēt šo lapu, jo nav interneta savienojuma.</string>
   <string name="loadSuspendedTitle">Nav savienojuma</string>
   <string name="loading_video">Notiek video ielāde...</string>
@@ -219,6 +223,7 @@
   <string name="new_tab">Jauna cilne</string>
   <string name="no_subfolders">Nav apakšmapju.</string>
   <string name="not_remind_again">Vairāk man neatgādināt</string>
+  <string name="notif_install_successful">Lejuplāde veiksmīga</string>
   <string name="ok">Labi</string>
   <string name="open_all_bookmarks">Atvērt visu</string>
   <string name="open_all_in_new_window">Atvērt visas grāmatzīmes jaunās cilnēs</string>
@@ -252,7 +257,7 @@
   <string name="pref_content_load_images_summary">Rādīt attēlus tīmekļa lapās</string>
   <string name="pref_content_load_page">Atvērt lapas kā pārskatus</string>
   <string name="pref_content_load_page_summary">Rādīt tikko atvērto lapu pārskatu</string>
-  <string name="pref_content_night_read_mode">Enable Night Mode</string>
+  <string name="pref_content_night_read_mode">Iespējot nakts režīmu</string>
   <string name="pref_content_open_in_background">Atvērt fonā</string>
   <string name="pref_content_open_in_background_summary">Atvērt jaunas cilnes aiz pašreiz atvērtās</string>
   <string name="pref_content_plugins">Iespējot spraudņus</string>
@@ -391,7 +396,7 @@
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Doties uz</string>
-  <string name="search_cancel">Cancel</string>
+  <string name="search_cancel">Atcelt</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Meklējiet vai ievadiet URL</string>
   <string name="search_label">Pārlūks</string>
@@ -428,6 +433,7 @@
   <string name="tab_history">Vēsture</string>
   <string name="tab_most_visited">Visvairāk apmeklētās</string>
   <string name="tab_opened_background">Cilne atvērta fonā.</string>
+  <string name="tab_opened_background_in_incognito">Jauns inkognito logs ir atvērts</string>
   <string name="tab_quicklinks">Ātrās saites</string>
   <string name="tab_snapshots">Saglabātās lapas</string>
   <string name="tab_yellowpage">Dzeltenā lapa</string>
