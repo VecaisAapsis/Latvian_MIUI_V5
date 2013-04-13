@@ -73,7 +73,7 @@
   <string name="elapsed_time_format">(+%s)</string>
   <string name="enable_alarm">Turn alarm on</string>
   <string name="every_day">Everyday</string>
-  <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="gallery_button_description">Galerija</string>
   <string name="hide_clock">Hide clock</string>
   <string name="holiday_data_already_newest">Workday data is already the newest</string>
