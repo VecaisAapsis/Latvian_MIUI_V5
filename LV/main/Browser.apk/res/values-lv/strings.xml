@@ -74,7 +74,7 @@
   <string name="bookmark_page">Atzīmēt ar grāmatzīmi pēdējo skatīto lapu</string>
   <string name="bookmark_saved">Grāmatzīme ir saglabāta.</string>
   <string name="bookmark_this_page">Saglabāt šo lapu kā grāmatzīmi</string>
-  <string name="bookmark_this_page_to_readmodelist"Pievienot šo lapu pie lasāmā saraksta izlases</string>
+  <string name="bookmark_this_page_to_readmodelist">Pievienot šo lapu pie lasāmā saraksta izlases</string>
   <string name="bookmark_thumbnail_view">Sīktēli</string>
   <string name="bookmark_title">Etiķete</string>
   <string name="bookmark_to_readmodelist_not_saved">"Nevar saglabāt lasāma saraksta grāmatzīmi."</string>
