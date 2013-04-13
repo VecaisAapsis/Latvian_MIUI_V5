@@ -3,9 +3,9 @@
   <string name="Import">Importēt</string>
   <string name="activity_not_found">Nav pieejamu programmu šīs darbības pabeigšanai</string>
   <string name="add_account">Konta pievienošana</string>
-  <string name="add_to_cloud_album">Pievienot Makoņošanai</string>
+  <string name="add_to_cloud_album">Pievienot Mākoņošanai</string>
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
-  <string name="add_to_cloud_folder">Pievienot Makoņošanas mapei</string>
+  <string name="add_to_cloud_folder">Pievienot Mākoņošanas mapei</string>
   <string name="albums">Albumi</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Notice</string>
@@ -22,7 +22,7 @@
   <string name="autofix">Automātiska labošana</string>
   <string name="big_screen_alertdialog_title">Projector Device</string>
   <string name="bigscrren_slide_exit">Exit slide show via TV</string>
-  <string name="browse_category">Browse photos</string>
+  <string name="browse_category">Parlūkot attēlus</string>
   <string name="camera_connected">Ir pievienota kamera.</string>
   <string name="camera_disconnected">Kamera ir atvienota.</string>
   <string name="camera_folder_display_name">Camera Photos</string>
@@ -39,12 +39,12 @@
   <string name="close">Aizvērt</string>
   <string name="cloud_album_more_settings">Cloud album settings</string>
   <string name="cloud_album_set_create">Jaunu</string>
-  <string name="cloud_albums">Makoņošanas albūms</string>
+  <string name="cloud_albums">Mākoņošanas albūmi</string>
   <string name="cloud_camera_display_name">Unsorted</string>
   <string name="cloud_gallery_no_pictures">No pictures found in MiCloud</string>
   <string name="cloud_gallery_recyclebin_full">Cloud Recycle bin full, please empty recycle bin by visiting i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
-  <string name="cloud_media_set_set">Mākoņošanas apbūms</string>
+  <string name="cloud_media_set_set">Mākoņošanas apbūmi</string>
   <string name="cloud_screenshots_display_name">Ekrānuzņēmums</string>
   <string name="cloud_tab_albums">Albūmi</string>
   <string name="cloud_tab_all">All</string>
@@ -143,7 +143,7 @@
   <string name="loading">Notiek ielāde…</string>
   <string name="loading_failure">Fotoattēlu nevarēja ielādēt.</string>
   <string name="loading_thumbnail">Loading thumbnail...</string>
-  <string name="local_albums">Vietēkie attēli</string>
+  <string name="local_albums">Vietējie attēli</string>
   <string name="location">Atrašanās vieta</string>
   <string name="locations">Vietas</string>
   <string name="lomoish">Lomogrāfija</string>
