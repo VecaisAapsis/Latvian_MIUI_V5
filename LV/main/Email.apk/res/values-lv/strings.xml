@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account">Account</string>
+  <string name="account">Konts</string>
   <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from E-mail.</string>
   <string name="account_delete_dlg_title">Remove account</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
@@ -180,14 +180,14 @@
   <string name="accounts_welcome">You can set up e-mail for most accounts in just a few steps.</string>
   <string name="accounts_welcome_exchange">You can set up an Exchange account in just a few steps.</string>
   <string name="accounts_welcome_exchange_alternate">You can set up an Exchange ActiveSync account in just a few steps.</string>
-  <string name="action_bar_mailbox_list_title">Folders</string>
+  <string name="action_bar_mailbox_list_title">Mapes</string>
   <string name="add_account_action">Pievienot kontu</string>
   <string name="add_cc_bcc_menu">Add Cc/Bcc</string>
   <string name="add_file_attachment">Attach file</string>
-  <string name="add_quick_responses_action">Create new</string>
+  <string name="add_quick_responses_action">Rakstīt jaunu</string>
   <string name="alert_selected_all_message">" has at least %d messages, select all？"</string>
   <string name="alert_title_selected">Select all</string>
-  <string name="app_name">E-mail</string>
+  <string name="app_name">E-pasts</string>
   <string name="application_name">Instant Upload</string>
   <string name="attachment_info_apk_install_disabled">"Apps can't be installed directly from e-mail. First save this app and then install it using the Downloads app."</string>
   <string name="attachment_info_application_settings">App settings</string>
@@ -495,7 +495,7 @@ CC: %4$s
   <string name="preference_title_need_wifi">Wi-Fi required</string>
   <string name="preference_title_pause_all_uploads">Pause all uploads</string>
   <string name="preference_title_photo_size">Photo size</string>
-  <string name="preference_title_photos_account">Account</string>
+  <string name="preference_title_photos_account">Konts</string>
   <string name="preference_title_photos_upload_connectivity">Photo uploads</string>
   <string name="preference_title_videos_account">Konts</string>
   <string name="preference_title_videos_account_summary">The photos account will be used for video uploads.</string>
@@ -506,9 +506,9 @@ CC: %4$s
   <string name="provider_note_t_online">Before setting up this e-mail account, visit the T-Online website and create a password for POP3 e-mail access.</string>
   <string name="quick_responses_empty_view">No quick responses</string>
   <string name="read_action">Mark read</string>
-  <string name="refresh_action">Refresh</string>
+  <string name="refresh_action">Atsvaidzināt</string>
   <string name="remove_star_action">Remove star</string>
-  <string name="reply_action">Reply</string>
+  <string name="reply_action">Atbildēt</string>
   <string name="reply_all_action">Reply all</string>
   <string name="require_manual_sync_message">Background sync for this account is disabled while roaming.</string>
   <string name="retry_in_1min">1 minute</string>
@@ -525,9 +525,9 @@ CC: %4$s
   <string name="search_slow_warning_title">Waiting for results</string>
   <string name="security_notification_content_title">Security update required</string>
   <string name="security_notification_ticker_fmt">Account \"%s\" requires security settings update.</string>
-  <string name="send_action">Send</string>
+  <string name="send_action">Sūtīt</string>
   <string name="set_star_action">Add star</string>
-  <string name="settings_action">Settings</string>
+  <string name="settings_action">Iestatījumi</string>
   <string name="settings_activity_title">Settings</string>
   <string name="show_quick_text_list_dialog_action">Insert quick response</string>
   <string name="single_new_message_notification_big_text">"%1$s
@@ -552,7 +552,7 @@ CC: %4$s
   <string name="summary_title_paused">Paused</string>
   <string name="summary_title_uploading">Uploading</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
-  <string name="to">To</string>
+  <string name="to">Kam</string>
   <string name="toast_account_not_found">"Account wasn't found. It may have been removed."</string>
   <string name="toast_failed_auth">There was a problem signing into your account.</string>
   <string name="toast_file_error">File not available.</string>
@@ -561,7 +561,7 @@ CC: %4$s
   <string name="trusted_senders_cleared">\"Show pictures\" cleared.</string>
   <string name="unread_action">Mark unread</string>
   <string name="upload">Upload</string>
-  <string name="upload_state_completed">Completed</string>
+  <string name="upload_state_completed">Pabeigts</string>
   <string name="upload_state_failed">Failed</string>
   <string name="upload_state_queued"/>
   <string name="upload_state_uploading">Uploading</string>
@@ -578,5 +578,5 @@ CC: %4$s
   <string name="widget_other_views">Touch icon to change.</string>
   <string name="widget_starred">Starred</string>
   <string name="widget_touch_to_configure">Touch to configure.</string>
-  <string name="widget_unread">Unread</string>
+  <string name="widget_unread">Nelasīts</string>
 </resources>
