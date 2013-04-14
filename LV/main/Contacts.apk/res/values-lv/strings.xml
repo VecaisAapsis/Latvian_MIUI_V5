@@ -37,8 +37,8 @@
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Dzēst kontaktus sērijā</string>
   <string name="batch_delete_msg">"Are you sure you want to delete the selected %d contacts?
-    
-    If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
+
+If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth  savienojums pārrauts</string>
   <string name="blurbJoinContactDataWith">Izvēlieties kontaktpersonu, kuru vēlaties apvienot ar kontaktpersonu %s:</string>
   <string name="btn_delete_multi_contacts">Dzēst %d kontaktus</string>
@@ -538,25 +538,25 @@
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restore data backed up in Xiaomi account and MiTalk</string>
   <string name="noContacts">Nav kontaktpersonu.</string>
   <string name="noContactsHelpText">"Nav nevienas parādāmas kontaktpersonas.
-    
-    To add contacts, touch "</string>
+
+To add contacts, touch "</string>
   <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
   <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-    
-    To add contacts, touch "</string>
+
+To add contacts, touch "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
-    
-    To add contacts, touch "</string>
+
+To add contacts, touch "</string>
   <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (Ja jūs just added an account, it can take a few minutes to sync contacts.)
-    
-    To add contacts, touch "</string>
+
+To add contacts, touch "</string>
   <string name="noContactsWithPhoneNumbers">Nav kontaktpersonas ar tālruņa numuriem.</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
-    
-    To add a contact to your list of favorites:
-    
-    "</string>
+
+To add a contact to your list of favorites:
+
+"</string>
   <string name="noGroups">Nav grupu.</string>
   <string name="noMatchingContacts">Vienādu numuru nav atrasts.</string>
   <string name="noRecentContacts">Nav Pēdējā laikā  kontaktu</string>

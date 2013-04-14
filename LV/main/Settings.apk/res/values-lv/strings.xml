@@ -1182,9 +1182,9 @@ please follow the steps to complete installation"</string>
   <string name="packages_subtitle">Iekļautās pakotnes</string>
   <string name="password_guard">Aizsardzība</string>
   <string name="percentage">%d%%</string>
-  <string name="perm">Permissions</string>
+  <string name="perm">Atļaujas</string>
   <string name="perm_app">Lietotnes</string>
-  <string name="perm_app_name">Permissions</string>
+  <string name="perm_app_name">Atļaujas</string>
   <string name="perm_auto_start">Manage App Autostart</string>
   <string name="perm_auto_start_desc">Enable or disable app autostart feature</string>
   <string name="perm_canceling">Cancelling...</string>
@@ -1577,7 +1577,7 @@ please follow the steps to complete installation"</string>
   <string name="sdcard_unmount">Atvienot SD karti</string>
   <string name="search_about">par</string>
   <string name="search_accelerometer">accelerometer</string>
-  <string name="search_access_control">access control</string>
+  <string name="search_access_control">Piekļuves kontrole</string>
   <string name="search_airplane">Lidojums</string>
   <string name="search_android_beam">beam</string>
   <string name="search_battery_indicator">battery indicator</string>
@@ -1729,8 +1729,8 @@ Attempts Remaining :"</string>
   <string name="spellchecker_security_warning">Izmantojot šo pareizrakstības pārbaudītāju, var tikt vākta informācija par visu ierakstīto tekstu, tostarp personīgiem datiem, piemēram, parolēm un kredītkaršu numuriem. Šis pareizrakstības pārbaudītājs ir saistīts ar lietotni %1$s. Vai izmantot šo pareizrakstības pārbaudītāju?</string>
   <string name="spellcheckers_settings_title">Pareizrakstības pārbaudītājs</string>
   <string name="ssid_label">SSID:</string>
-  <string name="status_awake_time">Nomoda laiks</string>
-  <string name="status_bar_settings">Status bar</string>
+  <string name="status_awake_time">Laiks nomodā</string>
+  <string name="status_bar_settings">Statusa josla </string>
   <string name="status_bt_address">Bluetooth adrese</string>
   <string name="status_data_state">Mobilo sakaru tīkla statuss</string>
   <string name="status_esn_number">ESN</string>
@@ -1792,7 +1792,7 @@ Attempts Remaining :"</string>
   <string name="sync_plug"/>
   <string name="sync_settings">Konti &amp; sinhr.</string>
   <string name="sync_wifi_label">Wi-Fi iestatījumi</string>
-  <string name="system">System</string>
+  <string name="system">Sistēma</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Sistēmas atjauninājumi</string>

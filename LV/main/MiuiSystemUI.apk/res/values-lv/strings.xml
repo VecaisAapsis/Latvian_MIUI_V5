@@ -220,7 +220,7 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_auto_brightness">Auto-Apgaism.</string>
-  <string name="status_bar_toggle_brightness">Apbaismojums</string>
+  <string name="status_bar_toggle_brightness">Apgaismojums</string>
 	<string name="status_bar_toggle_data">Internets</string>
 	<string name="status_bar_toggle_divider">Vēl</string>
 	<string name="status_bar_toggle_drive_mode">Drive</string>
@@ -242,7 +242,7 @@
   <string name="status_bar_toggle_screenshot">Ekrānuzņēmums</string>
   <string name="status_bar_toggle_shutdown">Izslēgšana</string>
 	<string name="status_bar_toggle_sync">Sinhron.</string>
-	<string name="status_bar_toggle_sync_auto">Auto sync</string>
+	<string name="status_bar_toggle_sync_auto">Autom. sinhr.</string>
   <string name="status_bar_toggle_sync_manual">Sinhr.</string>
   <string name="status_bar_toggle_syncing">Sinhronizē</string>
   <string name="status_bar_toggle_torch">Gaismiņa</string>

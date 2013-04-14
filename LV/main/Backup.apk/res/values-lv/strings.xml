@@ -4,8 +4,8 @@
   <string name="account_login">Login</string>
   <string name="account_summary">Backup Gmail, E-mail and Xiaomi accounts</string>
   <string name="already_enable_encrypt">Encryption enabled</string>
-  <string name="app_name">Backup</string>
-  <string name="auto_backup">Automatic Backup</string>
+  <string name="app_name">Dublēšana</string>
+  <string name="auto_backup">Automātiska Dublēšana</string>
   <string name="auto_backup_all_user_apps">All apps</string>
   <string name="auto_backup_choose">Automatically backup</string>
   <string name="auto_backup_choose_empty">No backups</string>
@@ -149,7 +149,7 @@
   <string name="start_backup">Start Backup</string>
   <string name="start_restore">Restore</string>
   <string name="succeed">Succeeded</string>
-  <string name="system_backup">Backups</string>
+  <string name="system_backup">Dublējumi</string>
   <string name="system_backup_info">System settings, desktop layout etc.</string>
   <string name="task_backup_cancel_progress">Cancelling backup...</string>
   <string name="task_backup_finished_local">Backup completed</string>
