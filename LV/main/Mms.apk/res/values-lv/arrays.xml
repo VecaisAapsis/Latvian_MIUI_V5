@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="default_smiley_names">
+        <item>Laimīgs</item>
+        <item>Bēdīgs</item>
+        <item>Piemiedzoš</item>
+        <item>Izbāztu mēli</item>
+        <item>Izbrīnīts</item>
+        <item>Buča</item>
+        <item>Fui</item>
+        <item>Lieliski</item>
+        <item>Nauda mutē</item>
+        <item>Kāja mutē</item>
+        <item>Nošauts</item>
+        <item>Enģelis</item>
+        <item>Neizlēmīgs</item>
+        <item>Kliedzošs</item>
+        <item>Muti ciet</item>
+        <item>Smejošs</item>
+        <item>Apjucis</item>
+        <item>Sirds</item>
+        <item>Traks</item>
+        <item>Ухмылка</item>
+        <item>Bez emocijām</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Ar SMS</item>
+        <item>Ar mākoņošanas īsziņu</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Ar MMS</item>
+        <item>Ar mākoņošanas ziņu</item>
+    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>Vienu reizi</item>
         <item>Divas reizes</item>
         <item>Trīs reizes</item>
         <item>Piecas reizes</item>
         <item>Desmit reizes</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Vārds</item>
+        <item>Segvārds</item>
+        <item>Telefons</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>IM</item>
+        <item>Interneta Numurs</item>
+        <item>Dzimšanas diena</item>
+        <item>WEB lapa</item>
+        <item>Adrese</item>
+        <item>Piezīmes</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sek.</item>
+        <item>2 sek.</item>
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+        <item>10 sek.</item>
+        <item>cits</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vienmēr</item>
+        <item>Režīms \"Bez skaņas\"</item>
+        <item>Dažreiz</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Saņemšanas laiks</item>
+        <item>Nosūtīšanas laiks</item>
     </string-array>
 </resources>

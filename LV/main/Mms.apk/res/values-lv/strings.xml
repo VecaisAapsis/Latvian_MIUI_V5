@@ -187,7 +187,7 @@
   <string name="move_down">Uz leju</string>
   <string name="move_up">Uz augšu</string>
   <string name="msg_type_hint_mms">Multimedia message</string>
-  <string name="msg_type_hint_mx">Makoņošanas ziņa</string>
+  <string name="msg_type_hint_mx">Mākoņošanas ziņa</string>
   <string name="msg_type_hint_sms">Īsziņas teksts</string>
   <string name="multimedia_message">Multiziņa</string>
   <string name="multimedia_notification">Multiziņas paziņojums</string>
@@ -206,9 +206,9 @@
   <string name="mx_count_dspt">Since activation, MIUI has sent %1$d cloud message(s) for you (%2$s)</string>
   <string name="mx_current_status">Current status: Online</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
-  <string name="mx_enable">Iespējot makoņošanas īsziņas</string>
+  <string name="mx_enable">Iespējot mākoņošanas īsziņas</string>
   <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
-  <string name="mx_msg">Makoņošanas īsziņas</string>
+  <string name="mx_msg">Mākoņošanas īsziņas</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Re-activate cloud messaging</string>

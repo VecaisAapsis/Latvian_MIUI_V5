@@ -23,4 +23,14 @@
         <item quantity="other">Albumi tiek padarīti pieejami bezsaistē.</item>
         <item quantity="one">Albums tiek padarīts pieejams bezsaistē.</item>
     </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">%1$d attēli</item>
+        <item quantity="zero">%1$d attēli</item>
+        <item quantity="one">%1$d attēli</item>
+    </plurals>
 </resources>

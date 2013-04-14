@@ -12,4 +12,9 @@
         <item quantity="other">The selected action is not available while in the emergency callback mode. The phone will be in this mode for %s minutes. Would you like to exit now?</item>
         <item quantity="one">The selected action is not available while in the emergency callback mode. The phone will be in this mode for %s minute. Would you like to exit now?</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Izvēlēti: %1$d</item>
+        <item quantity="zero">Izvēlēti: %1$d</item>
+        <item quantity="one">Izvēlēti: %1$d</item>
+    </plurals>
 </resources>

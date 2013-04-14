@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Nenormāla konta informācia, mēģiniet, lai pieteiktos vēlreiz vai mēģiniet vēlāk!</string>
   <string name="account_container_title">No sekojošā konta</string>
@@ -37,8 +37,8 @@
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Dzēst kontaktus sērijā</string>
   <string name="batch_delete_msg">"Are you sure you want to delete the selected %d contacts?
-
-If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
+    
+    If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth  savienojums pārrauts</string>
   <string name="blurbJoinContactDataWith">Izvēlieties kontaktpersonu, kuru vēlaties apvienot ar kontaktpersonu %s:</string>
   <string name="btn_delete_multi_contacts">Dzēst %d kontaktus</string>
@@ -135,23 +135,20 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clearFrequentsProgress_title">Bieži lietoto kontaktu dzēšana...</string>
   <string name="clear_default">Notīrīt noklusējuma iestatījumus</string>
   <string name="click_close">Noklikšķiniet uz ekrāna, lai aizvērtu</string>
+  <string name="cloud_antispam_mark">Spams</string>
   <string name="cloud_antispam_summary">Filtrēt zvanus un īsziņas, izmantojot Wi-Fi un datu pārraides tīklu</string>
   <string name="cloud_antispam_title">Mākoņošanas Sargs</string>
   <string name="composer_failed_to_get_database_infomation">Nevarēja iegūt informāciju no datu bāzes.</string>
   <string name="composer_has_no_exportable_contact">Nav nevienas eksportējamas kontaktpersonas. Ja jūsu tālrunī ir saglabātas kontaktpersonas, iespējams, jūsu datu pakalpojumu sniedzējs neļauj eksportēt kontaktpersonas no tālruņa.</string>
   <string name="composer_not_initialized">Netika pareizi startēts vCard veidotājs.</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider">
-  </string>
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix">
-  </string>
-  <string name="config_export_file_suffix">
-  </string>
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">Noklusējuma</string>
   <string name="config_import_vcard_type">Noklusējuma</string>
-  <string name="config_prohibited_phone_number_regexp">
-  </string>
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Vai tiešām vēlaties dzēst %s zvanu žurnālus?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Vai tiešām vēlaties dzēst kontaktu zvanu žurnālus?"</string>
   <string name="confirm_export_message">Kontaktpersonu saraksts tiks eksportēts uz failu %s.</string>
@@ -332,8 +329,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="export_to_sim">Eksportēt uz SIM karti</string>
   <string name="export_to_sim_title">Eksportē uz SIM karti...</string>
   <string name="export_vcard_description">Eksporēt vCard uz krātuvi</string>
-  <string name="exporting_contact_failed_message">"Kontaktpersonas dati netika eksportēti.
-Iemesls: %s"</string>
+  <string name="exporting_contact_failed_message">"Kontaktpersonas dati netika eksportēti. Iemesls: %s"</string>
   <string name="exporting_contact_failed_title">Nevarēja eksportēt</string>
   <string name="exporting_contact_list_message">Kontaktpersonas dati tiek eksportēti uz failu %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s no %s kontaktpersonas(-ām)</string>
@@ -356,7 +352,7 @@ Iemesls: %s"</string>
   <string name="fail_reason_vcard_parse_error">Neparedzēta iemesla dēļ nevarēja parsēt vCard failu.</string>
   <string name="favoritesFrequentCalled">Bieži zvanīti</string>
   <string name="favoritesFrequentContacted">Bieža saziņa</string>
-  <string name="favorites_list_empty">No favorites</string>
+  <string name="favorites_list_empty">Nav izlases</string>
   <string name="foundTooManyContacts">Ir atrastas vairāk nekā %d kontaktpersonas.</string>
   <string name="frequency_none">"Vairs neatgādināt"</string>
   <string name="frequency_three_days">Pārbaudiet un atgādināt ik pēc trim dienām</string>
@@ -384,12 +380,9 @@ Iemesls: %s"</string>
   <string name="group_sms_progress_msg">Sagatavo SMSgrupēšanu...</string>
   <string name="groupsLabel">Grupas</string>
   <string name="groups_list_empty">Nav grupu</string>
-  <string name="help_url_people_add">
-  </string>
-  <string name="help_url_people_edit">
-  </string>
-  <string name="help_url_people_main">
-  </string>
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
   <string name="hint_distance">Saglabāt distanci</string>
   <string name="hint_findContacts">Meklēt kontaktpersonas</string>
   <string name="hint_more_contact">Izmantot apvienot kontaktus, kad ir divi vienādi</string>
@@ -545,27 +538,27 @@ Iemesls: %s"</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restore data backed up in Xiaomi account and MiTalk</string>
   <string name="noContacts">Nav kontaktpersonu.</string>
   <string name="noContactsHelpText">"Nav nevienas parādāmas kontaktpersonas.
-
-To add contacts, touch "</string>
+    
+    To add contacts, touch "</string>
   <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
   <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch "</string>
+    
+    To add contacts, touch "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
-
-To add contacts, touch "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, touch "</string>
+    
+    To add contacts, touch "</string>
+  <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (Ja jūs just added an account, it can take a few minutes to sync contacts.)
+    
+    To add contacts, touch "</string>
   <string name="noContactsWithPhoneNumbers">Nav kontaktpersonas ar tālruņa numuriem.</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
-
-To add a contact to your list of favorites:
-
-"</string>
+    
+    To add a contact to your list of favorites:
+    
+    "</string>
   <string name="noGroups">Nav grupu.</string>
-  <string name="noMatchingContacts">No matching contacts found.</string>
+  <string name="noMatchingContacts">Vienādu numuru nav atrasts.</string>
   <string name="noRecentContacts">Nav Pēdējā laikā  kontaktu</string>
   <string name="no_account_prompt">"People works better with a Google Account.
 
@@ -911,5 +904,5 @@ To add a contact to your list of favorites:
   <string name="websiteLabelsGroup">Vietne</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Dzēst datus</string>
-  <string name="zero_items_selected">Nav atlasītas vienības</string>
+  <string name="zero_items_selected">Nav atlasītas vienības</string>   
 </resources>

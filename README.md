@@ -2,9 +2,9 @@ MIUI v5 - MIUIAndroid XML Strings Latvian
 
 --finished-- bez bildem
 
-Bluetooth.apk --finished-- 
+OK Bluetooth.apk --finished-- 
 
-Browser.apk --finished--
+OK Browser.apk --finished--
 
 BugReport.apk
 
@@ -14,7 +14,7 @@ Calendar.apk --finished--
 
 CloudService.apk --finished--
 
-Contacts.apk
+OK Contacts.apk
 
 ContactsProvider.apk
 
@@ -36,15 +36,15 @@ LBESEC_MIUI.apk
 
 MiuiCompass.apk --finished--
 
-MiuiGallery.apk
+OK MiuiGallery.apk
 
 MiuiHome.apk
 
-MiuiSystemUI.apk
+OK MiuiSystemUI.apk
 
 MiuiVideoPlayer.apk
 
-Mms.apk
+OK Mms.apk
 
 Music.apk
 
@@ -56,7 +56,7 @@ Notes.apk
 
 PackageInstaller.apk
 
-Phone.apk
+OK Phone.apk
 
 Provision.apk
 
@@ -76,7 +76,7 @@ ThemeManager.apk
 
 Updater.apk
 
-XiaomiServiceFramework.apk
+OK XiaomiServiceFramework.apk
 
 
 

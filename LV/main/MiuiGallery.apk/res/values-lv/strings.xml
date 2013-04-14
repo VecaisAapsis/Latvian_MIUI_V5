@@ -62,7 +62,7 @@
   <string name="confirm_delete_videos">%s videos</string>
   <string name="contact_photo">Contact photo</string>
   <string name="contrast">Contrast</string>
-  <string name="create_new_cloud_folder">Izveidot Makoņošanas mapi</string>
+  <string name="create_new_cloud_folder">Izveidot Mākoņošanas mapi</string>
   <string name="crop">Apgriešana</string>
   <string name="crop_fail_to_load_image">Nevarēja ielādēt attēlu.</string>
   <string name="crop_label">Apgriezt attēlu</string>
@@ -135,7 +135,7 @@
   <string name="import_fail">Neveiksmīga importēšana</string>
   <string name="initial_cloud_button_text">Start using your MiCloud</string>
   <string name="initial_cloud_text">Any time and any place, organise and view your photos</string>
-  <string name="input_cloudfolder_name">Makoņošanas mapes nosaukums</string>
+  <string name="input_cloudfolder_name">Mākoņošanas mapes nosaukums</string>
   <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
   <string name="internal_sd_card">Iekšējā SD karte</string>
@@ -166,16 +166,16 @@
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="model">Modelis</string>
-  <string name="modify_cloud_settings">MiMakoņošanas Iestatījumi</string>
+  <string name="modify_cloud_settings">MiMākoņošanas Iestatījumi</string>
   <string name="more">Vairāk</string>
-  <string name="move_to_cloud_album">Pārcelt uz Makoņošanu</string>
+  <string name="move_to_cloud_album">Pārcelt uz Mākoņošanu</string>
   <string name="multiface_crop_help">Pieskarieties sejai, lai sāktu.</string>
   <string name="must_pick_file">Select an image</string>
   <string name="negative">Negatīvs</string>
   <string name="no">No</string>
   <string name="no_albums_alert">Nav pieejams neviens albums.</string>
   <string name="no_connectivity">Tīkla problēmu dēļ nevarēja noteikt dažas atrašanās vietas.</string>
-  <string name="no_file">No files found</string>
+  <string name="no_file">Nav neviens fails atrasts</string>
   <string name="no_location">Nav atrašanās vietas</string>
   <string name="no_map_app">No map application</string>
   <string name="no_network_connected">No network connection available</string>
@@ -265,7 +265,7 @@
   <string name="sync_album_set_error">Failed to download the list of albums. Please retry later.</string>
   <string name="sync_album_summary">Upload your pictures and screenshots to your MiCloud album storage</string>
   <string name="sync_history_power_on">Sync when charging</string>
-  <string name="sync_only_in_wifi">Wi-Fi only</string>
+  <string name="sync_only_in_wifi">Tikai Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Recommended to enable, otherwise it will consume network traffic.</string>
   <string name="tab_all_text">Set all</string>
   <string name="tab_lockscreen_text">Ekrāna bloķēšana</string>
