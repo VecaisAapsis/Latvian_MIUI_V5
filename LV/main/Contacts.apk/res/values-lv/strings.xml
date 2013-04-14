@@ -253,7 +253,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="device_brand_title">Izvēlieties mobilo telefonu tīklu</string>
   <string name="device_import_account_dialog_title">Izvēlieties kontu, lai importētu</string>
   <string name="device_import_account_dialog_title_suffix">"(atrasti %1$s kontakti)"</string>
-  <string name="device_import_done_toast">%1$dkontakti importēti</string>
+  <string name="device_import_done_toast">%1$d kontakti importēti</string>
   <string name="device_import_failed_message">Importēt neizdevās!</string>
   <string name="device_import_local_account">Vietējā konts</string>
   <string name="device_import_message">Importēšana</string>
