@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d kontaktpersonas ar tālruņa numuriem</item>
-        <item quantity="one">1 kontaktpersona ar tālruņa numuru</item>
+        <item quantity="other">%d personu ar tālruņa numuriem</item>
+        <item quantity="one">Viena persona ar tālruņa numuru</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d kontaktpersonas</item>
-        <item quantity="one">1 kontaktpersona</item>
+        <item quantity="other">%d kontaktpersonu</item>
+        <item quantity="one">Viena kontaktpersona</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Atrastas %d</item>
-        <item quantity="one">Atrasta 1</item>
+        <item quantity="one">Atrasta viena</item>
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">Atrastas %d</item>
-        <item quantity="one">Atrasta 1</item>
+        <item quantity="one">Atrasta viena</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">sapludināts no %0$d avotiem</item>
-        <item quantity="one">nav sapludinātas</item>
+        <item quantity="other">sapludināts no %0$d ierakstiem</item>
+        <item quantity="one">nav sapludināts</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d grupas</item>
-        <item quantity="one">1 grupa</item>
+        <item quantity="one">Viena grupa</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d persona(-as) grupā %2$s</item>
-        <item quantity="one">%1$d persona(-as) grupā %2$s</item>
+        <item quantity="other">%1$d persona(-as) %2$s grupā</item>
+        <item quantity="one">%1$d persona %2$s grupā</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d persona(-as)</item>
-        <item quantity="one">%1$d persona(-as)</item>
+        <item quantity="one">%1$d persona</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">Numuri: %1$d</item>
-        <item quantity="one">Numuri: %1$d</item>
+        <item quantity="one">Numurs: %1$d</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d balss pasta ziņojums(-i)</item>
         <item quantity="one">Balss pasts</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Izvēlēts: %1$d</item>
+        <item quantity="other">Izvēlēti: %1$d</item>
         <item quantity="one">Izvēlēts: %1$d</item>
     </plurals>
     <plurals name="group_add_success_toast">
@@ -49,7 +49,7 @@
         <item quantity="one">Veiksmīgi pievienots %1$d kontakts</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">Izvēlēts: %1$d</item>
+        <item quantity="other">Izvēlēti: %1$d</item>
         <item quantity="one">Izvēlēts: %1$d</item>
     </plurals>
 </resources>
