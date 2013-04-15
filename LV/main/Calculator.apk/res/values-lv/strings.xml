@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="advanced">Pilnīgais skats</string>
   <string name="app_name">Kalkulators</string>
@@ -65,5 +65,5 @@
   <string name="tan">tg</string>
   <string name="tanDesc">tangenss</string>
   <string name="tan_mathematical_value">tg</string>
-  <string name="text_copied_toast">Kopētais teksts</string>
+  <string name="text_copied_toast">Teksts kopēts</string>
 </resources>
