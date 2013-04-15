@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Nenormāla konta informācia, mēģiniet, lai pieteiktos vēlreiz vai mēģiniet vēlāk!</string>
-  <string name="account_container_title">No sekojošā konta</string>
+  <string name="account_abnormal_state">Nenormāla konta informācija, mēģiniet, lai pieteiktos vēlreiz vai mēģiniet vēlāk!</string>
+  <string name="account_container_title">No šī konta</string>
   <string name="account_default">Tālrunis</string>
   <string name="account_phone">Tikai tālrunī, bez sinhronizācijas</string>
   <string name="account_sim">Saglabāti tikai uz SIM kartes</string>
   <string name="account_type_format">%1$s kontaktpersona</string>
   <string name="actionIncomingCall">Ienākošie zvani</string>
-  <string name="action_menu_overflow_description">Vairāk opciju</string>
-  <string name="activity_title_confirm_add_detail">Pievienot kontaktpersonai</string>
-  <string name="activity_title_contacts_filter">Attēlojamās kontaktpers.</string>
+  <string name="action_menu_overflow_description">Vairāk iespēju</string>
+  <string name="activity_title_confirm_add_detail">Pievienot kontaktam</string>
+  <string name="activity_title_contacts_filter">Attēlojamās personas</string>
   <string name="activity_title_settings">Iestatījumi</string>
   <string name="addPeopleToGroup">Lai pievienotu personas, rediģējiet grupu.</string>
   <string name="add_2sec_pause">Pievienot 2 sekundes ilgu pauzi</string>
   <string name="add_account">Pievienot kontu</string>
   <string name="add_blacklist">Pievienot melnajam sarakstam</string>
   <string name="add_connection_button">Pievienot savienojumu</string>
-  <string name="add_contact_dlg_message_fmt">Vai pievienot \"%s\" kontaktpersonām?</string>
+  <string name="add_contact_dlg_message_fmt">Vai pievienot \"%s\" kotaktiem?</string>
   <string name="add_field">Pievienot vēl vienu lauku</string>
   <string name="add_new_account">Pievienot jaunu kontu</string>
   <string name="add_new_entry_for_section">Pievienot jaunu</string>
