@@ -14,6 +14,7 @@
   <string name="add_slide">Pievienot slaidu</string>
   <string name="add_slide_hint">Izvēlēties, lai izveidotu jaunu slaidu</string>
   <string name="add_smiley">Smiley</string>
+  <string name="add_subject">Add subject</string>
   <string name="add_timing">Timing</string>
   <string name="add_video">Pievienot video</string>
   <string name="adding_attachments">Uzgaidiet, kamēr objekti tiek pievienoti slaidrādei</string>
@@ -85,6 +86,7 @@
   <string name="delete_bookmark">Remove from Favorites</string>
   <string name="delete_message">Delete</string>
   <string name="delete_phrase">Delete phrase</string>
+  <string name="delete_subject">Delete subject</string>
   <string name="delete_unlocked">Iekļaut bloķētas ziņas</string>
   <string name="delivery_report_activity">Piegādes atskaite</string>
   <string name="delivery_toast_body">Ziņu saņēma %s</string>
@@ -255,8 +257,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Automātiski izgūstiet ziņas viesabonēšanas laikā</string>
   <string name="pref_summary_new_message_popup">Show pop-ups when new message is received</string>
   <string name="pref_summary_new_message_popup_when_secure">No popup notifications when access controlled</string>
-  <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
-	<string name="pref_summary_on_system_mms_priority">System Mms app will receive message first</string>
+  <string name="pref_summary_on_system_mms_priority">System Mms app will receive message first</string>
   <string name="pref_summary_show_recent_contacts">Show a list of recent contacts while composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake up screen when new message is received</string>
   <string name="pref_system_title">Sistēma</string>
