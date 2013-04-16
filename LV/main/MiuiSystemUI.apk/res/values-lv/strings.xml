@@ -219,6 +219,7 @@
   <string name="status_bar_style_settings">Statusa joslas iestatījumi</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
+  <string name="status_bar_toggle_ac">Piekļuves kontrole</string>
   <string name="status_bar_toggle_auto_brightness">Automātiks Spilgtums</string>
   <string name="status_bar_toggle_brightness">Apgaismojums</string>
   <string name="status_bar_toggle_data">Internets</string>

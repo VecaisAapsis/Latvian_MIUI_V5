@@ -8,7 +8,7 @@ OK Browser.apk --finished--
 
 BugReport.apk
 
-Calculator.apk
+Calculator.apk --finished-- 
 
 Calendar.apk --finished-- 
 
@@ -18,7 +18,7 @@ OK Contacts.apk
 
 ContactsProvider.apk
 
-DeskClock.apk
+DeskClock.apk --finished-- 
 
 DownloadProviderUi.apk
 
@@ -38,7 +38,7 @@ MiuiCompass.apk --finished--
 
 OK MiuiGallery.apk
 
-MiuiHome.apk
+MiuiHome.apk --finished-- 
 
 OK MiuiSystemUI.apk
 
@@ -60,17 +60,17 @@ OK Phone.apk
 
 Provision.apk
 
-QuickSearchBox.apk
+QuickSearchBox.apk --finished-- 
 
 Settings.apk
 
-SettingsProvider.apk
+SettingsProvider.apk --finished-- 
 
 SoundRecorder.apk
 
-TelephonyProvider.apk
+TelephonyProvider.apk --finished-- 
 
-TelocationProvider.apk
+TelocationProvider.apk --finished-- 
 
 ThemeManager.apk
 
