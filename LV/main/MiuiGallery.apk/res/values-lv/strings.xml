@@ -37,7 +37,7 @@
   <string name="clear_thumbnail_cache_summary">Browsing gallery will generate thumbnails. Clearing the cache will increase space.</string>
   <string name="click_to_enter_camera">Open camera</string>
   <string name="close">Aizvērt</string>
-  <string name="cloud_album_more_settings">Cloud album settings</string>
+  <string name="cloud_album_more_settings">Mākoņošanas albūmu iestatījumi</string>
   <string name="cloud_album_set_create">Jaunu</string>
   <string name="cloud_albums">Mākoņošanas albūmi</string>
   <string name="cloud_camera_display_name">Unsorted</string>
@@ -47,8 +47,8 @@
   <string name="cloud_media_set_set">Mākoņošanas apbūmi</string>
   <string name="cloud_screenshots_display_name">Ekrānuzņēmums</string>
   <string name="cloud_tab_albums">Albūmi</string>
-  <string name="cloud_tab_all">All</string>
-  <string name="cloud_tab_locations">Locations</string>
+  <string name="cloud_tab_all">Visi</string>
+  <string name="cloud_tab_locations">Atrašanās</string>
   <string name="cloudfolder_already_exists"> mape jau eksistē</string>
   <string name="confirm_delete">Dzēst</string>
   <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
@@ -56,12 +56,12 @@
   <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s folders (including %s)</string>
   <string name="confirm_delete_including_null">0 items</string>
-  <string name="confirm_delete_items">%s items</string>
-  <string name="confirm_delete_pictures">%s bildes</string>
+  <string name="confirm_delete_items">%s vienumi</string>
+  <string name="confirm_delete_pictures">%s attēli</string>
   <string name="confirm_delete_system_album">%s is system album, are you sure you want to delete?</string>
   <string name="confirm_delete_videos">%s videos</string>
-  <string name="contact_photo">Contact photo</string>
-  <string name="contrast">Contrast</string>
+  <string name="contact_photo">Kontakta attēls</string>
+  <string name="contrast">Kontrasts</string>
   <string name="create_new_cloud_folder">Izveidot Mākoņošanas mapi</string>
   <string name="crop">Apgriešana</string>
   <string name="crop_fail_to_load_image">Nevarēja ielādēt attēlu.</string>
