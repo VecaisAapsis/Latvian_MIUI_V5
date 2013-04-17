@@ -125,9 +125,9 @@
   <string name="no_syncable_calendars">Nav kalendāru</string>
   <string name="no_title_label">(Nav nosaukuma)</string>
   <string name="not_synced">nav sinhronizēts</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
+  <string name="prefDefault_alerts_vibrateWhen">nekad</string>
+  <string name="prefDefault_alerts_vibrate_false">nekad</string>
+  <string name="prefDefault_alerts_vibrate_true">vienmēr</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrozvans</string>
   <string name="preferences_about_title">Par</string>
   <string name="preferences_alerts_popup_title">Uznirstošais paziņojums</string>
