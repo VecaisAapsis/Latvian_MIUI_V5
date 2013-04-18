@@ -173,7 +173,7 @@
   <string name="backup_pw_set_button_text">Iestatīt dublējuma paroli</string>
   <string name="backup_section_title">Dublēšana un atjaunošana</string>
   <string name="band_mode_failed">Neizdevās</string>
-  <string name="band_mode_loading">Notiek joslu saraksta ielāde...</string>
+  <string name="band_mode_loading">Notiek joslu saraksta ielāde\u2026</string>
   <string name="band_mode_set">Iestatīt</string>
   <string name="band_mode_succeeded">Izdevās</string>
   <string name="band_mode_title">Iestatīt GSM frekvenču joslu</string>
@@ -1642,10 +1642,10 @@ please follow the steps to complete installation"</string>
   <string name="settings_button">Iestatījumi</string>
   <string name="settings_label">Iestatījumi</string>
   <string name="settings_label_launcher">Iestatījumi</string>
-  <string name="settings_license_activity_loading">Notiek ielāde…</string>
+  <string name="settings_license_activity_loading">Notiek ielāde\u2026</string>
   <string name="settings_license_activity_title">Atklātā pirmkoda licences</string>
   <string name="settings_license_activity_unavailable">Radās ar licenču ielādi saistīta problēma.</string>
-  <string name="settings_safetylegal_activity_loading">Notiek ielāde…</string>
+  <string name="settings_safetylegal_activity_loading">Notiek ielāde\u2026</string>
   <string name="settings_safetylegal_activity_title">Informācija par drošību</string>
   <string name="settings_safetylegal_activity_unreachable">Nav izveidots datu pārraides savienojums. Lai skatītu šo informāciju tūlīt, jebkurā datorā ar interneta savienojumu apmeklējiet vietni %s.</string>
   <string name="settings_safetylegal_title">Informācija par drošību</string>
@@ -1998,7 +1998,7 @@ Attempts Remaining :"</string>
   <string name="virus_scan_app_risk">Found risks</string>
   <string name="virus_scan_app_safe_scanning">Scanning...</string>
   <string name="virus_scan_app_scan_finish">Scan completed</string>
-  <string name="virus_scan_app_scanning">Scanning...</string>
+  <string name="virus_scan_app_scanning">Scanning\u2026</string>
   <string name="virus_scan_app_stop_scan">Stop scanning</string>
   <string name="virus_scan_app_uninstall">Batch uninstall (% d)</string>
   <string name="virus_scan_app_waiting">Waiting...</string>

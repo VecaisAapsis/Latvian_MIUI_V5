@@ -370,6 +370,7 @@
   <string name="pref_use_instant_search_summary">Izmantojiet Google dinamisko meklēšanu, kad lietojat Google meklēšanu, lai redzētu rezultātus rakstīšanas laikā (var tikt izmantots vairāk datu).</string>
   <string name="pref_video_preload_dialogtitle">Video ielāde...</string>
   <string name="pref_video_preload_summary">Atļaut pārlūkprogrammai ielādēt video, ja serveris to atbalsta</string>
+  <string name="pref_video_preload_title">Video pirmsielāde</string>
   <string name="pref_volume_key_enabled">Skaļuma taustiņi</string>
   <string name="pref_volume_key_operation">Skaļuma taustiņu darbība</string>
   <string name="pref_zoom_on_double_tap">Tālummaiņa ar dubultskārienu</string>

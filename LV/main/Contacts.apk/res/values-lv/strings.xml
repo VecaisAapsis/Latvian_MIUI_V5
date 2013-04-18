@@ -190,7 +190,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="delete_call_log_title">Izvēlieties zvanu žurnālu ko dzēst?</string>
   <string name="delete_contact_calllog_title">"Vai tiešām vēlaties dzēst kontaktu zvanu žurnālu?"</string>
   <string name="delete_duplicate">apvienot</string>
-  <string name="delete_duplicate_message">"Apvieno kontaktus..."</string>
+  <string name="delete_duplicate_message">"Apvieno kontaktus \u2026"</string>
   <string name="delete_group_dialog_message">Dzēst grupu \"%1$s\", kontakti paši netiks dzēsts.</string>
   <string name="delete_group_dialog_title">Dzēst grupu</string>
   <string name="delete_unknown_contact_calllog_title">"Vai tiešām vēlaties dzēst nezināmu kontaktu zvanu žurnālu?"</string>
@@ -264,7 +264,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="dialerIconLabel">Zvanīt</string>
   <string name="dialerKeyboardHintText">Izmantojiet tastatūru, lai sastādītu numuru.</string>
   <string name="dialer_addAnotherCall">Pievienot zvanu</string>
-  <string name="dialer_empty_text_loading">Ielādē...</string>
+  <string name="dialer_empty_text_loading">Ielādē \u2026</string>
   <string name="dialer_empty_text_no_call_log">Nav zvanu</string>
   <string name="dialer_empty_text_no_search_result">Kontaktpersona nav atrasta</string>
   <string name="dialer_returnToInCallScreen">Atgriezties pie pašreizējā zvana</string>
@@ -282,7 +282,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="dirty_contacts_notification_message">(Izslēgt atgādinājumu kontaktu uzstādījumos)</string>
   <string name="dirty_contacts_notification_title">Vai jūs vēlaties, lai sinhronizētu kontaktus?</string>
   <string name="display_all_contacts">Visas kontaktpersonas</string>
-  <string name="display_more_groups">Vairāk grupu...</string>
+  <string name="display_more_groups">Vairāk grupu \u2026</string>
   <string name="display_only_phones">Tikai parādīt kontaktus ar tālruņa numuru</string>
   <string name="display_options_sort_by_family_name">Uzvārds</string>
   <string name="display_options_sort_by_given_name">Vārds</string>
@@ -388,7 +388,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="import_one_vcard_string">Importēt vienu vCard failu</string>
   <string name="import_to_xiaomi_account_confirm">Importēt</string>
   <string name="import_to_xiaomi_account_progress_finish">Importēšana veiksmīga!</string>
-  <string name="import_to_xiaomi_account_progress_message">Importēšana...</string>
+  <string name="import_to_xiaomi_account_progress_message">Importē \u2026</string>
   <string name="import_to_xiaomi_account_progress_title">Importēt kontaktus Xiaomi kontā</string>
   <string name="import_to_xiaomi_account_title">Vai jūs vēlaties importēt šādus kontaktus Xiaomi kontā?</string>
   <string name="import_vcard_description">Importēt kontaktus no krātuves</string>
@@ -421,13 +421,13 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="list_filter_all_accounts">Visas kontaktpersonas</string>
   <string name="list_filter_all_starred">Atzīmēts ar zvaigznīti</string>
   <string name="list_filter_custom">Pielāgotas</string>
-  <string name="list_filter_customize">Pielāgot</string>
+  <string name="list_filter_customize">Pielāgot \u2026</string>
   <string name="list_filter_phones">Visas kontaktpersonas ar tālruņa numuriem</string>
   <string name="list_filter_single">Kontaktpersona</string>
   <string name="loading">Ielādē...</string>
-  <string name="loading_group_members">Ielādē grupas dalībniekus...</string>
-  <string name="loading_groups">Ielādē grupas...</string>
-  <string name="loading_recent">Ielādē nesenās kontaktpersonas...</string>
+  <string name="loading_group_members">Ielādē grupas dalībniekus \u2026</string>
+  <string name="loading_groups">Ielādē grupas \u2026</string>
+  <string name="loading_recent">Ielādē nesenās kontaktpersonas \u2026</string>
   <string name="loading_resource_detail_info">Ielādē resursu informāciju...</string>
   <string name="local_invisible_directory">Cits</string>
   <string name="local_profile_title">Mans vietējais profils</string>
@@ -797,7 +797,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="sms_work_mobile">Sūtīt īsziņu uz darba mobilo tālruni</string>
   <string name="sms_work_pager">Sūtīt īsziņu uz darba peidžeru</string>
   <string name="social_widget_label">Kontaktpersona</string>
-  <string name="social_widget_loading">Notiek ielāde...</string>
+  <string name="social_widget_loading">Notiek ielāde \u2026</string>
   <string name="splitConfirmation">Šī kontaktpersona tiks sadalīta vairākās kontaktpersonās.</string>
   <string name="splitConfirmation_title">Atdalīt kontaktp.?</string>
   <string name="starredList">Atzīmēti ar zvaigznīti</string>
@@ -848,7 +848,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="viewContactTitle">Informācija par kontaktpersonu</string>
   <string name="view_updates_from_group">Skatīt atjaunināj.</string>
   <string name="voicemail">Balss pasts</string>
-  <string name="voicemail_buffering">Notiek buferizācija...</string>
+  <string name="voicemail_buffering">Notiek buferizācija\u2026</string>
   <string name="voicemail_fetching_content">Notiek balss pasta iegūšana...</string>
   <string name="voicemail_fetching_timout">Nevarēja iegūt balss pasta ziņojumu.</string>
   <string name="voicemail_playback_error">Nevarēja atskaņot balss pasta ziņojumu.</string>
