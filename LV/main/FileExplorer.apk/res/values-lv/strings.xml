@@ -190,7 +190,7 @@
   <string name="server_control_settings">Servera uzstādījumi</string>
   <string name="share_link_failed">Nojuka mapes ārējās saites veidošana</string>
   <string name="show_message">Datni nevar atvērt bez lejuplādēšanas</string>
-  <string name="space_info">Tīkla krātuves apjoms: kopā: %2$s, %1$s pieejami/string>
+  <string name="space_info">Tīkla krātuves apjoms: kopā: %2$s, %1$s pieejami</string>
   <string name="space_usage">Lietojumā</string>
   <string name="start_cleanup">Uzsākt tīrīšanu</string>
   <string name="start_server">Palaist Servisu</string>
