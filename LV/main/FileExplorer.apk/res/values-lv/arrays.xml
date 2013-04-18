@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="task_status">
-        <item>viss notiek</item>
+        <item>Viss notiek</item>
         <item>Gaidīt</item>
         <item>Pārtraukts</item>
         <item>Kļūda</item>
