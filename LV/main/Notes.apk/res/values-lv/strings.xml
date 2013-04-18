@@ -9,7 +9,7 @@
   <string name="alert_message_delete_notes">Vai tiešām vēlaties dzēst izvēlētās %1$s piezīmes?</string>
   <string name="alert_message_discard_changes">Atcelt visas izmaiņas?</string>
   <string name="alert_message_exceed_image_limit">Maksimums 15 attēli var tikt pievienoti piezīmei. Izveidot jaunu piezīmi, lai pievienotu vēl attēlus</string>
-  <string name="alert_title_delete">Dzēst izvēlētāš piezīmes</string>
+  <string name="alert_title_delete">Dzēst izvēlētās piezīmes</string>
   <string name="alert_title_discard">Atcelt izmaiņas?</string>
   <string name="alert_title_exceed_image_limit">Piezīmes attēlu limits ir sasniegts!</string>
   <string name="app_name">Piezīmes</string>
