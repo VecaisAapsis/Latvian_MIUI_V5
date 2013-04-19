@@ -176,7 +176,7 @@
   <string name="settings_expandable_under_keyguard_summary">only works for insecure lock screen</string>
   <string name="settings_expanded_view">Expanded notification view</string>
   <string name="settings_notification_icon">Paziņojumi statusa joslā</string>
-  <string name="settings_screenshot_notification_disabled">Rādīt Ekrānuzņēmums informāciju</string>
+  <string name="settings_screenshot_notification_disabled">Rādīt Ekrānuzņēmuma informāciju</string>
   <string name="settings_show_flow_info">Rādīt datu pārraides informāciju</string>
   <string name="settings_show_network_speed">Rādīt tīkla ātrumu</string>
   <string name="settings_toggle">Pārslēdzēji</string>
@@ -193,7 +193,7 @@
   <string name="status_bar_date_format">d MMMM, yyyy</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Iestatīt ievades metodes</string>
-  <string name="status_bar_network_flow">"Šodien:%1$s    Remain:%2$s    Package:%3$s"</string>
+  <string name="status_bar_network_flow">"Šodien:%1$s    Atlicis:%2$s    Limits:%3$s"</string>
   <string name="status_bar_network_flow_exceed">"Šodien:%1$s    Exceeded:%2$s    Package:%3$s"</string>
   <string name="status_bar_network_flow_today">Šodien:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>
