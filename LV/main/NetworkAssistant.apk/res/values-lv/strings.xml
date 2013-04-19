@@ -23,7 +23,7 @@
   <string name="app_detail_internet_control_category">Tīkla kontrole</string>
   <string name="app_detail_title">Lietotnes informācija</string>
   <string name="app_detail_version">Versija: %s</string>
-  <string name="app_name">Uzraudzība</string>
+  <string name="app_name">Datu plūsma</string>
   <string name="app_traffic_detail">Datu plūsma (%s)</string>
   <string name="apply_rules_failed">"Failed to apply firewall, please try again. (%s)"</string>
   <string name="apply_rules_failed_known">Labi</string>
