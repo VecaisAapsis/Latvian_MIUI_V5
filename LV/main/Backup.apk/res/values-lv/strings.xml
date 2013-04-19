@@ -77,7 +77,7 @@
   <string name="enable_encrypt_ok">Labi</string>
   <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
   <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup."</string>
-  <string name="enable_encrypt_title">Ieslēgr kodēšanu</string>
+  <string name="enable_encrypt_title">Ieslēgt kodēšanu</string>
   <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in to %2$s in order to restore the data.</string>
   <string name="exchange_account">Exchange account</string>
   <string name="fail">neizdevās</string>
