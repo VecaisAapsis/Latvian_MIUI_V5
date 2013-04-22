@@ -332,7 +332,7 @@
     <string-array name="power_mode_entries">
         <item>Jaudas režīms</item>
         <item>Normālais režīms</item>
-        <item>Energotaupīšanas režīms</item>
+        <item>Energotaupīšanaas režīms</item>
         </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP or older versions</item>
