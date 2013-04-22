@@ -3,25 +3,25 @@
     <string-array name="default_smiley_names">
         <item>Laimīgs</item>
         <item>Bēdīgs</item>
-        <item>Piemiedzoš</item>
-        <item>Izbāztu mēli</item>
-        <item>Izbrīnīts</item>
-        <item>Buča</item>
-        <item>Fui</item>
-        <item>Lieliski</item>
-        <item>Nauda mutē</item>
-        <item>Kāja mutē</item>
-        <item>Nošauts</item>
-        <item>Enģelis</item>
-        <item>Neizlēmīgs</item>
+        <item>Mirkšķina</item>
+        <item>Izbāzta mēle</item>
+        <item>Pārsteigts</item>
+        <item>Skūpsts</item>
         <item>Kliedzošs</item>
-        <item>Muti ciet</item>
-        <item>Smejošs</item>
-        <item>Apjucis</item>
+        <item>Kolosāli</item>
+        <item>Nauda mutē</item>
+        <item>Turēt mēli aiz zobiem</item>
+        <item>Nokaunējies</item>
+        <item>Eņģelis</item>
+        <item>Neizlēmīgs</item>
+        <item>Raudošs</item>
+        <item>Slēgtas lūpas</item>
+        <item>Smejas</item>
+        <item>Apmulsis</item>
         <item>Sirds</item>
-        <item>Traks</item>
+        <item>Nikns</item>
         <item>Smīns</item>
-        <item>Bez emocijām</item>
+        <item>Poker face</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>Vienu reizi</item>
@@ -34,7 +34,7 @@
         <item>Vārds</item>
         <item>Segvārds</item>
         <item>Telefons</item>
-        <item>E-mail</item>
+        <item>E-pasts</item>
         <item>Firma</item>
         <item>IM</item>
         <item>Interneta Numurs</item>
@@ -44,7 +44,7 @@
         <item>Piezīmes</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Rādīt saņemšanas llaiku</item>
+        <item>Rādīt saņemšanas laiku</item>
         <item>"Rādīt nosūtīšanas lkaiku</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
@@ -56,21 +56,21 @@
         <item>Ar Mākoņ ziņu</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 sek.</item>
-        <item>2 sek.</item>
-        <item>3 sek.</item>
-        <item>4 sek.</item>
-        <item>5 sek.</item>
-        <item>6 sek.</item>
-        <item>7 sek.</item>
-        <item>8 sek.</item>
-        <item>9 sek.</item>
-        <item>10 sek.</item>
-        <item>cits</item>
+        <item>1 sekunde</item>
+        <item>2 sekundes</item>
+        <item>3 sekundes</item>
+        <item>4 sekundes</item>
+        <item>5 sekundes</item>
+        <item>6 sekundes</item>
+        <item>7 sekundes</item>
+        <item>8 sekundes</item>
+        <item>9 sekundes</item>
+        <item>10 sekundes</item>
+        <item>Cits</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Vienmēr</item>
-        <item>Režīms \"Bez skaņas\"</item>
+        <item>Tikai klusuma režīmā</item>
         <item>Nekad</item>
     </string-array>
 </resources>
