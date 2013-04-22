@@ -1073,7 +1073,7 @@ Attention: this operation cannot be undone."</string>
     <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
     <string name="media_button">Media button</string>
     <string name="media_format_button_text">Dzēst USB krātuvi</string>
-    <string name="media_format_desc">Vai izdzēst visu USB atmiņas saturu? Tiks zaudēti <b>visi</b> saglabātie dati!</string>
+    <string name="media_format_desc">Erase all USB storage? You will lose</string>
     <string name="media_format_final_button_text">Dzēst visu</string>
     <string name="media_format_final_desc">Vai izdzēst USB atmiņas saturu, dzēšot visus tajā glabātos failus? Šo darbību nevar atcelt.</string>
     <string name="media_format_gesture_explanation">Lai apstiprinātu USB atmiņas satura dzēšanu, norādiet grafisko atslēgu.</string>
