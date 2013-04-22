@@ -1,54 +1,56 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string-array name="clir_display_values">
-    <item>Tīkla iestatījumi pēc noklusējuma</item>
-    <item>Slēpt numuru</item>
-    <item>Rādīt numuru</item>
-  </string-array>
-  <string-array name="preferred_network_mode_choices">
-    <item>LTE/CDMA</item>
-    <item>Tikai EvDo</item>
-    <item>CDMA bez EvDo</item>
-    <item>CDMA/EvDo auto</item>
-    <item>GSM/WCDMA аuto</item>
-    <item>Tikai WCDMA</item>
-    <item>Tikai GSM</item>
-    <item>GSM/WCDMA Ieteicams</item>
-  </string-array>
-  <string-array name="preferred_network_mode_choices_lte">
-    <item>LTE/CDMA</item>
-    <item>CDMA</item>
-  </string-array>
-  <string-array name="list_language_entries">
-    <item>Angļu</item>
-    <item>Franču</item>
-    <item>Spāņu</item>
-    <item>Japāņu</item>
-    <item>Koreiešu</item>
-    <item>Ķīniešu</item>
-    <item>Ēbreju</item>
-  </string-array>
-  <string-array name="cdma_system_select_choices">
-    <item>Tikai vietējo</item>
-    <item>Automātiski</item>
-  </string-array>
-  <string-array name="cdma_subscription_choices">
-    <item>UIM</item>
-    <item>NV</item>
-  </string-array>
-  <string-array name="tty_mode_entries">
-    <item>Teletaips izslēgts</item>
-    <item>Pilnfukcionāls surdozvans</item>
-    <item>Surdozvans ar iespēju dzirdēt sarunbiedru</item>
-    <item>Surdozvans ar balss pārraides iespēju</item>
-  </string-array>
-  <string-array name="dtmf_tone_entries">
-    <item>Parasti</item>
-    <item>Garš</item>
-  </string-array>
-  <string-array name="voicemail_notification_vibrate_when_entries">
-    <item>Vienmēr</item>
-    <item>Klusā režīmā</item>
-    <item>Nekad</item>
-  </string-array>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="clir_display_values">
+        <item>Tīkla iestatījumi pēc noklusējuma</item>
+        <item>Slēpt numuru</item>
+        <item>Rādīt numuru</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA / EvDo auto</item>
+        <item>Tikai WCDMA</item>
+        <item>Tikai GSM</item>
+        <item>GSM/WCDMA Ieteicams</item>
+        </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angļu</item>
+        <item>Franču</item>
+        <item>Spāņu</item>
+        <item>Japāņu</item>
+        <item>Koreiešu</item>
+        <item>Ķīniešu</item>
+        <item>Ēbreju</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Tikai vietējo</item>
+        <item>Automātiski</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>UIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Teletaips izslēgts</item>
+        <item>Pilnfukcionāls surdozvans</item>
+        <item>Surdozvans ar iespēju dzirdēt sarunbiedru</item>
+        <item>Surdozvans ar balss pārraides iespēju</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Parasti</item>
+        <item>Garš</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Vienmēr</item>
+        <item>Klusā režīmā</item>
+        <item>Nekad</item>
+    </string-array>
 </resources>

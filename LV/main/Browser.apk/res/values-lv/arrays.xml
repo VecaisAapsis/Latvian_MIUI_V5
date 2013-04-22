@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Jā</item>
-        <item>Pēc pieprasijuma</item>
-        <item>Nē</item>
+        <item>Vienmēr ieslēgts</item>
+        <item>Pēc pieprasījuma</item>
+        <item>Izslēgts</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Sākuma lapa</item>
-        <item>Bieži apmeklējamās web lapas</item>
-        <item>Cita</item>
+        <item>Bieži apmeklētās web lapas</item>
+        <item>pielāgots</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Pavisam maziņš</item>
@@ -27,65 +30,20 @@
         <item>Vidējs</item>
         <item>Liels</item>
     </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unikods (UTF-8)</item>
-        <item>Ķīniešu (GBK)</item>
-        <item>Ķīniešu (Big5)</item>
-        <item>Japāņu (ISO-2022-JP)</item>
-        <item>Japāņu (SHIFT_JIS)</item>
-        <item>Japāņu (EUC-JP)</item>
-        <item>Korejiešu (EUC-KR)</item>
-    </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Nekad</item>
-        <item>Tikai ar Wi-Fi</item>
-        <item>Vienmērе</item>
+        <item>Tikai ar WLAN</item>
+        <item>Vienmēr</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
         <item>Nekad</item>
-        <item>Tikai ar Wi-Fi</item>
+        <item>Tikai ar WLAN</item>
         <item>Vienmēr</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
         <item>Nekad</item>
-        <item>Tikai ar Wi-Fi</item>
+        <item>Tikai ar WLAN</item>
         <item>Vienmēr</item>
-    </string-array>
-    <string-array name="bookmarks">
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>romz</item>
-        <item>http://romz.bz/</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Rullēšana</item>

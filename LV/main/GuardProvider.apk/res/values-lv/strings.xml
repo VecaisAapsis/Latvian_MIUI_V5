@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-ts<resources>
-  <string name="app_name">Jinshan Drošības sargs</string>
-  <string name="hello_world">Sveiciens Visiem!</string>
-  <string name="menu_settings">Iestatījumi</string>
-  <string name="title_activity_main">Galvenā aktivitāte</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jinshan Drošības sargs</string>
+    <string name="hello_world">Sveiciens Visiem!</string>
+    <string name="menu_settings">Iestatījumi</string>
+    <string name="title_activity_main">Galvenā aktivitāte</string>
 </resources>

@@ -23,14 +23,6 @@
         <item>Smīns</item>
         <item>Bez emocijām</item>
     </string-array>
-    <string-array name="resent_via_entries_sms">
-        <item>Ar SMS</item>
-        <item>Ar mākoņošanas īsziņu</item>
-    </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>Ar MMS</item>
-        <item>Ar mākoņošanas ziņu</item>
-    </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>Vienu reizi</item>
         <item>Divas reizes</item>
@@ -51,6 +43,18 @@
         <item>Adrese</item>
         <item>Piezīmes</item>
     </string-array>
+    <string-array name="entries_date_type">
+        <item>Rādīt saņemšanas llaiku</item>
+        <item>"Rādīt nosūtīšanas lkaiku</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Ar īsziņu</item>
+        <item>Ar Mākoņ īsziņu</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Ar ziņojumu</item>
+        <item>Ar Mākoņ ziņu</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 sek.</item>
         <item>2 sek.</item>
@@ -67,10 +71,6 @@
     <string-array name="prefEntries_vibrateWhen">
         <item>Vienmēr</item>
         <item>Režīms \"Bez skaņas\"</item>
-        <item>Dažreiz</item>
-    </string-array>
-    <string-array name="entries_date_type">
-        <item>Saņemšanas laiks</item>
-        <item>Nosūtīšanas laiks</item>
+        <item>Nekad</item>
     </string-array>
 </resources>
