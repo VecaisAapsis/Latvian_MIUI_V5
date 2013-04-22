@@ -330,9 +330,15 @@
         <item>Устройство подключено</item>
         </string-array>
     <string-array name="power_mode_entries">
+<<<<<<< HEAD
         <item>Jaudas režīms</item>
         <item>Normālais režīms</item>
         <item>Energotaupīšanas režīms</item>
+=======
+        <item>Performance Mode</item>
+        <item>Normal Mode</item>
+        <item>Энергосберегающий</item>
+>>>>>>> parent of 2ea718e... Music FX
         </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP or older versions</item>

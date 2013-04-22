@@ -3,7 +3,7 @@
     <string name="camera_error_title">Camera error</string>
     <string name="cannot_connect_camera">"Can't connect to the camera."</string>
     <string name="camera_disabled">Camera has been disabled because of security policies.</string>
-    <string name="camera_label">Fotoaparāts</string>
+    <string name="camera_label">Camera</string>
     <string name="video_camera_label">Video</string>
     <string name="wait">Please wait...</string>
     <string name="no_storage">Insert an SD card before using the camera.</string>
