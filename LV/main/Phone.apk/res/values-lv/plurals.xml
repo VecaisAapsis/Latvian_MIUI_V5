@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">No data connection for %s minutes</item>
-        <item quantity="one">No data connection for %s minute</item>
+        <item quantity="other">%s minūti(-es) nav datu savienojuma.</item>
+        <item quantity="one">Nav datu savienojuma %s minūti</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
-        <item quantity="one">The phone will be in Emergency Callback mode for %s minute. While in this mode no apps using a data connection can be used. Do you want to exit now?</item>
+        <item quantity="other">Tālrunis ārkārtas atzvana režīmā atradīsies %s minūti(-es). Lietojot šo režīmu, nevar izmantot nevienu lietojumprogrammu, kurai nepieciešams datu savienojums. Vai vēlaties iziet tūlīt?</item>
+        <item quantity="one">Tālrunis ārkārtas atzvana režīmā atradīsies %s minūti. Lietojot šo režīmu, nevar izmantot nevienu lietotni, kurai nepieciešams datu savienojums. Vai vēlaties iziet tūlīt?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minutes. Do you want to exit now?"</item>
-        <item quantity="one">"The selected action isn't available while in the Emergency Callback mode. The phone will be in this mode for %s minute. Do you want to exit now?"</item>
+        <item quantity="other">Atlasītā darbība nav pieejama, izmantojot ārkārtas atzvana režīmu. Tālrunis šajā režīmā atradīsies %s minūti(-es). Vai vēlaties iziet tūlīt?</item>
+        <item quantity="one">Atlasītā darbība nav pieejama, izmantojot ārkārtas atzvana režīmu. Tālrunis šajā režīmā atradīsies %s minūti. Vai vēlaties iziet tūlīt?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Izvēlēti: %1$d</item>

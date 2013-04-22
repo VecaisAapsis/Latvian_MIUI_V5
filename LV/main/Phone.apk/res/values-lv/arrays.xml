@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="clir_display_values">
-        <item>Tīkla iestatījumi pēc noklusējuma</item>
+        <item>Tīkla noklusējums</item>
         <item>Slēpt numuru</item>
         <item>Rādīt numuru</item>
     </string-array>
@@ -12,10 +12,10 @@
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA / EvDo auto</item>
+        <item>CDMA / EvDo automātiski</item>
         <item>Tikai WCDMA</item>
         <item>Tikai GSM</item>
-        <item>GSM/WCDMA Ieteicams</item>
+        <item>Priekšroka GSM/WCDMA režīmam</item>
         </string-array>
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE/CDMA</item>
