@@ -2,6 +2,10 @@ MIUI v5 - MIUIAndroid XML Strings Latvian
 
 --finished-- bez bildem
 
+ApplicationsProvider.apk --finished-- 
+
+BackupRestoreConfirmation.apk
+
 OK Bluetooth.apk --finished-- 
 
 OK Browser.apk --finished--
@@ -12,13 +16,19 @@ Calculator.apk --finished--
 
 Calendar.apk --finished-- 
 
+CalendarProvider.apk--finished-- 
+
+CertInstaller.apk--finished-- 
+
 CloudService.apk --finished--
 
 OK Contacts.apk
 
-ContactsProvider.apk
+ContactsProvider.apk--finished-- 
 
-DeskClock.apk --finished-- 
+DrmProvider.apk--finished-- 
+
+DeskClock.apk 
 
 DownloadProviderUi.apk
 
@@ -28,7 +38,7 @@ FileExplorer.apk
 
 framework-miui-res.apk
 
-framework-res.apk
+framework-res.apk --finished-- 
 
 GuardProvider.apk
 
@@ -38,7 +48,7 @@ MiuiCompass.apk --finished--
 
 OK MiuiGallery.apk
 
-MiuiHome.apk --finished-- 
+MiuiHome.apk  
 
 OK MiuiSystemUI.apk
 
@@ -48,13 +58,13 @@ OK Mms.apk
 
 Music.apk
 
-MusicFX.apk
+MusicFX.apk--finished-- 
 
 NetworkAssistant.apk
 
 Notes.apk
 
-PackageInstaller.apk
+PackageInstaller.apk--finished-- 
 
 OK Phone.apk
 
@@ -64,7 +74,9 @@ QuickSearchBox.apk --finished--
 
 Settings.apk
 
-SettingsProvider.apk --finished-- 
+SettingsProvider.apk 
+
+Stk.apk--finished-- 
 
 SoundRecorder.apk
 
@@ -75,6 +87,8 @@ TelocationProvider.apk --finished--
 ThemeManager.apk
 
 Updater.apk
+
+VpnDialogs.apk--finished-- 
 
 OK XiaomiServiceFramework.apk
 
