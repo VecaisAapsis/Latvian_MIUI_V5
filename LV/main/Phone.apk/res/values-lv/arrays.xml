@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA / EvDo automātiski</item>
+        <item>CDMA/EvDo automātiski</item>
         <item>Tikai WCDMA</item>
         <item>Tikai GSM</item>
         <item>Priekšroka GSM/WCDMA režīmam</item>
@@ -26,9 +26,9 @@
         <item>Franču</item>
         <item>Spāņu</item>
         <item>Japāņu</item>
-        <item>Koreiešu</item>
+        <item>Korejiešu</item>
         <item>Ķīniešu</item>
-        <item>Ēbreju</item>
+        <item>Ebrēju</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Tikai vietējo</item>
