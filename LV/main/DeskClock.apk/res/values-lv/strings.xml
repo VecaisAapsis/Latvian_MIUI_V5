@@ -110,7 +110,7 @@
     <string name="snooze_confirm_message">"Iesnaudināšana ir atlikta. ，%s iesnaudināt vēlreiz.
     Arīdzan vari izslēgt šo modinātāju."</string>
     <string name="snooze_confirm_ok">Darīts!</string>
-    <string name="snooze_duration_title">Snooze duration</string>
+    <string name="snooze_duration_title">Atlikšanas ilgums</string>
     <string name="start">Starts</string>
     <string name="start_up">Starts</string>
     <string name="stopwatch_lap_empty_text">Nav fiksētu apļu</string>

@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="alarm_set">
-        <item>Будильник зазвонит менее чем через минуту</item>
-        <item>Будильник зазвонит через %1$s</item>
-        <item>Будильник зазвонит через %2$s</item>
-        <item>Будильник зазвонит через %1$s и %2$s</item>
-        <item>Будильник зазвонит через %3$s</item>
-        <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
-        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: mazāk nekā 1 minūte.</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: %1$s.</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: %2$s.</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: %1$s un %2$s.</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: %3$s.</item>
+        <item>Signāls ir iestatīts uz tālāk norādīto laiku kopš šī brīža: %1$s un %3$s.</item>
+        <item>Signāls iestatīts uz tālāk norādīto laiku kopš šī brīža: %2$s un %3$s.</item>
+        <item>Signāls ir iestatīts uz tālāk norādīto laiku kopš šī brīža: %1$s, %2$s un %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
+        <item>5 minūtes</item>
+        <item>10 minūtes</item>
+        <item>15 minūtes</item>
+        <item>20 minūtes</item>
+        <item>25 minūtes</item>
+        <item>30 minūtes</item>
+        <item>30 minūtes</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Отключено</item>
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
+        <item>Atslēgt</item>
+        <item>1 minūte</item>
+        <item>5 minūtes</item>
+        <item>10 minūtes</item>
+        <item>15 minūtes</item>
+        <item>20 minūtes</item>
+        <item>25 minūtes</item>
+        <item>30 minūtes</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Нет</item>
-        <item>Отложить</item>
-        <item>Отключить</item>
+        <item>Nav</item>
+        <item>Snauda</item>
+        <item>Noraidīt</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Будильник зазвонит менее чем через минуту</item>
-        <item>Будильник зазвонит через %1$s</item>
-        <item>Будильник зазвонит через %2$s</item>
-        <item>Будильник зазвонит через %1$s и %2$s</item>
-        <item>Будильник зазвонит через %3$s</item>
-        <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
-        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+        <item>Modinātājs iezvanīsies pēc nepilnas minūtes</item>
+        <item>Modinātājs iezvanīsies pēc %1$s</item>
+        <item>Modinātājs iezvanīsies pēc %2$s</item>
+        <item>Modinātājs iezvanīsies pēc %1$s un %2$s</item>
+        <item>Modinātājs iezvanīsies pēc %3$s</item>
+        <item>Modinātājs iezvanīsies pēc %1$s un %3$s</item>
+        <item>Modinātājs iezvanīsies pēc %2$s un %3$s</item>
+        <item>Modinātājs iezvanīsies pēc %1$s, %2$s un %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>"Вчера "</item>
-        <item>"Сегодня "</item>
-        <item>"Завтра "</item>
+        <item>"Vakar "</item>
+        <item>"Šodien "</item>
+        <item>"Rīt "</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Один раз</item>
-        <item>Ежедневно</item>
-        <item>"Рабочие дни "</item>
-        <item>С понедельника по пятницу</item>
-        <item>Выбрать дни</item>
+        <item>Vienu reizi</item>
+        <item>Katru dienu</item>
+        <item>"Darbdienas "</item>
+        <item>No pirmdienas līdz piektdienai</item>
+        <item>Izvēlēties dienas</item>
     </string-array>
     <string-array name="alarm_count_entries">
         <item>1</item>
@@ -62,6 +62,6 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>Выкл.</item>
+        <item>Izsl.</item>
     </string-array>
 </resources>

@@ -28,7 +28,7 @@ ContactsProvider.apk--finished--
 
 DrmProvider.apk--finished-- 
 
-DeskClock.apk 
+DeskClock.apk --finished-- 
 
 DownloadProviderUi.apk
 
