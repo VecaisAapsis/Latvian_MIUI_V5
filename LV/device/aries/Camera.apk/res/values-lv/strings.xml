@@ -155,7 +155,7 @@
     <string name="pref_camera_scenemode_entry_backlight">Backlight</string>
     <string name="pref_camera_scenemode_entry_flowers">Flowers</string>
     <string name="pref_camera_scenedetect_title">Auto Scene Detection</string>
-    <string name="not_selectable_in_scene_mode">Not selectable in scene mode.</string>
+    <string name="not_selectable_in_scene_mode">Nevar atlasīt ainavas režīmā.</string>
     <string name="pref_exposure_title">Exposure</string>
     <string name="pref_camera_denoise_title">Wavelet Denoise Mode</string>
     <string name="pref_camera_iso_title">Select ISO</string>
@@ -194,12 +194,12 @@
     <string name="pano_how_to_use_prompt">Press shutter button to capture panorama photo.</string>
     <string name="pano_how_to_use_prompt_to_move">Move the device smoothly</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continue moving the device</string>
-    <string name="pano_dialog_prepare_preview">Preparing panorama</string>
+    <string name="pano_dialog_prepare_preview">Notiek panorāmas sagatavošana</string>
     <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
     <string name="pano_dialog_panorama_failed">"Couldn't save panorama."</string>
-    <string name="pano_dialog_title">Panorama</string>
+    <string name="pano_dialog_title">Panorāma</string>
     <string name="pref_camera_panoramamode_title">Panorama</string>
-    <string name="pano_review_saving_indication_str">Saving...</string>
+    <string name="pano_review_saving_indication_str">Saglabā...</string>
     <string name="tap_to_focus">Touch to focus.</string>
     <string name="effect_none">None</string>
     <string name="effect_goofy_face_squeeze">Squeeze</string>
@@ -308,9 +308,9 @@ Step out of view for a moment"</string>
     <string name="set_image">Set picture as</string>
     <string name="details">Details</string>
     <string name="show_on_map">Show on map</string>
-    <string name="select_image">Select photo</string>
+    <string name="select_image">Atlasiet fotoattēlu</string>
     <string name="select_video">Select video</string>
-    <string name="select_item">Select item</string>
+    <string name="select_item">Atlasiet vienumu</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="import_complete">Import completed</string>
@@ -353,7 +353,7 @@ Step out of view for a moment"</string>
     <string name="orientation">Orientation</string>
     <string name="path">Path</string>
     <string name="time">Time</string>
-    <string name="title">Title</string>
+    <string name="title">Nosaukums</string>
     <string name="group_by">Group by</string>
     <string name="group_by_album">By album</string>
     <string name="group_by_faces">By people</string>

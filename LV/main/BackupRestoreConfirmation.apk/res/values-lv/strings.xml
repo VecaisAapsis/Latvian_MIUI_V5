@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="backup_confirm_title">Full backup</string>
-    <string name="restore_confirm_title">Full restore</string>
-    <string name="backup_confirm_text">"A full backup of all data to a connected desktop computer has been requested. Do you want to allow this to happen?
+    <string name="backup_confirm_title">Pilna dublēšana</string>
+    <string name="restore_confirm_title">Pilna atjaunošana</string>
+    <string name="backup_confirm_text">"Ir pieprasīta visu datu pilnīga dublēšana savienotā galda datorā. Vai vēlaties to atļaut?
 
-If you did not request the backup yourself, do not allow the operation to proceed."</string>
-    <string name="allow_backup_button_label">Back up my data</string>
-    <string name="deny_backup_button_label">Do not back up</string>
-    <string name="restore_confirm_text">"A full restore of all data from a connected desktop computer has been requested. Do you want to allow this to happen?
+Ja neesat pieprasījis dublēšanu, neatļaujiet turpināt šo darbību."</string>
+    <string name="allow_backup_button_label">Dublēt manus datus</string>
+    <string name="deny_backup_button_label">Neveidot dublējumu</string>
+    <string name="restore_confirm_text">"Ir pieprasīta visu savienotā galda datora datu pilnīga atjaunošana. Vai vēlaties to atļaut?
 
-If you did not request the restore yourself, do not allow the operation to proceed. This will replace any data currently on the device!"</string>
-    <string name="allow_restore_button_label">Restore my data</string>
-    <string name="deny_restore_button_label">Do not restore</string>
-    <string name="current_password_text">Please enter your current backup password below:</string>
-    <string name="device_encryption_restore_text">Please enter your device encryption password below.</string>
-    <string name="device_encryption_backup_text">Please enter your device encryption password below. This will also be used to encrypt the backup archive.</string>
-    <string name="backup_enc_password_text">Please enter a password to use for encrypting the full backup data. If this is left blank, your current backup password will be used:</string>
-    <string name="backup_enc_password_optional">If you wish to encrypt the full backup data, enter a password below:</string>
-    <string name="restore_enc_password_text">If the restore data is encrypted, please enter the password below:</string>
-    <string name="toast_backup_started">Backup starting...</string>
-    <string name="toast_backup_ended">Backup finished</string>
-    <string name="toast_restore_started">Restore starting...</string>
-    <string name="toast_restore_ended">Restore ended</string>
-    <string name="toast_timeout">Operation timed out</string>
+Ja neesat pieprasījis atjaunošanu, neatļaujiet turpināt šo darbību. Tās rezultātā tiks aizstāti visi pašreiz ierīcē esošie dati!"</string>
+    <string name="allow_restore_button_label">Atjaunot manus datus</string>
+    <string name="deny_restore_button_label">Neatjaunot</string>
+    <string name="current_password_text">Lūdzu, tālāk ievadiet pašreizējo dublējuma paroli:</string>
+    <string name="device_encryption_restore_text">Lūdzu, ievadiet ierīces šifrēšanas paroli.</string>
+    <string name="device_encryption_backup_text">Lūdzu, ievadiet ierīces šifrēšanas paroli. Tā tiks arī izmantota, lai šifrētu dublējuma arhīvu.</string>
+    <string name="backup_enc_password_text">Lūdzu, ievadiet paroli, kas tiks izmantota dublējuma datu pilnīgai šifrēšanai. Ja paroles lauciņu atstāsiet tukšu, tiks izmantota jūsu pašreizējā dublējuma parole:</string>
+    <string name="backup_enc_password_optional">Ja vēlaties pilnībā šifrēt dublējuma datus, tālāk ievadiet paroli:</string>
+    <string name="restore_enc_password_text">Ja atjaunošanas dati ir šifrēti, lūdzu, ievadiet tālāk paroli:</string>
+    <string name="toast_backup_started">Tiek sākta dublēšana...</string>
+    <string name="toast_backup_ended">Dublēšana ir pabeigta.</string>
+    <string name="toast_restore_started">Tiek sākta atjaunošana...</string>
+    <string name="toast_restore_ended">Atjaunošana tika beigta.</string>
+    <string name="toast_timeout">Iestājās darbības noildze.</string>
 </resources>
