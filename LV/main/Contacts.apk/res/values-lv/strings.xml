@@ -146,8 +146,8 @@ If you are using the contact sync service, contact info in the cloud will also b
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix"/>
     <string name="config_export_file_suffix"/>
-    <string name="config_export_vcard_type">default</string>
-    <string name="config_import_vcard_type">default</string>
+    <string name="config_export_vcard_type">noklusējuma</string>
+    <string name="config_import_vcard_type">noklusējuma</string>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Vai tiešām vēlaties dzēst %s zvanu žurnālus?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Vai tiešām vēlaties dzēst kontaktu zvanu žurnālus?"</string>
