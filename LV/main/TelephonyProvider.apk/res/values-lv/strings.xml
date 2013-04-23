@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Telefona/Īsziņu krātuve</string>
+    <string name="app_label">Tālr./ziņojumapm. krāt.</string>
     <string name="sms_provider_label">Īsziņas</string>
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">īsziņas</string>
